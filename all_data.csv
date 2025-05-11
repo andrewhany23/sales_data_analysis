@@ -1,0 +1,5001 @@
+date,location,sales,payment_method
+2023-10-09,Cairo,2137,debit card
+2023-10-14,Cairo,1819,mobile payment
+2023-01-14,Amsterdam,2908,mobile payment
+2023-01-19,Toronto,1985,debit card
+2023-11-13,Mexico City,2756,mobile payment
+2023-09-23,Moscow,1170,bank transfer
+2023-10-29,Mexico City,2205,debit card
+2023-03-18,Mexico City,1750,cryptocurrency
+2023-01-11,Paris,476,credit card
+2023-09-20,Dubai,2540,credit card
+2023-01-05,Paris,2032,cryptocurrency
+2023-04-08,Barcelona,2786,bank transfer
+2023-06-09,Barcelona,2578,cash
+2023-05-17,London,4697,mobile payment
+2023-08-28,Bangkok,3253,mobile payment
+2023-10-06,Bangkok,1989,voucher
+2023-07-30,Seoul,2248,bank transfer
+2023-08-01,Berlin,1356,cash
+2023-01-24,Seoul,721,bank transfer
+2023-03-16,Mumbai,295,credit card
+2023-05-18,London,743,bank transfer
+2023-04-12,Bangkok,4722,voucher
+2023-01-04,Seoul,1125,debit card
+2023-09-30,Mexico City,877,mobile payment
+2023-08-05,Sydney,4911,cash
+2023-09-07,Istanbul,81,cryptocurrency
+2023-01-12,Toronto,2860,cryptocurrency
+2023-08-26,Amsterdam,2429,credit card
+2023-11-10,New York,4351,mobile payment
+2023-11-02,Amsterdam,1361,bank transfer
+2023-12-05,Istanbul,4096,debit card
+2023-03-24,Toronto,905,cash
+2023-05-17,Tokyo,3913,credit card
+2023-06-13,Mexico City,4125,bank transfer
+2023-01-18,Amsterdam,677,debit card
+2023-04-23,Berlin,3690,debit card
+2023-01-31,Amsterdam,3726,bank transfer
+2023-03-08,Amsterdam,4678,bank transfer
+2023-12-25,New York,4316,mobile payment
+2023-09-14,Mexico City,271,bank transfer
+2023-07-07,Bangkok,2622,debit card
+2023-01-05,Lagos,4383,credit card
+2023-05-14,Seoul,2312,bank transfer
+2023-03-26,Bangkok,2111,credit card
+2023-07-21,Barcelona,3678,cryptocurrency
+2023-04-21,Amsterdam,3507,mobile payment
+2023-09-04,Berlin,602,mobile payment
+2023-03-03,Rome,3599,cryptocurrency
+2023-04-02,Amsterdam,657,debit card
+2023-09-22,São Paulo,3362,cash
+2023-07-17,Moscow,1118,debit card
+2023-03-30,Rome,2785,debit card
+2023-05-17,Moscow,4438,cash
+2023-11-12,Dubai,2298,voucher
+2023-05-06,São Paulo,2581,mobile payment
+2023-04-26,Moscow,1355,cryptocurrency
+2023-02-21,Istanbul,4006,mobile payment
+2023-07-31,Paris,2771,cryptocurrency
+2023-10-12,London,3088,voucher
+2023-05-20,Bangkok,4773,voucher
+2023-11-03,Lagos,709,cash
+2023-06-05,Rome,1255,mobile payment
+2023-09-22,Sydney,72,cryptocurrency
+2023-04-04,Cairo,3514,cash
+2023-11-03,Tokyo,4972,mobile payment
+2023-05-25,Seoul,3934,debit card
+2023-01-30,Sydney,2719,mobile payment
+2023-01-09,Sydney,557,credit card
+2023-07-12,Tokyo,4398,credit card
+2023-02-03,Rome,1871,credit card
+2023-12-05,Seoul,2257,mobile payment
+2023-12-27,Amsterdam,2933,bank transfer
+2023-05-05,Amsterdam,1734,mobile payment
+2023-11-16,Moscow,2411,voucher
+2023-10-12,Amsterdam,1746,mobile payment
+2023-02-08,Dubai,3852,cash
+2023-05-03,Dubai,2169,cryptocurrency
+2023-09-12,Paris,3394,voucher
+2023-07-09,Seoul,635,cash
+2023-06-30,Tokyo,4870,credit card
+2023-03-02,Bangkok,1036,debit card
+2023-05-26,Istanbul,1109,cryptocurrency
+2023-03-02,Istanbul,3040,bank transfer
+2023-11-29,Barcelona,4843,voucher
+2023-12-07,Seoul,4883,voucher
+2023-07-29,Paris,3565,mobile payment
+2023-09-20,Mumbai,3894,debit card
+2023-11-22,Rome,2840,debit card
+2023-09-19,Mumbai,365,credit card
+2023-05-26,Barcelona,919,cryptocurrency
+2023-06-06,Dubai,3756,cash
+2023-08-06,Mumbai,380,cash
+2023-10-12,Barcelona,3733,cash
+2023-04-14,Sydney,4325,bank transfer
+2023-05-28,Moscow,4681,cryptocurrency
+2023-03-26,Barcelona,496,bank transfer
+2023-11-11,Bangkok,3676,voucher
+2023-01-03,London,4300,mobile payment
+2023-04-01,Paris,4752,mobile payment
+2023-01-12,Lagos,3551,debit card
+2023-09-29,Sydney,3974,cryptocurrency
+2023-07-08,Cairo,3820,cash
+2023-04-22,Mexico City,3327,bank transfer
+2023-02-26,Amsterdam,3914,mobile payment
+2023-04-28,Dubai,2414,cash
+2023-11-25,Seoul,3144,credit card
+2023-06-13,Mexico City,55,bank transfer
+2023-04-30,Berlin,2081,debit card
+2023-06-16,Sydney,2985,debit card
+2023-05-24,Paris,1098,credit card
+2023-05-17,Sydney,4494,mobile payment
+2023-04-27,Tokyo,4600,bank transfer
+2023-10-05,Dubai,34,bank transfer
+2023-02-17,Cairo,3234,mobile payment
+2023-12-03,Toronto,169,credit card
+2023-07-07,Sydney,1356,debit card
+2023-01-02,Sydney,1172,voucher
+2023-07-10,Sydney,1852,credit card
+2023-09-03,Amsterdam,989,bank transfer
+2023-02-09,Moscow,1725,debit card
+2023-10-18,Amsterdam,1262,cryptocurrency
+2023-04-21,Barcelona,1747,bank transfer
+2023-12-10,Berlin,616,voucher
+2023-01-12,Dubai,472,bank transfer
+2023-04-23,Rome,94,cash
+2023-03-21,São Paulo,4245,bank transfer
+2023-09-19,Dubai,3643,mobile payment
+2023-10-27,Sydney,1316,voucher
+2023-07-18,Tokyo,1864,cash
+2023-11-01,Seoul,375,voucher
+2023-01-20,Mumbai,1624,voucher
+2023-11-29,Tokyo,996,voucher
+2023-12-24,Seoul,3798,cryptocurrency
+2023-08-05,Moscow,2123,credit card
+2023-02-12,London,4941,credit card
+2023-08-26,Rome,3605,mobile payment
+2023-10-01,Moscow,3082,bank transfer
+2023-01-25,Sydney,1841,cryptocurrency
+2023-12-19,Paris,4860,cryptocurrency
+2023-04-24,Istanbul,1637,mobile payment
+2023-10-16,Mexico City,2844,bank transfer
+2023-11-29,Seoul,407,voucher
+2023-05-17,Bangkok,2852,voucher
+2023-05-20,Paris,4201,mobile payment
+2023-07-23,Moscow,1301,voucher
+2023-12-16,Seoul,613,debit card
+2023-01-06,Tokyo,2107,cryptocurrency
+2023-02-15,Bangkok,2755,cash
+2023-10-28,Cairo,362,cryptocurrency
+2023-03-11,Berlin,1800,mobile payment
+2023-07-25,Istanbul,1825,bank transfer
+2023-10-27,Dubai,4619,debit card
+2023-04-25,Paris,4863,mobile payment
+2023-10-17,Istanbul,3748,cryptocurrency
+2023-03-29,Dubai,3172,cash
+2023-08-28,Seoul,1702,voucher
+2023-08-15,Tokyo,4927,cash
+2023-08-06,Cairo,2081,credit card
+2023-04-24,Mumbai,805,cryptocurrency
+2023-11-12,Dubai,3527,credit card
+2023-05-09,Rome,276,cash
+2023-03-05,Amsterdam,668,credit card
+2023-09-01,Berlin,551,voucher
+2023-06-26,Dubai,843,voucher
+2023-12-25,Paris,4847,bank transfer
+2023-04-09,Mexico City,2184,mobile payment
+2023-12-26,Mexico City,1443,credit card
+2023-02-21,Dubai,4401,mobile payment
+2023-06-27,Istanbul,2557,cryptocurrency
+2023-03-02,Tokyo,4078,credit card
+2023-12-04,New York,740,voucher
+2023-10-10,São Paulo,1845,cryptocurrency
+2023-07-24,London,684,debit card
+2023-05-04,Barcelona,4806,debit card
+2023-12-16,Paris,4849,debit card
+2023-02-23,Amsterdam,650,credit card
+2023-02-05,New York,3808,credit card
+2023-06-19,London,374,cryptocurrency
+2023-03-20,London,3009,cryptocurrency
+2023-05-03,Barcelona,781,cash
+2023-05-20,São Paulo,4705,debit card
+2023-12-14,Tokyo,2338,credit card
+2023-06-01,Toronto,990,cryptocurrency
+2023-06-12,Istanbul,3093,cryptocurrency
+2023-10-04,Istanbul,4140,bank transfer
+2023-12-05,Barcelona,4721,cash
+2023-06-12,Mumbai,3849,cryptocurrency
+2023-05-13,Barcelona,2284,cash
+2023-11-03,Berlin,301,credit card
+2023-05-07,Dubai,3178,credit card
+2023-03-01,Rome,4724,debit card
+2023-04-30,Moscow,2000,debit card
+2023-11-10,Moscow,4236,cash
+2023-10-26,Mumbai,862,mobile payment
+2023-03-23,London,2169,debit card
+2023-10-30,Sydney,3323,bank transfer
+2023-07-24,Paris,4794,cash
+2023-04-30,Seoul,1556,cryptocurrency
+2023-12-14,Bangkok,446,debit card
+2023-07-17,Mexico City,1431,cryptocurrency
+2023-10-14,Barcelona,2957,bank transfer
+2023-04-15,Amsterdam,2735,cash
+2023-11-22,Sydney,3193,debit card
+2023-01-02,Tokyo,1064,cryptocurrency
+2023-08-14,Moscow,4063,cash
+2023-11-05,London,442,cash
+2023-07-03,Rome,3500,debit card
+2023-04-23,Berlin,1076,cryptocurrency
+2023-07-12,Mumbai,3789,bank transfer
+2023-01-04,Tokyo,814,debit card
+2023-11-24,Mexico City,3357,mobile payment
+2023-04-01,Amsterdam,31,voucher
+2023-12-11,Paris,4150,credit card
+2023-01-30,Dubai,1144,cryptocurrency
+2023-12-02,Cairo,3487,debit card
+2023-05-23,Cairo,919,bank transfer
+2023-01-04,Lagos,3746,cryptocurrency
+2023-03-09,Cairo,4158,cryptocurrency
+2023-05-11,London,2155,cash
+2023-08-01,Tokyo,2264,credit card
+2023-04-07,Istanbul,4188,bank transfer
+2023-07-28,Barcelona,65,mobile payment
+2023-07-03,São Paulo,4417,bank transfer
+2023-12-24,Sydney,3053,mobile payment
+2023-06-16,London,2997,voucher
+2023-05-18,Paris,566,debit card
+2023-08-12,Tokyo,2225,mobile payment
+2023-07-01,Amsterdam,4261,cryptocurrency
+2023-12-09,London,2900,debit card
+2023-06-07,Bangkok,3357,bank transfer
+2023-02-23,Istanbul,4317,cash
+2023-06-16,São Paulo,3132,cash
+2023-06-27,Berlin,4330,credit card
+2023-10-10,Istanbul,3926,debit card
+2023-05-20,Mexico City,288,bank transfer
+2023-02-24,São Paulo,4646,credit card
+2023-10-12,Cairo,365,debit card
+2023-01-12,Bangkok,4844,cryptocurrency
+2023-11-05,Berlin,205,cash
+2023-03-20,Toronto,631,cash
+2023-01-16,Cairo,4788,cash
+2023-02-01,London,4705,debit card
+2023-09-02,São Paulo,4685,mobile payment
+2023-04-06,Dubai,4161,cash
+2023-10-21,Moscow,43,bank transfer
+2023-11-20,São Paulo,3024,debit card
+2023-02-05,Dubai,2640,cash
+2023-05-28,Tokyo,2824,credit card
+2023-04-09,Istanbul,1085,voucher
+2023-12-30,São Paulo,359,cryptocurrency
+2023-12-11,Sydney,483,voucher
+2023-10-27,Mexico City,378,voucher
+2023-10-18,Bangkok,4516,mobile payment
+2023-01-11,Barcelona,3250,debit card
+2023-06-28,Barcelona,925,mobile payment
+2023-03-25,Rome,872,voucher
+2023-12-21,Seoul,4346,credit card
+2023-10-06,Seoul,2145,debit card
+2023-02-25,Rome,3169,cryptocurrency
+2023-07-28,Sydney,2442,cryptocurrency
+2023-07-29,Moscow,2136,mobile payment
+2023-04-05,Barcelona,3426,cryptocurrency
+2023-12-28,London,2214,debit card
+2023-10-28,New York,3219,cash
+2023-09-10,Rome,692,cash
+2023-04-21,Sydney,1706,debit card
+2023-06-28,Tokyo,1255,cash
+2023-12-15,Rome,4688,bank transfer
+2023-11-08,Toronto,2613,voucher
+2023-08-08,Amsterdam,1083,credit card
+2023-06-16,Rome,4590,cash
+2023-05-20,Sydney,67,bank transfer
+2023-11-03,Amsterdam,58,debit card
+2023-12-19,Dubai,2419,credit card
+2023-03-08,Mexico City,4807,debit card
+2023-03-01,Seoul,4969,voucher
+2023-12-26,Cairo,4204,bank transfer
+2023-12-05,Bangkok,4771,bank transfer
+2023-05-24,Mumbai,4765,cash
+2023-10-22,Mumbai,2008,credit card
+2023-07-19,Lagos,227,bank transfer
+2023-04-17,Mumbai,621,bank transfer
+2023-07-10,Rome,10,cash
+2023-09-03,Amsterdam,1733,bank transfer
+2023-02-25,Berlin,2472,mobile payment
+2023-04-19,Rome,3953,cryptocurrency
+2023-08-13,Cairo,3992,cryptocurrency
+2023-07-08,Paris,3818,bank transfer
+2023-02-17,Dubai,4220,cryptocurrency
+2023-07-14,Toronto,3345,voucher
+2023-01-24,Lagos,3969,credit card
+2023-06-05,Mexico City,4755,mobile payment
+2023-05-31,Seoul,3030,mobile payment
+2023-12-04,São Paulo,1060,credit card
+2023-08-22,Seoul,1391,debit card
+2023-07-28,Cairo,4753,bank transfer
+2023-08-20,Paris,109,cryptocurrency
+2023-07-17,Rome,1957,cryptocurrency
+2023-11-29,São Paulo,2582,voucher
+2023-12-05,Sydney,4163,debit card
+2023-01-08,São Paulo,1248,debit card
+2023-12-05,Mumbai,4712,credit card
+2023-01-18,Rome,517,debit card
+2023-04-14,Mexico City,1472,voucher
+2023-06-21,Berlin,4458,bank transfer
+2023-02-13,Lagos,1521,credit card
+2023-03-24,Amsterdam,782,debit card
+2023-01-10,Sydney,2075,mobile payment
+2023-05-26,Bangkok,3432,bank transfer
+2023-12-28,New York,3115,cryptocurrency
+2023-10-09,Barcelona,2598,mobile payment
+2023-07-13,Bangkok,1168,debit card
+2023-11-21,Sydney,2041,debit card
+2023-12-17,Dubai,3445,bank transfer
+2023-09-04,London,1689,bank transfer
+2023-05-23,Seoul,3031,bank transfer
+2023-06-18,Paris,3004,cash
+2023-12-07,London,4837,debit card
+2023-09-13,London,660,voucher
+2023-07-29,Paris,1583,voucher
+2023-04-16,Berlin,4763,mobile payment
+2023-12-31,Istanbul,4165,voucher
+2023-03-30,Amsterdam,2483,mobile payment
+2023-08-28,Bangkok,1333,credit card
+2023-02-02,Barcelona,2083,bank transfer
+2023-06-02,Toronto,2451,cryptocurrency
+2023-01-11,London,350,credit card
+2023-06-29,Tokyo,4669,cash
+2023-03-09,Lagos,3567,cash
+2023-10-29,New York,1120,credit card
+2023-11-26,Cairo,1445,credit card
+2023-09-10,Cairo,3228,bank transfer
+2023-11-18,Lagos,1053,debit card
+2023-03-02,Toronto,134,bank transfer
+2023-08-09,Mexico City,1894,credit card
+2023-09-25,Cairo,2245,debit card
+2023-12-05,Bangkok,1948,mobile payment
+2023-09-12,London,3821,voucher
+2023-10-13,Cairo,1062,mobile payment
+2023-08-24,São Paulo,106,mobile payment
+2023-04-29,Sydney,238,cash
+2023-02-02,New York,4105,credit card
+2023-06-10,Tokyo,391,bank transfer
+2023-12-17,Mexico City,75,mobile payment
+2023-07-08,Paris,3557,cash
+2023-02-11,Toronto,1435,credit card
+2023-01-12,Istanbul,1108,credit card
+2023-11-28,Lagos,2748,cryptocurrency
+2023-09-01,Bangkok,3882,cash
+2023-04-15,Mexico City,3917,mobile payment
+2023-10-26,Moscow,2063,credit card
+2023-04-23,Tokyo,3169,cash
+2023-11-05,Bangkok,1416,cash
+2023-06-23,Toronto,665,bank transfer
+2023-08-19,Berlin,1701,cash
+2023-09-30,Bangkok,4223,cash
+2023-08-03,Sydney,4736,voucher
+2023-06-19,Moscow,1179,debit card
+2023-08-14,New York,2238,mobile payment
+2023-07-25,Paris,4181,debit card
+2023-04-15,Seoul,1958,voucher
+2023-12-09,Sydney,4977,cash
+2023-09-20,Barcelona,3791,cash
+2023-11-22,Cairo,2157,cryptocurrency
+2023-02-17,Istanbul,4526,cryptocurrency
+2023-11-30,Bangkok,4723,voucher
+2023-05-11,Toronto,3865,voucher
+2023-10-04,Cairo,4382,voucher
+2023-11-06,Dubai,3286,bank transfer
+2023-04-21,Cairo,1465,credit card
+2023-10-13,Paris,4520,cash
+2023-09-19,Tokyo,86,voucher
+2023-12-04,Berlin,2710,voucher
+2023-12-06,Paris,1798,bank transfer
+2023-01-12,Toronto,4496,credit card
+2023-02-14,Cairo,2229,voucher
+2023-02-12,Dubai,4533,debit card
+2023-08-16,Dubai,2655,debit card
+2023-09-30,Sydney,419,mobile payment
+2023-04-21,Seoul,4273,cash
+2023-03-22,Seoul,1324,bank transfer
+2023-06-28,Seoul,2163,credit card
+2023-12-05,Moscow,1334,mobile payment
+2023-10-22,São Paulo,3987,credit card
+2023-02-24,Berlin,1298,voucher
+2023-07-10,Mexico City,1790,debit card
+2023-06-30,São Paulo,4248,debit card
+2023-02-13,Lagos,1692,bank transfer
+2023-10-05,Dubai,612,mobile payment
+2023-10-30,Istanbul,180,debit card
+2023-07-10,Amsterdam,4366,cash
+2023-07-14,Berlin,450,cryptocurrency
+2023-08-14,Cairo,4250,bank transfer
+2023-08-18,Amsterdam,1604,cryptocurrency
+2023-11-18,Toronto,2620,credit card
+2023-01-25,Berlin,3733,mobile payment
+2023-02-12,Tokyo,4434,cryptocurrency
+2023-12-28,Lagos,2370,credit card
+2023-02-12,Lagos,2050,bank transfer
+2023-12-11,Mexico City,2188,debit card
+2023-03-21,Moscow,3211,credit card
+2023-10-12,Istanbul,4374,cash
+2023-04-24,Toronto,1639,cash
+2023-05-09,London,265,cryptocurrency
+2023-03-12,Moscow,3967,bank transfer
+2023-03-01,Sydney,4543,cash
+2023-12-11,Amsterdam,4937,bank transfer
+2023-11-16,Cairo,316,bank transfer
+2023-03-06,Rome,1653,bank transfer
+2023-06-09,Mumbai,3267,cash
+2023-12-07,Lagos,2023,cash
+2023-12-18,Amsterdam,3896,mobile payment
+2023-08-25,Bangkok,3774,cash
+2023-08-08,Mexico City,4017,cryptocurrency
+2023-10-28,Paris,4834,bank transfer
+2023-03-26,New York,428,bank transfer
+2023-05-19,Bangkok,1485,mobile payment
+2023-09-29,Rome,4391,voucher
+2023-07-19,Toronto,2370,debit card
+2023-08-01,Seoul,1068,cash
+2023-06-20,Moscow,1958,cryptocurrency
+2023-02-09,London,826,voucher
+2023-08-03,Mumbai,3275,bank transfer
+2023-05-03,Bangkok,1129,debit card
+2023-12-17,Amsterdam,2190,voucher
+2023-08-18,Paris,879,cryptocurrency
+2023-08-28,Lagos,1505,bank transfer
+2023-12-07,London,3955,credit card
+2023-05-13,Tokyo,4795,cryptocurrency
+2023-03-01,Istanbul,1881,cash
+2023-05-10,Toronto,3073,mobile payment
+2023-06-03,Mexico City,3149,cryptocurrency
+2023-12-21,Tokyo,244,voucher
+2023-04-29,Mumbai,2761,cryptocurrency
+2023-11-02,Amsterdam,1261,cash
+2023-09-05,Tokyo,3588,credit card
+2023-02-01,Dubai,2820,debit card
+2023-05-09,Amsterdam,3294,cash
+2023-11-15,London,2671,credit card
+2023-03-04,Istanbul,882,cash
+2023-02-11,Sydney,1931,mobile payment
+2023-05-13,Berlin,4728,credit card
+2023-01-20,Rome,703,cryptocurrency
+2023-04-24,Moscow,4746,voucher
+2023-01-23,Tokyo,275,cryptocurrency
+2023-06-19,Mumbai,346,voucher
+2023-01-31,Sydney,237,cash
+2023-10-15,São Paulo,4439,debit card
+2023-09-22,Moscow,1947,cash
+2023-10-06,Mexico City,2973,voucher
+2023-08-03,Sydney,632,debit card
+2023-11-10,Mumbai,4140,bank transfer
+2023-03-16,Mumbai,428,cryptocurrency
+2023-12-04,Cairo,1956,mobile payment
+2023-08-15,Mexico City,4559,cash
+2023-11-29,London,1122,mobile payment
+2023-12-13,Rome,1766,mobile payment
+2023-10-15,Rome,2667,bank transfer
+2023-10-11,Cairo,1943,bank transfer
+2023-11-11,Mumbai,138,credit card
+2023-06-23,Rome,4763,bank transfer
+2023-07-14,Dubai,4979,voucher
+2023-06-02,Tokyo,343,credit card
+2023-03-10,Mexico City,539,bank transfer
+2023-05-25,Bangkok,279,cryptocurrency
+2023-01-29,New York,1448,bank transfer
+2023-12-04,Seoul,2069,cash
+2023-12-23,Mumbai,4751,cash
+2023-07-11,Lagos,4293,bank transfer
+2023-10-20,New York,4702,credit card
+2023-08-13,Berlin,2134,bank transfer
+2023-04-13,Dubai,798,cash
+2023-07-16,Lagos,1146,debit card
+2023-11-20,Paris,1591,cryptocurrency
+2023-01-17,Moscow,4616,credit card
+2023-07-21,Moscow,2331,cryptocurrency
+2023-05-23,Berlin,3717,bank transfer
+2023-05-31,Sydney,2986,bank transfer
+2023-08-24,Dubai,2018,voucher
+2023-08-05,Mexico City,3476,cash
+2023-12-09,Barcelona,3267,bank transfer
+2023-02-20,Mumbai,941,cryptocurrency
+2023-07-31,Berlin,2496,bank transfer
+2023-09-28,Istanbul,1318,cryptocurrency
+2023-04-09,Cairo,4194,debit card
+2023-04-13,São Paulo,2240,mobile payment
+2023-07-15,Berlin,3073,bank transfer
+2023-10-27,Cairo,2317,voucher
+2023-02-03,Bangkok,806,voucher
+2023-03-31,Mumbai,1068,cash
+2023-06-27,London,1233,debit card
+2023-04-26,Dubai,2145,mobile payment
+2023-02-10,Istanbul,4090,cryptocurrency
+2023-04-17,Bangkok,2500,credit card
+2023-01-07,Sydney,3443,credit card
+2023-03-17,Moscow,847,debit card
+2023-09-17,New York,4629,mobile payment
+2023-07-09,Berlin,956,debit card
+2023-08-05,Mumbai,1821,voucher
+2023-09-07,Cairo,41,voucher
+2023-01-17,Tokyo,241,mobile payment
+2023-05-15,New York,3132,voucher
+2023-10-13,Rome,3487,credit card
+2023-05-01,New York,989,mobile payment
+2023-08-04,Rome,1998,bank transfer
+2023-05-01,Moscow,4076,credit card
+2023-12-05,Cairo,2315,voucher
+2023-08-01,Lagos,1525,cryptocurrency
+2023-09-02,Amsterdam,2577,voucher
+2023-06-08,Tokyo,3517,bank transfer
+2023-05-30,Toronto,3914,debit card
+2023-10-03,Mumbai,3263,credit card
+2023-03-13,Berlin,4701,mobile payment
+2023-08-14,Mumbai,1720,voucher
+2023-07-01,London,4419,debit card
+2023-08-03,Lagos,2471,credit card
+2023-05-30,Tokyo,3575,cash
+2023-04-24,Cairo,52,bank transfer
+2023-03-06,São Paulo,213,credit card
+2023-11-24,London,4235,cryptocurrency
+2023-12-15,Sydney,2521,bank transfer
+2023-04-30,Cairo,3513,voucher
+2023-05-27,Bangkok,754,cryptocurrency
+2023-07-21,São Paulo,2201,cryptocurrency
+2023-04-06,Amsterdam,1153,credit card
+2023-04-14,New York,4065,voucher
+2023-12-24,Mumbai,3525,cryptocurrency
+2023-08-04,Seoul,3581,cash
+2023-02-14,New York,995,bank transfer
+2023-02-08,Toronto,14,mobile payment
+2023-01-21,Mexico City,2826,debit card
+2023-11-21,Sydney,3524,cryptocurrency
+2023-01-06,Seoul,4552,debit card
+2023-09-06,Cairo,3513,cryptocurrency
+2023-06-18,Bangkok,1529,credit card
+2023-06-06,New York,3431,cash
+2023-10-03,Bangkok,734,debit card
+2023-04-05,Istanbul,426,voucher
+2023-06-18,Barcelona,2733,bank transfer
+2023-11-14,Seoul,2186,debit card
+2023-06-09,Rome,773,cash
+2023-01-13,Mumbai,2243,credit card
+2023-03-29,Seoul,2950,cryptocurrency
+2023-11-04,London,4921,cash
+2023-10-25,London,3359,bank transfer
+2023-07-17,Paris,1605,cryptocurrency
+2023-03-25,Amsterdam,4362,mobile payment
+2023-12-03,Tokyo,4772,voucher
+2023-01-30,Mumbai,3327,cash
+2023-02-02,Barcelona,3827,voucher
+2023-03-19,Rome,2971,cryptocurrency
+2023-06-22,São Paulo,2105,cryptocurrency
+2023-07-26,Sydney,420,debit card
+2023-11-09,Toronto,3654,mobile payment
+2023-11-13,Cairo,2674,credit card
+2023-09-19,Tokyo,3897,mobile payment
+2023-06-27,Amsterdam,1926,voucher
+2023-09-14,Moscow,2744,credit card
+2023-11-08,Dubai,2461,debit card
+2023-10-08,Amsterdam,828,credit card
+2023-06-05,Dubai,779,cryptocurrency
+2023-01-01,Lagos,3899,bank transfer
+2023-12-28,Cairo,11,voucher
+2023-07-07,Dubai,4091,debit card
+2023-10-12,Mumbai,2396,cash
+2023-02-13,Cairo,2155,voucher
+2023-07-26,Berlin,4991,mobile payment
+2023-04-29,Rome,4185,bank transfer
+2023-03-24,Berlin,45,mobile payment
+2023-02-02,Rome,2420,cryptocurrency
+2023-01-26,Barcelona,1592,mobile payment
+2023-11-09,Istanbul,1764,cryptocurrency
+2023-10-03,Toronto,219,voucher
+2023-11-26,New York,3135,cryptocurrency
+2023-07-17,London,2746,bank transfer
+2023-05-06,Istanbul,2033,credit card
+2023-10-22,Rome,3502,voucher
+2023-02-12,London,4504,credit card
+2023-05-08,Amsterdam,965,credit card
+2023-09-09,Amsterdam,1707,voucher
+2023-01-10,São Paulo,1201,bank transfer
+2023-06-14,Sydney,557,cryptocurrency
+2023-10-08,Seoul,2770,voucher
+2023-04-08,Mexico City,57,debit card
+2023-10-30,Mumbai,1716,bank transfer
+2023-09-19,Tokyo,4255,mobile payment
+2023-01-01,Moscow,467,voucher
+2023-10-24,Amsterdam,14,voucher
+2023-06-04,Sydney,4982,cash
+2023-07-16,Barcelona,1992,mobile payment
+2023-09-23,Istanbul,4180,bank transfer
+2023-01-17,Barcelona,4463,cryptocurrency
+2023-07-10,Dubai,1998,cryptocurrency
+2023-06-27,New York,2449,bank transfer
+2023-01-15,Istanbul,1147,cash
+2023-06-09,Mexico City,4195,debit card
+2023-07-25,Lagos,1293,voucher
+2023-03-07,Mumbai,2097,cryptocurrency
+2023-07-20,Moscow,601,cryptocurrency
+2023-04-06,Bangkok,4808,mobile payment
+2023-05-14,Moscow,2457,mobile payment
+2023-07-10,Dubai,3136,bank transfer
+2023-07-22,London,279,debit card
+2023-12-11,Amsterdam,2816,bank transfer
+2023-11-11,Rome,2736,debit card
+2023-10-02,Istanbul,1979,debit card
+2023-07-05,Amsterdam,4451,cash
+2023-05-02,New York,1498,cryptocurrency
+2023-06-02,Barcelona,4186,voucher
+2023-09-25,Sydney,1195,cash
+2023-03-04,Cairo,4883,credit card
+2023-06-04,São Paulo,4663,mobile payment
+2023-08-04,Dubai,4496,mobile payment
+2023-11-25,Seoul,1656,debit card
+2023-03-21,Berlin,3001,debit card
+2023-10-30,Paris,173,cryptocurrency
+2023-12-08,Sydney,722,bank transfer
+2023-08-13,Sydney,1019,cash
+2023-09-24,Bangkok,4814,credit card
+2023-05-11,São Paulo,65,voucher
+2023-07-19,Tokyo,1801,cash
+2023-07-23,Bangkok,2271,cash
+2023-05-11,Rome,846,cash
+2023-05-23,Mumbai,3957,mobile payment
+2023-02-25,London,4129,voucher
+2023-03-13,New York,3419,cryptocurrency
+2023-03-17,Mumbai,1787,mobile payment
+2023-06-19,Mexico City,4673,credit card
+2023-06-07,São Paulo,2863,debit card
+2023-11-24,Paris,4088,cash
+2023-08-18,Mumbai,2006,cryptocurrency
+2023-05-02,Mumbai,2052,voucher
+2023-07-30,Mumbai,335,credit card
+2023-08-31,New York,3657,credit card
+2023-04-07,Berlin,3014,cash
+2023-04-18,Moscow,3206,mobile payment
+2023-03-04,Mexico City,586,cryptocurrency
+2023-01-02,Rome,728,cash
+2023-11-14,Lagos,3029,voucher
+2023-04-11,Moscow,4705,mobile payment
+2023-08-13,Sydney,3464,bank transfer
+2023-01-21,Mexico City,350,bank transfer
+2023-11-13,Amsterdam,2901,bank transfer
+2023-03-03,Rome,4802,credit card
+2023-07-20,Mexico City,4671,debit card
+2023-01-03,Moscow,814,cryptocurrency
+2023-02-13,Istanbul,111,voucher
+2023-12-09,Cairo,2708,mobile payment
+2023-02-26,Toronto,645,cryptocurrency
+2023-04-21,Lagos,225,credit card
+2023-09-23,Tokyo,2313,credit card
+2023-03-03,Cairo,1417,cash
+2023-05-31,Berlin,503,credit card
+2023-10-06,Mexico City,3765,cryptocurrency
+2023-07-30,Rome,4723,cryptocurrency
+2023-10-23,Bangkok,1389,cryptocurrency
+2023-07-21,Tokyo,3711,bank transfer
+2023-11-07,Sydney,2984,bank transfer
+2023-07-15,Istanbul,424,cryptocurrency
+2023-04-14,Rome,3150,cash
+2023-10-30,Moscow,1699,cash
+2023-02-17,Barcelona,57,debit card
+2023-01-20,Rome,257,credit card
+2023-08-09,Dubai,3334,bank transfer
+2023-04-12,Seoul,3735,voucher
+2023-02-07,Amsterdam,3401,bank transfer
+2023-04-15,Toronto,2288,bank transfer
+2023-07-09,Seoul,739,cryptocurrency
+2023-01-04,Sydney,3319,mobile payment
+2023-03-30,London,2250,cash
+2023-02-25,Amsterdam,3078,bank transfer
+2023-02-15,Barcelona,2423,cryptocurrency
+2023-07-26,Seoul,4851,mobile payment
+2023-05-08,Istanbul,2642,bank transfer
+2023-12-29,New York,959,bank transfer
+2023-03-21,Barcelona,866,cryptocurrency
+2023-06-20,São Paulo,1908,voucher
+2023-11-08,Mexico City,4124,cash
+2023-04-11,Sydney,719,credit card
+2023-10-12,Amsterdam,4106,credit card
+2023-07-07,Istanbul,336,cryptocurrency
+2023-03-12,Moscow,1824,voucher
+2023-11-06,Sydney,3737,cryptocurrency
+2023-01-12,Sydney,2052,debit card
+2023-02-04,New York,4285,cash
+2023-08-08,London,4371,credit card
+2023-01-08,Amsterdam,2691,credit card
+2023-09-23,Cairo,4839,credit card
+2023-08-24,Berlin,4088,cash
+2023-04-14,Istanbul,600,voucher
+2023-09-23,Bangkok,2409,mobile payment
+2023-07-09,Bangkok,3194,cash
+2023-09-28,Lagos,3127,cryptocurrency
+2023-06-11,Mexico City,874,mobile payment
+2023-03-03,Lagos,1531,voucher
+2023-09-10,Sydney,3459,cash
+2023-11-07,Bangkok,2995,credit card
+2023-08-01,São Paulo,2431,bank transfer
+2023-10-03,São Paulo,1216,voucher
+2023-06-01,Barcelona,3692,mobile payment
+2023-07-27,Mumbai,4598,cryptocurrency
+2023-10-01,Lagos,1572,cryptocurrency
+2023-04-09,Mumbai,2105,cash
+2023-02-09,Amsterdam,1600,voucher
+2023-10-26,Seoul,2995,cryptocurrency
+2023-12-13,Mumbai,1666,bank transfer
+2023-05-13,Berlin,4381,mobile payment
+2023-01-25,Cairo,3818,bank transfer
+2023-07-25,Bangkok,2100,voucher
+2023-08-30,Seoul,530,bank transfer
+2023-06-01,São Paulo,3925,credit card
+2023-06-07,Sydney,2838,bank transfer
+2023-05-10,Dubai,4281,debit card
+2023-08-10,Mexico City,1954,mobile payment
+2023-02-07,Lagos,2400,debit card
+2023-08-26,Rome,501,mobile payment
+2023-01-15,Barcelona,3763,debit card
+2023-02-08,Amsterdam,3986,cash
+2023-06-15,Mumbai,2471,debit card
+2023-08-16,Rome,1557,voucher
+2023-08-22,Istanbul,1864,cash
+2023-09-27,São Paulo,2200,mobile payment
+2023-02-13,Moscow,4164,debit card
+2023-03-28,Seoul,4942,bank transfer
+2023-02-22,Mumbai,2652,mobile payment
+2023-04-14,Moscow,3529,cash
+2023-06-30,Toronto,123,voucher
+2023-10-17,Toronto,2244,mobile payment
+2023-12-19,Lagos,984,debit card
+2023-10-29,Toronto,2661,cryptocurrency
+2023-08-18,Cairo,578,voucher
+2023-04-12,Toronto,1064,bank transfer
+2023-04-28,Mumbai,1198,cryptocurrency
+2023-10-11,Berlin,3743,cryptocurrency
+2023-11-17,Paris,4855,mobile payment
+2023-03-21,Tokyo,2752,voucher
+2023-07-06,Moscow,3876,bank transfer
+2023-09-15,London,2039,voucher
+2023-08-21,Cairo,1760,mobile payment
+2023-11-05,New York,2060,credit card
+2023-05-15,London,461,credit card
+2023-12-06,Tokyo,3584,cryptocurrency
+2023-07-12,New York,622,cryptocurrency
+2023-12-13,Tokyo,1205,cryptocurrency
+2023-05-12,Barcelona,3054,debit card
+2023-08-01,Tokyo,2311,cash
+2023-01-23,Sydney,2165,cryptocurrency
+2023-04-03,Tokyo,4653,credit card
+2023-01-22,São Paulo,3862,credit card
+2023-07-24,Paris,2766,credit card
+2023-01-30,Mumbai,4422,voucher
+2023-11-23,Rome,3220,cash
+2023-04-06,São Paulo,2329,credit card
+2023-04-10,Istanbul,4741,credit card
+2023-01-15,Sydney,1252,mobile payment
+2023-05-14,Lagos,524,debit card
+2023-11-23,Cairo,1590,cash
+2023-05-22,Mumbai,4803,bank transfer
+2023-07-26,Istanbul,3241,mobile payment
+2023-09-20,Toronto,1805,voucher
+2023-04-26,Cairo,1683,cash
+2023-03-12,Amsterdam,4897,mobile payment
+2023-02-25,Bangkok,4085,credit card
+2023-08-08,Bangkok,2191,mobile payment
+2023-10-14,New York,4973,cryptocurrency
+2023-06-03,Mexico City,1244,bank transfer
+2023-06-29,Moscow,198,mobile payment
+2023-06-21,Lagos,4664,cash
+2023-04-01,New York,460,bank transfer
+2023-01-15,Berlin,3714,voucher
+2023-08-27,Seoul,2137,cryptocurrency
+2023-01-25,Paris,2035,cash
+2023-02-04,Tokyo,4597,cash
+2023-07-24,Sydney,2826,mobile payment
+2023-10-23,Moscow,1738,debit card
+2023-04-30,New York,3956,voucher
+2023-03-23,Dubai,2540,cryptocurrency
+2023-08-11,Paris,757,credit card
+2023-03-11,Mexico City,2260,voucher
+2023-07-14,Paris,1649,credit card
+2023-04-01,Seoul,4759,mobile payment
+2023-06-25,Toronto,818,cryptocurrency
+2023-12-13,Seoul,307,voucher
+2023-01-01,Barcelona,775,mobile payment
+2023-02-06,London,2519,credit card
+2023-01-06,Berlin,3409,mobile payment
+2023-08-04,New York,211,bank transfer
+2023-06-11,Bangkok,2902,credit card
+2023-11-28,Cairo,4444,mobile payment
+2023-01-08,Amsterdam,4923,voucher
+2023-10-01,New York,3635,voucher
+2023-12-05,Seoul,304,mobile payment
+2023-05-26,New York,2412,voucher
+2023-05-22,Tokyo,3197,bank transfer
+2023-10-10,Mexico City,2545,credit card
+2023-11-22,Toronto,1749,cash
+2023-01-13,São Paulo,4209,cryptocurrency
+2023-02-01,Dubai,77,debit card
+2023-11-26,Cairo,1406,cash
+2023-12-11,Moscow,3287,cash
+2023-06-29,Moscow,688,credit card
+2023-01-02,Sydney,3659,cash
+2023-09-04,Rome,312,cash
+2023-07-12,Mumbai,993,credit card
+2023-04-02,Berlin,3429,mobile payment
+2023-01-09,Amsterdam,4390,voucher
+2023-11-06,Paris,1995,credit card
+2023-02-16,New York,3891,mobile payment
+2023-08-28,Bangkok,1265,cash
+2023-08-01,Sydney,3437,cash
+2023-08-09,Paris,2491,cryptocurrency
+2023-01-05,Moscow,46,cryptocurrency
+2023-04-11,Mumbai,2987,credit card
+2023-07-13,Toronto,2929,credit card
+2023-08-19,Istanbul,4075,debit card
+2023-07-14,Cairo,2851,cash
+2023-05-26,New York,3645,bank transfer
+2023-08-30,Moscow,2942,mobile payment
+2023-09-22,São Paulo,1680,voucher
+2023-07-18,Lagos,3141,bank transfer
+2023-06-23,Barcelona,4902,debit card
+2023-11-24,Rome,1401,debit card
+2023-01-30,Dubai,4882,bank transfer
+2023-01-25,Barcelona,2933,voucher
+2023-05-26,London,1180,debit card
+2023-07-20,Mumbai,3366,voucher
+2023-05-24,Cairo,3946,bank transfer
+2023-09-09,Cairo,4076,debit card
+2023-11-14,Mexico City,4679,credit card
+2023-01-13,São Paulo,3029,credit card
+2023-02-04,Istanbul,2276,voucher
+2023-09-26,Rome,3752,credit card
+2023-03-24,Amsterdam,2596,bank transfer
+2023-09-13,Dubai,4894,mobile payment
+2023-05-13,Tokyo,1653,cryptocurrency
+2023-10-17,Istanbul,4028,voucher
+2023-11-29,Mumbai,2592,voucher
+2023-09-22,Amsterdam,3151,mobile payment
+2023-06-26,Moscow,1246,cash
+2023-05-27,Sydney,4961,debit card
+2023-04-28,Seoul,2991,cryptocurrency
+2023-09-06,Dubai,2585,cash
+2023-02-17,Sydney,31,debit card
+2023-08-28,Istanbul,2960,voucher
+2023-03-24,New York,3683,credit card
+2023-06-04,Sydney,1103,mobile payment
+2023-04-08,Paris,4040,debit card
+2023-10-05,Cairo,348,voucher
+2023-01-28,Bangkok,3511,mobile payment
+2023-05-24,Mumbai,931,mobile payment
+2023-02-22,Amsterdam,3711,cryptocurrency
+2023-11-23,Amsterdam,4829,cash
+2023-08-01,Berlin,2881,cryptocurrency
+2023-10-03,Cairo,4838,debit card
+2023-07-05,Berlin,982,cryptocurrency
+2023-05-31,Mumbai,1491,debit card
+2023-09-13,Seoul,3573,voucher
+2023-05-16,Mumbai,2864,voucher
+2023-02-22,Rome,1246,cryptocurrency
+2023-05-08,Mumbai,3306,cryptocurrency
+2023-02-04,Seoul,1455,voucher
+2023-03-30,Mumbai,2912,cash
+2023-05-22,Tokyo,1524,debit card
+2023-08-02,Berlin,671,mobile payment
+2023-04-24,New York,1340,cash
+2023-06-03,Amsterdam,361,voucher
+2023-01-26,Lagos,550,credit card
+2023-06-30,São Paulo,2430,mobile payment
+2023-05-02,Mumbai,1595,voucher
+2023-08-03,Berlin,2171,mobile payment
+2023-10-08,Mexico City,4220,voucher
+2023-12-03,Mexico City,643,voucher
+2023-08-29,Toronto,4185,debit card
+2023-06-25,Paris,449,credit card
+2023-07-03,Istanbul,2348,cash
+2023-12-29,Dubai,1070,credit card
+2023-04-10,Cairo,4258,voucher
+2023-07-17,Moscow,4750,voucher
+2023-02-14,Moscow,1926,bank transfer
+2023-01-06,Sydney,4497,cryptocurrency
+2023-04-12,Istanbul,2591,cash
+2023-12-24,Lagos,2840,mobile payment
+2023-02-22,Toronto,2507,cryptocurrency
+2023-08-13,Bangkok,4019,mobile payment
+2023-08-11,Rome,4160,credit card
+2023-12-09,Rome,4529,cash
+2023-09-30,Moscow,3834,cryptocurrency
+2023-09-05,Paris,3428,credit card
+2023-05-24,Bangkok,2799,bank transfer
+2023-01-15,Dubai,4753,cryptocurrency
+2023-06-13,Bangkok,335,bank transfer
+2023-03-03,Rome,2647,cryptocurrency
+2023-09-08,Paris,35,credit card
+2023-08-06,Dubai,2362,voucher
+2023-11-12,Toronto,3110,voucher
+2023-02-21,New York,2295,cryptocurrency
+2023-10-25,Paris,3572,credit card
+2023-11-19,Amsterdam,1735,mobile payment
+2023-05-04,Toronto,2373,voucher
+2023-04-14,Mumbai,1546,cryptocurrency
+2023-03-01,Cairo,2129,credit card
+2023-07-18,Barcelona,3380,debit card
+2023-11-26,Bangkok,3343,debit card
+2023-05-08,Toronto,4373,voucher
+2023-05-27,Toronto,951,credit card
+2023-04-17,Istanbul,2832,cash
+2023-02-16,Rome,1074,mobile payment
+2023-09-15,London,1074,mobile payment
+2023-03-15,Rome,3258,voucher
+2023-10-30,Toronto,2701,cash
+2023-06-21,New York,2843,bank transfer
+2023-03-09,Istanbul,3583,voucher
+2023-04-13,Toronto,3455,voucher
+2023-05-22,Paris,1826,bank transfer
+2023-09-29,Lagos,3492,debit card
+2023-04-11,Tokyo,1005,credit card
+2023-10-31,Cairo,771,debit card
+2023-06-21,Paris,3394,bank transfer
+2023-02-04,Seoul,2729,cryptocurrency
+2023-02-04,New York,854,cash
+2023-12-10,Seoul,3479,voucher
+2023-09-13,São Paulo,4582,voucher
+2023-04-23,London,3270,voucher
+2023-01-19,São Paulo,1075,cryptocurrency
+2023-01-03,Amsterdam,699,cryptocurrency
+2023-06-20,São Paulo,3298,cash
+2023-08-14,Berlin,957,bank transfer
+2023-01-05,Berlin,2836,voucher
+2023-12-11,Mumbai,4996,mobile payment
+2023-09-11,Mexico City,1330,mobile payment
+2023-12-18,Toronto,427,cash
+2023-12-04,Amsterdam,2428,credit card
+2023-01-03,Dubai,308,credit card
+2023-02-18,Sydney,3104,bank transfer
+2023-10-22,Amsterdam,2085,mobile payment
+2023-09-10,London,330,credit card
+2023-09-29,Paris,1800,credit card
+2023-10-31,Bangkok,1552,cash
+2023-02-10,Sydney,2864,voucher
+2023-10-28,London,4050,credit card
+2023-09-11,Berlin,2658,mobile payment
+2023-06-22,Seoul,3489,bank transfer
+2023-12-20,Rome,236,credit card
+2023-10-22,São Paulo,796,cryptocurrency
+2023-07-16,Berlin,3619,cash
+2023-01-25,Sydney,3690,mobile payment
+2023-04-28,Cairo,4083,cash
+2023-06-30,New York,4485,cryptocurrency
+2023-10-05,Sydney,3172,cash
+2023-10-14,Mumbai,1425,credit card
+2023-02-05,Istanbul,252,mobile payment
+2023-07-21,Barcelona,703,cryptocurrency
+2023-12-07,Bangkok,2427,cryptocurrency
+2023-09-30,Seoul,4809,cash
+2023-07-22,Sydney,3707,credit card
+2023-07-18,Amsterdam,4719,voucher
+2023-07-09,Sydney,2102,voucher
+2023-02-09,Berlin,2055,cash
+2023-12-18,Toronto,1732,credit card
+2023-02-22,London,1630,mobile payment
+2023-12-31,New York,2026,cryptocurrency
+2023-07-15,São Paulo,771,mobile payment
+2023-04-20,Lagos,2398,cryptocurrency
+2023-07-05,Bangkok,1414,voucher
+2023-07-05,Lagos,2444,mobile payment
+2023-03-19,Moscow,1630,cash
+2023-03-24,Seoul,4422,cash
+2023-03-27,Bangkok,1636,cash
+2023-06-17,Amsterdam,4349,bank transfer
+2023-11-11,Berlin,2290,debit card
+2023-08-20,Moscow,757,cryptocurrency
+2023-09-04,Mexico City,4284,cryptocurrency
+2023-03-13,Mumbai,1654,mobile payment
+2023-02-25,Barcelona,1170,voucher
+2023-02-13,Amsterdam,1410,debit card
+2023-09-19,Mumbai,212,voucher
+2023-10-08,Mumbai,2781,mobile payment
+2023-04-27,Tokyo,2785,credit card
+2023-02-24,Moscow,3522,voucher
+2023-11-02,Bangkok,2568,cash
+2023-05-10,Rome,1114,debit card
+2023-06-26,Berlin,4138,mobile payment
+2023-01-25,Bangkok,4304,debit card
+2023-01-26,Dubai,2635,bank transfer
+2023-12-06,Seoul,4876,bank transfer
+2023-09-05,Moscow,621,cryptocurrency
+2023-11-21,Barcelona,364,bank transfer
+2023-03-05,Istanbul,1228,debit card
+2023-03-30,Barcelona,1777,bank transfer
+2023-08-15,Dubai,3085,cash
+2023-11-01,Toronto,554,mobile payment
+2023-11-12,Toronto,275,debit card
+2023-05-01,Rome,3535,bank transfer
+2023-04-25,Moscow,1436,bank transfer
+2023-03-29,Amsterdam,2090,cash
+2023-06-18,Toronto,4641,credit card
+2023-03-23,New York,3741,debit card
+2023-09-21,Lagos,2051,bank transfer
+2023-01-06,Moscow,1605,bank transfer
+2023-11-06,Bangkok,3586,bank transfer
+2023-02-13,Sydney,2209,credit card
+2023-05-14,Lagos,459,bank transfer
+2023-03-18,Moscow,4469,credit card
+2023-10-08,Lagos,4473,credit card
+2023-06-03,Bangkok,1971,debit card
+2023-03-27,Amsterdam,3402,credit card
+2023-03-06,Sydney,2829,cash
+2023-03-15,London,3840,bank transfer
+2023-03-15,London,833,credit card
+2023-06-29,Paris,3873,cryptocurrency
+2023-05-11,Rome,2966,debit card
+2023-09-25,Sydney,2128,cryptocurrency
+2023-08-26,Paris,4254,credit card
+2023-07-10,Moscow,2649,cryptocurrency
+2023-08-06,Rome,4824,credit card
+2023-10-01,Istanbul,4133,cryptocurrency
+2023-07-26,Tokyo,951,debit card
+2023-12-22,Lagos,2244,cash
+2023-08-22,Paris,586,bank transfer
+2023-02-02,Mumbai,1251,cryptocurrency
+2023-08-04,Paris,1447,debit card
+2023-08-28,Mumbai,928,cash
+2023-11-15,Tokyo,3448,cash
+2023-11-21,Paris,3940,credit card
+2023-08-03,Dubai,585,voucher
+2023-03-11,Tokyo,4102,debit card
+2023-06-23,Mumbai,3607,credit card
+2023-09-04,Paris,776,cryptocurrency
+2023-08-23,Moscow,3072,voucher
+2023-10-21,Dubai,3848,credit card
+2023-08-24,Dubai,60,voucher
+2023-11-09,Berlin,1145,debit card
+2023-08-21,Cairo,4518,cryptocurrency
+2023-02-28,Mexico City,4679,debit card
+2023-05-23,Moscow,1821,bank transfer
+2023-10-15,Barcelona,3158,cash
+2023-11-27,Mumbai,4758,cryptocurrency
+2023-02-08,Rome,21,cryptocurrency
+2023-05-04,Toronto,4802,cryptocurrency
+2023-04-24,London,2278,cash
+2023-05-31,Tokyo,3815,cash
+2023-01-16,Lagos,3864,credit card
+2023-05-04,Rome,4970,bank transfer
+2023-03-04,Seoul,3426,credit card
+2023-08-02,Amsterdam,2461,voucher
+2023-03-23,Toronto,4505,debit card
+2023-06-03,Seoul,2116,cryptocurrency
+2023-08-25,Moscow,3299,credit card
+2023-07-03,São Paulo,3836,cryptocurrency
+2023-05-31,Tokyo,1735,voucher
+2023-09-25,Paris,3842,debit card
+2023-01-16,Mumbai,2626,debit card
+2023-11-01,Paris,1607,voucher
+2023-11-02,Mexico City,2217,cash
+2023-12-15,London,4561,mobile payment
+2023-11-03,Berlin,152,debit card
+2023-07-19,Cairo,2118,cryptocurrency
+2023-01-29,Moscow,588,credit card
+2023-10-26,Bangkok,753,cash
+2023-01-02,Mexico City,519,cryptocurrency
+2023-01-02,Bangkok,2150,debit card
+2023-09-12,Berlin,464,cryptocurrency
+2023-09-28,Berlin,295,mobile payment
+2023-05-01,London,2358,voucher
+2023-04-27,Seoul,1406,voucher
+2023-12-13,New York,4422,credit card
+2023-12-28,Sydney,1494,voucher
+2023-04-20,Mumbai,288,credit card
+2023-01-29,Seoul,3816,cash
+2023-10-14,Bangkok,3854,cryptocurrency
+2023-05-01,Cairo,1322,cryptocurrency
+2023-06-15,Lagos,3173,mobile payment
+2023-07-05,Bangkok,377,cash
+2023-06-18,London,3813,bank transfer
+2023-03-25,Bangkok,3491,mobile payment
+2023-08-09,Paris,2239,cryptocurrency
+2023-12-11,London,2043,mobile payment
+2023-03-03,London,1427,voucher
+2023-12-10,Tokyo,3226,credit card
+2023-09-01,London,143,cash
+2023-02-09,Toronto,3126,mobile payment
+2023-03-06,Dubai,640,cash
+2023-02-18,London,4921,cryptocurrency
+2023-05-05,Dubai,3605,bank transfer
+2023-04-29,Toronto,2771,debit card
+2023-03-03,Rome,2234,mobile payment
+2023-02-25,Cairo,3081,bank transfer
+2023-10-31,Moscow,1224,mobile payment
+2023-04-08,Cairo,861,mobile payment
+2023-03-08,Amsterdam,3274,cash
+2023-06-20,Istanbul,295,debit card
+2023-08-02,Mexico City,3179,mobile payment
+2023-09-14,Seoul,641,mobile payment
+2023-11-21,Mexico City,2688,credit card
+2023-08-09,Rome,1730,mobile payment
+2023-06-19,Cairo,4093,cash
+2023-06-02,Paris,2743,debit card
+2023-09-27,Amsterdam,2607,mobile payment
+2023-01-02,Barcelona,2628,voucher
+2023-10-09,Mexico City,3667,bank transfer
+2023-10-30,Toronto,543,bank transfer
+2023-02-25,Mumbai,442,debit card
+2023-05-19,Bangkok,3302,credit card
+2023-10-11,Berlin,3261,cash
+2023-06-26,Mumbai,2373,cash
+2023-11-19,Tokyo,1309,voucher
+2023-02-18,Cairo,4294,mobile payment
+2023-09-26,Cairo,412,cash
+2023-04-29,Bangkok,2866,voucher
+2023-07-02,Amsterdam,1655,bank transfer
+2023-01-06,Sydney,239,bank transfer
+2023-03-11,Istanbul,4483,cash
+2023-07-08,Rome,4844,cash
+2023-07-16,Berlin,3833,cryptocurrency
+2023-08-13,Moscow,722,cryptocurrency
+2023-04-13,São Paulo,742,cryptocurrency
+2023-02-13,Sydney,1584,mobile payment
+2023-05-28,Moscow,789,cash
+2023-03-21,Tokyo,2559,voucher
+2023-12-05,Cairo,2013,cash
+2023-08-18,Bangkok,974,voucher
+2023-07-22,Istanbul,2020,mobile payment
+2023-09-07,Mumbai,173,cash
+2023-07-03,Mumbai,3488,cash
+2023-01-06,Paris,2531,debit card
+2023-07-26,Rome,1682,voucher
+2023-02-28,Istanbul,1142,credit card
+2023-04-08,Bangkok,2553,credit card
+2023-08-26,Paris,945,credit card
+2023-05-10,Bangkok,623,voucher
+2023-09-20,Istanbul,4713,cash
+2023-10-06,Toronto,310,credit card
+2023-09-26,Istanbul,4773,credit card
+2023-10-22,Istanbul,3884,voucher
+2023-11-10,Dubai,3946,mobile payment
+2023-06-12,London,1264,cryptocurrency
+2023-05-12,Dubai,2843,bank transfer
+2023-04-10,Berlin,80,mobile payment
+2023-10-08,New York,3288,cryptocurrency
+2023-01-13,Tokyo,3558,credit card
+2023-10-03,Amsterdam,2644,debit card
+2023-03-12,New York,2980,credit card
+2023-01-25,Rome,4226,bank transfer
+2023-05-14,Seoul,4376,bank transfer
+2023-05-27,Dubai,1542,credit card
+2023-10-19,Toronto,1032,bank transfer
+2023-01-19,Cairo,4894,voucher
+2023-09-16,London,2557,mobile payment
+2023-06-26,Barcelona,3928,cryptocurrency
+2023-04-21,Moscow,557,cash
+2023-02-19,Istanbul,4269,cryptocurrency
+2023-09-30,Seoul,2945,debit card
+2023-06-10,Bangkok,1570,voucher
+2023-03-13,Berlin,3250,cash
+2023-11-02,Amsterdam,1108,cryptocurrency
+2023-01-15,Seoul,1465,cryptocurrency
+2023-08-10,Toronto,281,voucher
+2023-08-02,Berlin,3954,cryptocurrency
+2023-04-23,Amsterdam,4807,credit card
+2023-03-21,Paris,3210,cryptocurrency
+2023-03-29,Mumbai,4539,mobile payment
+2023-04-28,São Paulo,3637,cryptocurrency
+2023-01-30,Bangkok,1477,cash
+2023-05-14,Barcelona,2394,voucher
+2023-04-12,Moscow,4130,credit card
+2023-05-12,London,1877,cash
+2023-07-15,London,3849,credit card
+2023-08-02,Dubai,1740,mobile payment
+2023-07-21,Cairo,3671,credit card
+2023-12-09,Mexico City,2052,bank transfer
+2023-04-24,New York,3175,bank transfer
+2023-03-06,Rome,578,mobile payment
+2023-12-13,Barcelona,2403,cryptocurrency
+2023-02-13,Barcelona,214,cash
+2023-12-24,Mumbai,453,mobile payment
+2023-09-14,São Paulo,2059,voucher
+2023-10-07,Amsterdam,2687,bank transfer
+2023-10-05,São Paulo,433,bank transfer
+2023-03-15,Seoul,2819,mobile payment
+2023-05-15,Mumbai,3006,cryptocurrency
+2023-08-11,Mumbai,2106,cash
+2023-06-02,London,2467,cash
+2023-05-14,Tokyo,327,mobile payment
+2023-10-06,São Paulo,4649,voucher
+2023-01-12,Lagos,2680,bank transfer
+2023-02-04,Mumbai,2683,mobile payment
+2023-07-11,New York,1483,cash
+2023-07-09,Berlin,2034,voucher
+2023-12-30,Sydney,4724,credit card
+2023-04-12,Toronto,429,voucher
+2023-02-17,Barcelona,2963,bank transfer
+2023-03-26,São Paulo,116,cryptocurrency
+2023-11-21,Barcelona,4671,credit card
+2023-01-21,Toronto,563,bank transfer
+2023-06-02,Toronto,291,bank transfer
+2023-06-08,Berlin,802,bank transfer
+2023-05-12,Paris,1199,debit card
+2023-05-10,Istanbul,2549,voucher
+2023-01-13,Dubai,770,bank transfer
+2023-09-07,Mumbai,832,cash
+2023-09-15,Paris,4193,mobile payment
+2023-02-02,Moscow,3071,mobile payment
+2023-02-20,London,1039,mobile payment
+2023-04-07,São Paulo,1240,cash
+2023-04-09,Mumbai,4577,credit card
+2023-09-19,Dubai,4069,voucher
+2023-09-13,Seoul,3548,cryptocurrency
+2023-10-31,Mumbai,2876,mobile payment
+2023-03-28,Istanbul,4922,cryptocurrency
+2023-06-24,Dubai,2466,cash
+2023-12-21,São Paulo,1358,cash
+2023-05-08,Cairo,4762,voucher
+2023-08-23,Seoul,4591,debit card
+2023-12-06,Lagos,714,bank transfer
+2023-05-14,Istanbul,151,debit card
+2023-10-29,São Paulo,1611,mobile payment
+2023-12-21,Bangkok,4993,bank transfer
+2023-12-02,Dubai,3263,cryptocurrency
+2023-05-05,Istanbul,4564,bank transfer
+2023-08-16,Cairo,1835,debit card
+2023-02-26,Tokyo,17,voucher
+2023-02-20,Rome,894,voucher
+2023-03-16,Dubai,4485,mobile payment
+2023-11-27,Barcelona,1138,cryptocurrency
+2023-12-02,Paris,349,mobile payment
+2023-05-11,Lagos,1585,bank transfer
+2023-03-07,Tokyo,2269,voucher
+2023-06-11,Paris,2364,mobile payment
+2023-04-07,London,2934,bank transfer
+2023-07-30,London,1967,voucher
+2023-05-06,London,3516,cryptocurrency
+2023-09-28,Cairo,2671,credit card
+2023-10-28,Moscow,3686,credit card
+2023-11-13,Cairo,4487,cash
+2023-07-09,Tokyo,4903,credit card
+2023-02-11,Seoul,1625,debit card
+2023-11-08,Moscow,104,debit card
+2023-10-02,Seoul,1273,mobile payment
+2023-01-07,Tokyo,3601,voucher
+2023-09-28,Moscow,3294,credit card
+2023-12-29,Istanbul,4478,voucher
+2023-12-29,Barcelona,19,bank transfer
+2023-06-14,Dubai,1203,cash
+2023-03-16,Lagos,434,mobile payment
+2023-05-04,Amsterdam,760,credit card
+2023-08-27,Mumbai,859,voucher
+2023-12-20,Amsterdam,390,cryptocurrency
+2023-02-13,Cairo,2991,debit card
+2023-07-21,Mexico City,1145,bank transfer
+2023-03-04,Istanbul,4726,debit card
+2023-11-07,São Paulo,4796,credit card
+2023-05-09,Berlin,1817,voucher
+2023-12-31,Istanbul,4548,cash
+2023-12-18,Toronto,511,cash
+2023-10-18,Moscow,3718,mobile payment
+2023-12-02,Lagos,27,credit card
+2023-03-01,Istanbul,2925,cryptocurrency
+2023-07-30,São Paulo,4385,cash
+2023-12-24,Amsterdam,43,cryptocurrency
+2023-06-02,Bangkok,1815,bank transfer
+2023-04-14,New York,4896,mobile payment
+2023-01-06,Bangkok,514,cash
+2023-06-18,Moscow,4073,voucher
+2023-06-10,Mexico City,1025,cash
+2023-03-08,Mexico City,3459,credit card
+2023-11-10,Lagos,4571,debit card
+2023-08-14,Paris,3085,voucher
+2023-02-26,Berlin,4081,cash
+2023-06-15,Bangkok,3501,debit card
+2023-02-18,Mumbai,3575,cryptocurrency
+2023-08-01,São Paulo,2569,cryptocurrency
+2023-07-13,Cairo,951,cash
+2023-01-14,Dubai,2421,cash
+2023-10-28,Lagos,3563,mobile payment
+2023-02-04,Barcelona,2944,cash
+2023-06-13,New York,2575,bank transfer
+2023-04-20,Mexico City,4940,bank transfer
+2023-07-15,London,3918,bank transfer
+2023-09-18,Lagos,779,voucher
+2023-04-25,Bangkok,980,debit card
+2023-03-06,Bangkok,4743,cash
+2023-09-04,Tokyo,1113,voucher
+2023-07-04,Istanbul,2630,credit card
+2023-03-13,São Paulo,2345,debit card
+2023-04-05,Barcelona,3093,bank transfer
+2023-02-15,Cairo,2164,cryptocurrency
+2023-10-06,Seoul,2452,cryptocurrency
+2023-10-09,Tokyo,2349,voucher
+2023-09-05,Berlin,3764,cash
+2023-01-06,Tokyo,3082,mobile payment
+2023-02-16,Mexico City,2834,cryptocurrency
+2023-04-27,Istanbul,2821,mobile payment
+2023-03-22,Lagos,4973,mobile payment
+2023-06-09,Sydney,4190,debit card
+2023-09-27,Sydney,4947,mobile payment
+2023-06-02,Berlin,975,mobile payment
+2023-12-24,Paris,4513,voucher
+2023-07-25,Amsterdam,368,voucher
+2023-11-15,London,709,bank transfer
+2023-07-15,São Paulo,930,mobile payment
+2023-10-27,Berlin,3235,credit card
+2023-03-17,London,1624,debit card
+2023-03-14,Toronto,3027,voucher
+2023-08-08,Mexico City,1951,cash
+2023-11-15,Moscow,141,bank transfer
+2023-11-30,Amsterdam,4936,voucher
+2023-01-15,Cairo,2260,cash
+2023-09-28,Barcelona,4062,cash
+2023-11-25,Mumbai,1514,mobile payment
+2023-12-18,Bangkok,630,cash
+2023-06-29,New York,1628,debit card
+2023-12-04,London,3273,voucher
+2023-03-21,São Paulo,2215,voucher
+2023-11-18,Seoul,4461,mobile payment
+2023-03-13,Paris,2085,debit card
+2023-10-11,Moscow,3106,mobile payment
+2023-05-06,Sydney,3323,debit card
+2023-11-28,Dubai,1222,credit card
+2023-09-25,Bangkok,1789,cryptocurrency
+2023-11-15,São Paulo,1561,debit card
+2023-07-05,Istanbul,865,voucher
+2023-10-11,Moscow,521,mobile payment
+2023-12-19,Toronto,3832,cash
+2023-10-16,Paris,2194,voucher
+2023-09-06,New York,4371,bank transfer
+2023-08-31,Amsterdam,1377,mobile payment
+2023-02-17,London,4750,mobile payment
+2023-07-13,Mexico City,4171,mobile payment
+2023-05-29,Moscow,992,voucher
+2023-12-05,Cairo,63,bank transfer
+2023-02-10,London,3273,bank transfer
+2023-11-22,Berlin,4330,voucher
+2023-11-07,Seoul,902,mobile payment
+2023-07-13,Cairo,3688,debit card
+2023-05-17,Mexico City,2212,debit card
+2023-09-29,Lagos,4415,bank transfer
+2023-08-10,Moscow,693,voucher
+2023-12-26,Bangkok,1783,credit card
+2023-09-25,Toronto,3388,voucher
+2023-04-15,Moscow,4763,cryptocurrency
+2023-05-02,Sydney,45,bank transfer
+2023-09-18,London,4048,credit card
+2023-01-17,Seoul,207,cash
+2023-01-15,Mexico City,2068,debit card
+2023-03-16,Toronto,220,cryptocurrency
+2023-04-24,Sydney,1312,mobile payment
+2023-05-29,Barcelona,3957,cash
+2023-08-18,Toronto,2084,bank transfer
+2023-07-13,London,123,mobile payment
+2023-11-21,Lagos,701,mobile payment
+2023-07-17,São Paulo,2392,cryptocurrency
+2023-02-06,Dubai,890,cash
+2023-01-09,Amsterdam,720,cryptocurrency
+2023-12-06,Berlin,2644,cryptocurrency
+2023-03-01,Cairo,4498,mobile payment
+2023-09-19,Tokyo,2953,debit card
+2023-09-10,Seoul,3628,mobile payment
+2023-12-28,Seoul,4547,bank transfer
+2023-01-07,Istanbul,4535,mobile payment
+2023-12-09,Mumbai,4012,cash
+2023-08-11,Istanbul,2147,bank transfer
+2023-12-24,Moscow,2701,cash
+2023-07-11,Paris,2616,debit card
+2023-02-05,Cairo,1672,cryptocurrency
+2023-01-03,Rome,1589,cash
+2023-12-05,Cairo,3385,voucher
+2023-03-16,London,3468,cash
+2023-05-26,Bangkok,1079,bank transfer
+2023-08-20,Mexico City,1661,bank transfer
+2023-02-03,Amsterdam,1069,credit card
+2023-07-26,São Paulo,3727,mobile payment
+2023-08-02,Dubai,4135,credit card
+2023-02-04,Mexico City,754,mobile payment
+2023-03-13,Rome,560,cryptocurrency
+2023-04-30,Amsterdam,4735,cash
+2023-10-28,Tokyo,3772,voucher
+2023-07-22,Tokyo,4919,credit card
+2023-07-05,Paris,210,mobile payment
+2023-08-05,Rome,2615,mobile payment
+2023-08-03,Lagos,4140,bank transfer
+2023-04-09,London,3190,credit card
+2023-04-27,New York,946,cryptocurrency
+2023-12-07,Amsterdam,611,cash
+2023-12-13,Toronto,3903,cash
+2023-08-11,Mexico City,3642,bank transfer
+2023-12-06,Mumbai,1904,voucher
+2023-12-07,Moscow,1038,cash
+2023-09-19,Moscow,2127,credit card
+2023-02-03,Dubai,1234,cryptocurrency
+2023-07-14,Mexico City,745,credit card
+2023-08-25,Bangkok,4159,credit card
+2023-04-25,London,1188,bank transfer
+2023-09-01,Bangkok,4527,bank transfer
+2023-12-18,Barcelona,2585,voucher
+2023-12-03,Bangkok,4086,mobile payment
+2023-06-25,Moscow,4175,cash
+2023-02-16,Bangkok,3114,cryptocurrency
+2023-12-18,Toronto,2014,debit card
+2023-09-07,Sydney,2006,bank transfer
+2023-05-23,London,4166,bank transfer
+2023-05-26,São Paulo,918,bank transfer
+2023-03-05,Moscow,3397,mobile payment
+2023-05-11,Amsterdam,1139,voucher
+2023-01-04,Moscow,71,voucher
+2023-06-02,Istanbul,3659,cash
+2023-11-26,São Paulo,325,mobile payment
+2023-01-21,Berlin,4812,credit card
+2023-01-21,Paris,2434,credit card
+2023-11-07,Istanbul,2449,credit card
+2023-08-17,Berlin,4082,voucher
+2023-05-17,London,2160,cash
+2023-01-06,Lagos,2731,cryptocurrency
+2023-08-26,Cairo,2810,voucher
+2023-09-05,Mumbai,1349,credit card
+2023-06-25,Cairo,698,debit card
+2023-03-01,Moscow,4161,debit card
+2023-06-11,Seoul,4193,voucher
+2023-03-17,Dubai,807,bank transfer
+2023-07-14,Mumbai,1074,credit card
+2023-09-03,Bangkok,474,cash
+2023-01-27,Cairo,372,cash
+2023-04-12,Berlin,4815,debit card
+2023-06-11,Tokyo,4104,bank transfer
+2023-08-03,Lagos,4472,cash
+2023-12-03,Rome,1111,debit card
+2023-04-28,Amsterdam,1706,credit card
+2023-02-10,Paris,1138,mobile payment
+2023-03-01,Lagos,1956,credit card
+2023-11-20,Sydney,2903,voucher
+2023-09-30,New York,2317,cash
+2023-09-11,Dubai,3660,cash
+2023-02-03,Istanbul,4380,cryptocurrency
+2023-01-01,Berlin,4704,cryptocurrency
+2023-10-09,Istanbul,3721,cryptocurrency
+2023-04-08,Moscow,658,cash
+2023-01-16,Paris,2230,mobile payment
+2023-04-16,Tokyo,4981,mobile payment
+2023-01-30,Bangkok,1837,cryptocurrency
+2023-06-27,Bangkok,1861,cryptocurrency
+2023-01-31,Moscow,2802,cryptocurrency
+2023-11-12,Lagos,2455,cryptocurrency
+2023-05-15,Seoul,1812,debit card
+2023-09-26,Moscow,3289,cash
+2023-07-15,Toronto,3093,bank transfer
+2023-05-22,Moscow,4915,cash
+2023-10-28,Mexico City,4631,debit card
+2023-06-12,Rome,1500,cash
+2023-04-26,Rome,4339,cryptocurrency
+2023-11-01,Cairo,1956,credit card
+2023-05-08,Istanbul,4162,debit card
+2023-06-19,São Paulo,3807,cryptocurrency
+2023-12-29,London,4581,debit card
+2023-01-31,Amsterdam,931,credit card
+2023-08-28,Lagos,4132,cryptocurrency
+2023-12-05,Bangkok,155,cryptocurrency
+2023-01-22,Bangkok,185,cash
+2023-10-06,London,3705,mobile payment
+2023-03-14,Seoul,4005,mobile payment
+2023-08-01,Lagos,2364,cryptocurrency
+2023-06-23,Moscow,4087,bank transfer
+2023-04-07,New York,3578,debit card
+2023-01-08,Amsterdam,2506,credit card
+2023-09-07,Rome,3435,debit card
+2023-03-26,Mumbai,332,bank transfer
+2023-09-11,Lagos,317,credit card
+2023-01-02,São Paulo,3313,debit card
+2023-02-09,Cairo,475,cash
+2023-03-27,Amsterdam,3594,bank transfer
+2023-04-19,Mexico City,3144,mobile payment
+2023-05-29,Mumbai,4494,mobile payment
+2023-01-28,Toronto,2904,voucher
+2023-04-10,London,678,bank transfer
+2023-04-05,Barcelona,2077,credit card
+2023-02-14,Moscow,4348,mobile payment
+2023-08-24,Toronto,4829,mobile payment
+2023-04-07,Mumbai,3383,cash
+2023-05-27,Seoul,4022,credit card
+2023-11-10,Lagos,2555,cryptocurrency
+2023-08-17,Berlin,1751,voucher
+2023-10-06,Moscow,3228,cryptocurrency
+2023-04-11,Mexico City,1341,credit card
+2023-11-30,Mexico City,237,bank transfer
+2023-01-12,Cairo,1627,bank transfer
+2023-02-26,Rome,1904,voucher
+2023-07-09,Amsterdam,571,voucher
+2023-09-12,New York,1956,voucher
+2023-08-28,Mexico City,600,debit card
+2023-10-14,Berlin,561,cash
+2023-05-25,São Paulo,3604,cash
+2023-01-13,Mumbai,22,cash
+2023-01-09,São Paulo,3583,cash
+2023-04-24,Lagos,2029,debit card
+2023-03-09,London,4156,debit card
+2023-09-02,Seoul,63,cash
+2023-04-12,Berlin,4211,cash
+2023-12-12,New York,3614,voucher
+2023-10-26,Tokyo,4250,cash
+2023-04-26,Moscow,497,mobile payment
+2023-11-12,New York,3916,debit card
+2023-06-21,London,3498,cash
+2023-01-13,Lagos,4066,cash
+2023-01-01,Paris,64,voucher
+2023-01-24,Paris,898,cash
+2023-07-13,Paris,3830,cryptocurrency
+2023-06-10,Sydney,2513,voucher
+2023-05-07,Toronto,4061,cryptocurrency
+2023-10-31,Sydney,2861,debit card
+2023-01-11,Seoul,3315,bank transfer
+2023-01-19,New York,879,voucher
+2023-04-13,Rome,3209,mobile payment
+2023-10-24,Moscow,4312,bank transfer
+2023-01-18,Amsterdam,1887,voucher
+2023-05-18,São Paulo,1245,cash
+2023-10-30,Mexico City,1191,voucher
+2023-03-08,Mexico City,186,bank transfer
+2023-06-20,Bangkok,396,bank transfer
+2023-10-20,Rome,2804,debit card
+2023-11-06,Toronto,3626,cryptocurrency
+2023-01-10,Sydney,307,cryptocurrency
+2023-07-10,Mumbai,4004,cryptocurrency
+2023-01-08,Dubai,4787,debit card
+2023-04-02,São Paulo,3637,debit card
+2023-04-25,Bangkok,4901,credit card
+2023-08-25,Amsterdam,1625,voucher
+2023-10-13,Seoul,1062,cash
+2023-10-01,Lagos,2896,credit card
+2023-08-19,Bangkok,1680,voucher
+2023-09-13,Toronto,256,voucher
+2023-11-14,Tokyo,3168,bank transfer
+2023-11-15,Paris,4611,mobile payment
+2023-06-01,Seoul,1360,debit card
+2023-03-27,Moscow,2271,bank transfer
+2023-07-26,Seoul,1660,voucher
+2023-08-05,Amsterdam,3116,cash
+2023-06-27,Berlin,4442,mobile payment
+2023-11-13,Sydney,2539,bank transfer
+2023-03-09,São Paulo,827,mobile payment
+2023-11-10,Toronto,204,bank transfer
+2023-02-22,Amsterdam,2710,cryptocurrency
+2023-12-21,Tokyo,1054,cryptocurrency
+2023-02-27,Toronto,1552,credit card
+2023-11-02,Mumbai,3942,voucher
+2023-08-08,Cairo,2134,mobile payment
+2023-04-17,Paris,4669,bank transfer
+2023-06-09,Cairo,4948,mobile payment
+2023-05-18,Paris,3426,mobile payment
+2023-01-08,Sydney,2485,voucher
+2023-02-24,Barcelona,3985,cryptocurrency
+2023-10-01,Toronto,1724,cryptocurrency
+2023-05-23,Seoul,2268,voucher
+2023-01-08,São Paulo,4041,bank transfer
+2023-06-08,Istanbul,4673,cash
+2023-02-16,Berlin,1345,cash
+2023-03-11,Barcelona,4440,credit card
+2023-11-09,Cairo,3459,voucher
+2023-06-29,Mexico City,2840,debit card
+2023-08-24,São Paulo,64,cryptocurrency
+2023-09-05,Seoul,4307,bank transfer
+2023-05-16,Bangkok,1969,credit card
+2023-01-23,Tokyo,938,cash
+2023-02-24,London,3974,credit card
+2023-03-15,Dubai,2814,cryptocurrency
+2023-09-26,Barcelona,1211,mobile payment
+2023-05-10,Lagos,2185,credit card
+2023-09-04,Cairo,3359,mobile payment
+2023-06-17,New York,2156,bank transfer
+2023-10-23,Dubai,2730,mobile payment
+2023-06-27,Sydney,347,credit card
+2023-03-09,Istanbul,4449,mobile payment
+2023-07-23,Bangkok,2789,debit card
+2023-05-30,Berlin,3529,debit card
+2023-11-21,Moscow,267,voucher
+2023-12-27,Tokyo,4765,cryptocurrency
+2023-08-19,Mumbai,3844,voucher
+2023-02-23,London,2187,credit card
+2023-01-24,Mumbai,1416,cryptocurrency
+2023-09-15,Tokyo,780,debit card
+2023-07-31,Barcelona,2236,mobile payment
+2023-03-12,Cairo,56,cash
+2023-06-19,Rome,2271,mobile payment
+2023-10-05,Dubai,1806,mobile payment
+2023-10-10,Barcelona,4158,cash
+2023-10-17,Barcelona,1462,bank transfer
+2023-10-07,Tokyo,4191,bank transfer
+2023-04-25,Toronto,2862,bank transfer
+2023-12-19,Barcelona,4511,mobile payment
+2023-09-07,Rome,2035,voucher
+2023-06-03,Barcelona,1596,mobile payment
+2023-03-17,Lagos,2141,cryptocurrency
+2023-02-21,Amsterdam,334,bank transfer
+2023-06-29,Moscow,168,cryptocurrency
+2023-10-19,Seoul,4214,mobile payment
+2023-10-24,Dubai,1291,cryptocurrency
+2023-05-11,Amsterdam,2553,voucher
+2023-05-15,Mumbai,855,voucher
+2023-12-20,Moscow,2383,bank transfer
+2023-03-26,Lagos,1769,cash
+2023-12-17,Paris,3713,bank transfer
+2023-12-17,London,3941,mobile payment
+2023-09-27,London,1678,cash
+2023-12-09,Barcelona,2570,credit card
+2023-02-25,London,1391,debit card
+2023-03-06,Dubai,3896,voucher
+2023-10-16,Seoul,171,debit card
+2023-12-14,Barcelona,4407,cryptocurrency
+2023-12-18,Lagos,2399,cash
+2023-08-30,Moscow,92,bank transfer
+2023-06-10,Istanbul,710,credit card
+2023-07-30,Lagos,1017,bank transfer
+2023-11-05,Amsterdam,566,voucher
+2023-12-30,Mexico City,2455,cryptocurrency
+2023-01-04,Bangkok,3128,bank transfer
+2023-08-16,Paris,3637,cryptocurrency
+2023-02-14,New York,732,mobile payment
+2023-08-10,Rome,3995,credit card
+2023-04-17,New York,4607,debit card
+2023-08-23,Barcelona,565,credit card
+2023-05-01,Berlin,2808,voucher
+2023-01-10,Cairo,4571,voucher
+2023-06-20,New York,4962,bank transfer
+2023-08-27,Bangkok,4399,cash
+2023-02-17,Sydney,2131,cash
+2023-06-28,Moscow,2002,voucher
+2023-05-20,São Paulo,2163,cash
+2023-02-17,Tokyo,2830,credit card
+2023-11-28,Berlin,4033,mobile payment
+2023-12-02,Toronto,4943,bank transfer
+2023-05-23,Dubai,4463,bank transfer
+2023-12-07,Barcelona,1767,debit card
+2023-06-20,Istanbul,101,cryptocurrency
+2023-04-20,Barcelona,4497,credit card
+2023-12-10,Mexico City,1188,bank transfer
+2023-07-16,Seoul,340,voucher
+2023-03-18,Seoul,3724,voucher
+2023-04-10,Lagos,2797,cryptocurrency
+2023-12-08,Sydney,636,mobile payment
+2023-09-10,Berlin,1775,credit card
+2023-07-20,Sydney,4185,debit card
+2023-03-06,Rome,3020,voucher
+2023-04-11,Tokyo,3217,mobile payment
+2023-06-11,Sydney,2427,voucher
+2023-07-15,Paris,3623,cash
+2023-11-11,Tokyo,1086,cryptocurrency
+2023-01-13,Barcelona,3653,bank transfer
+2023-08-06,São Paulo,3176,voucher
+2023-02-07,Rome,4644,cash
+2023-02-02,Mumbai,1586,bank transfer
+2023-09-28,São Paulo,2380,debit card
+2023-08-19,Mumbai,2410,mobile payment
+2023-07-06,Tokyo,749,mobile payment
+2023-02-16,Paris,2086,debit card
+2023-08-21,Amsterdam,2627,bank transfer
+2023-07-11,Cairo,3110,debit card
+2023-05-20,Cairo,3852,debit card
+2023-08-20,Istanbul,1795,bank transfer
+2023-12-03,London,3102,mobile payment
+2023-09-24,Moscow,1723,voucher
+2023-08-07,Moscow,1559,mobile payment
+2023-11-03,Bangkok,1671,credit card
+2023-01-03,Barcelona,3918,bank transfer
+2023-05-27,Seoul,4825,cryptocurrency
+2023-07-10,Amsterdam,446,cash
+2023-05-29,Barcelona,596,mobile payment
+2023-07-14,Cairo,294,voucher
+2023-08-10,Paris,1244,bank transfer
+2023-12-29,Istanbul,4627,cash
+2023-10-18,Cairo,866,voucher
+2023-05-30,Moscow,3466,mobile payment
+2023-04-21,Mumbai,3534,cash
+2023-09-14,Toronto,223,voucher
+2023-12-14,Mexico City,3861,mobile payment
+2023-10-13,Toronto,4885,mobile payment
+2023-01-21,Cairo,1451,voucher
+2023-09-01,Sydney,4859,mobile payment
+2023-12-19,New York,2824,credit card
+2023-02-05,London,1391,cash
+2023-04-17,Tokyo,4256,mobile payment
+2023-12-11,Lagos,3504,bank transfer
+2023-08-11,Paris,3324,bank transfer
+2023-05-27,Bangkok,3761,debit card
+2023-11-04,Moscow,996,mobile payment
+2023-11-27,Cairo,949,mobile payment
+2023-06-09,New York,4686,cryptocurrency
+2023-07-24,Amsterdam,3657,debit card
+2023-06-08,Toronto,4223,debit card
+2023-11-26,Berlin,826,cash
+2023-10-02,Istanbul,3263,bank transfer
+2023-11-12,Sydney,4986,cryptocurrency
+2023-10-30,Seoul,3109,mobile payment
+2023-07-22,Moscow,647,debit card
+2023-06-11,Istanbul,3016,voucher
+2023-03-20,Amsterdam,3879,cryptocurrency
+2023-03-07,London,3741,voucher
+2023-01-08,Dubai,3765,cryptocurrency
+2023-09-16,Sydney,4323,credit card
+2023-02-23,Paris,4468,bank transfer
+2023-03-16,Moscow,1516,cryptocurrency
+2023-06-17,Lagos,1780,mobile payment
+2023-03-30,Toronto,4281,cryptocurrency
+2023-05-14,Cairo,758,bank transfer
+2023-08-05,Amsterdam,4122,debit card
+2023-05-28,Toronto,395,bank transfer
+2023-04-04,Mumbai,1986,mobile payment
+2023-05-23,Mexico City,3214,mobile payment
+2023-02-12,Lagos,3824,cryptocurrency
+2023-03-21,Cairo,4174,cryptocurrency
+2023-12-23,Toronto,1139,voucher
+2023-11-12,Mexico City,2703,debit card
+2023-07-28,Amsterdam,1918,debit card
+2023-07-14,São Paulo,2724,bank transfer
+2023-03-27,Seoul,2594,voucher
+2023-03-13,Sydney,4181,cash
+2023-04-29,Mumbai,443,cash
+2023-08-06,Seoul,2330,bank transfer
+2023-03-11,Mexico City,494,credit card
+2023-12-13,Rome,124,cryptocurrency
+2023-06-13,Moscow,2559,mobile payment
+2023-02-14,Barcelona,1336,credit card
+2023-02-21,Paris,839,bank transfer
+2023-08-23,Toronto,4467,cryptocurrency
+2023-07-15,São Paulo,2904,debit card
+2023-03-20,Tokyo,3472,mobile payment
+2023-03-16,London,4124,credit card
+2023-04-01,Bangkok,1639,cryptocurrency
+2023-03-20,Toronto,1174,cash
+2023-03-03,Sydney,4092,voucher
+2023-04-26,Paris,69,cash
+2023-09-19,Dubai,1413,cash
+2023-07-13,Amsterdam,4281,credit card
+2023-04-27,Berlin,3621,debit card
+2023-07-13,Tokyo,4747,voucher
+2023-04-23,Rome,2891,cryptocurrency
+2023-03-28,Lagos,4822,voucher
+2023-10-21,Lagos,4215,cash
+2023-03-24,Bangkok,2972,debit card
+2023-09-10,Toronto,1448,cryptocurrency
+2023-02-16,Berlin,4047,credit card
+2023-08-19,New York,4055,cryptocurrency
+2023-10-25,Bangkok,1941,voucher
+2023-04-11,Paris,2178,credit card
+2023-06-16,Barcelona,2247,cash
+2023-05-01,London,4791,cryptocurrency
+2023-12-12,Mexico City,4677,voucher
+2023-07-03,Sydney,2625,cash
+2023-05-16,Sydney,4928,cryptocurrency
+2023-02-03,Moscow,3065,cryptocurrency
+2023-02-13,Tokyo,4025,voucher
+2023-03-27,Moscow,3136,cash
+2023-06-18,New York,3474,bank transfer
+2023-12-05,Berlin,1390,mobile payment
+2023-08-27,Toronto,2378,cash
+2023-08-04,Rome,4624,cryptocurrency
+2023-10-07,Berlin,641,cash
+2023-01-15,New York,676,credit card
+2023-08-05,São Paulo,2749,mobile payment
+2023-06-14,Mumbai,3983,cash
+2023-10-10,Sydney,3704,cryptocurrency
+2023-05-28,Paris,1276,bank transfer
+2023-04-23,Lagos,3150,cash
+2023-12-29,New York,2876,cash
+2023-04-17,Moscow,4278,mobile payment
+2023-06-02,Bangkok,1765,cash
+2023-08-17,Amsterdam,4384,mobile payment
+2023-04-29,Tokyo,828,cryptocurrency
+2023-09-25,Cairo,21,debit card
+2023-08-31,Rome,1522,credit card
+2023-03-17,New York,2798,credit card
+2023-08-20,São Paulo,2020,mobile payment
+2023-08-23,Moscow,863,voucher
+2023-02-25,Tokyo,1037,credit card
+2023-03-29,Barcelona,2875,cryptocurrency
+2023-06-12,Berlin,4106,cryptocurrency
+2023-03-07,Lagos,1716,credit card
+2023-10-11,London,1251,mobile payment
+2023-03-02,Berlin,2496,bank transfer
+2023-11-06,São Paulo,3894,cryptocurrency
+2023-03-02,Sydney,3044,debit card
+2023-11-26,Amsterdam,3759,mobile payment
+2023-12-15,Berlin,320,cash
+2023-07-17,Paris,1205,cryptocurrency
+2023-02-27,Istanbul,2229,cryptocurrency
+2023-11-17,Seoul,411,voucher
+2023-01-06,Toronto,1383,debit card
+2023-03-29,Seoul,2689,credit card
+2023-11-04,Sydney,4312,cryptocurrency
+2023-12-05,Istanbul,660,bank transfer
+2023-04-20,Lagos,1916,mobile payment
+2023-05-17,Lagos,2204,cryptocurrency
+2023-09-28,Berlin,4414,debit card
+2023-04-19,Cairo,1211,bank transfer
+2023-06-05,Berlin,3543,cryptocurrency
+2023-09-24,Mumbai,3996,bank transfer
+2023-10-27,Mumbai,1862,debit card
+2023-10-04,Mumbai,895,voucher
+2023-03-24,London,3912,voucher
+2023-07-03,Tokyo,4305,credit card
+2023-09-08,London,1461,credit card
+2023-09-04,Dubai,1409,voucher
+2023-02-03,Tokyo,1712,debit card
+2023-11-25,Moscow,3551,mobile payment
+2023-10-30,São Paulo,2582,cash
+2023-09-16,Berlin,4373,bank transfer
+2023-09-29,Mumbai,1264,credit card
+2023-03-06,Cairo,1002,bank transfer
+2023-12-12,Toronto,3431,voucher
+2023-06-09,Barcelona,859,bank transfer
+2023-10-28,Berlin,594,mobile payment
+2023-11-19,Mumbai,2374,debit card
+2023-03-08,Lagos,83,cash
+2023-08-08,Tokyo,4076,credit card
+2023-04-05,Paris,3094,mobile payment
+2023-06-15,Cairo,3009,bank transfer
+2023-12-26,Berlin,2848,cryptocurrency
+2023-08-28,Istanbul,1488,debit card
+2023-03-03,Berlin,4577,credit card
+2023-10-02,Cairo,3936,debit card
+2023-03-09,Rome,3849,mobile payment
+2023-08-05,Paris,1409,bank transfer
+2023-08-20,Moscow,3655,debit card
+2023-05-11,São Paulo,2168,debit card
+2023-04-28,Moscow,1235,cash
+2023-08-11,Cairo,4460,cryptocurrency
+2023-11-24,São Paulo,4278,credit card
+2023-09-06,Seoul,1503,mobile payment
+2023-04-21,London,276,cryptocurrency
+2023-01-13,Mexico City,1001,voucher
+2023-08-17,Toronto,976,cash
+2023-01-24,Istanbul,1813,credit card
+2023-12-21,Mumbai,1257,debit card
+2023-02-12,Cairo,4772,cryptocurrency
+2023-11-27,Mexico City,4868,cash
+2023-01-06,Cairo,255,cryptocurrency
+2023-06-29,Barcelona,3867,voucher
+2023-11-05,Amsterdam,4580,cryptocurrency
+2023-04-04,Mumbai,3444,bank transfer
+2023-03-09,Dubai,4568,credit card
+2023-07-28,Rome,2811,credit card
+2023-09-29,Dubai,1389,credit card
+2023-02-25,Toronto,3651,mobile payment
+2023-08-03,Mumbai,4918,cryptocurrency
+2023-02-06,London,4606,voucher
+2023-10-19,Barcelona,721,bank transfer
+2023-09-17,Dubai,4444,credit card
+2023-03-30,Mumbai,1163,cash
+2023-04-29,Berlin,3893,mobile payment
+2023-06-02,Istanbul,1919,cryptocurrency
+2023-10-23,Toronto,3083,credit card
+2023-03-23,Seoul,499,cash
+2023-06-26,Lagos,2728,credit card
+2023-03-20,Seoul,3795,bank transfer
+2023-03-09,Cairo,3526,mobile payment
+2023-03-26,São Paulo,1372,voucher
+2023-06-10,London,3757,mobile payment
+2023-05-24,New York,4715,mobile payment
+2023-06-01,Rome,3568,bank transfer
+2023-06-18,Sydney,832,bank transfer
+2023-02-06,Barcelona,3789,debit card
+2023-10-12,Barcelona,3381,debit card
+2023-01-31,Cairo,586,cryptocurrency
+2023-06-16,Sydney,2786,debit card
+2023-01-31,Toronto,67,bank transfer
+2023-04-14,Moscow,2549,credit card
+2023-09-13,Istanbul,4019,cash
+2023-09-07,Paris,1634,credit card
+2023-01-03,Istanbul,612,cryptocurrency
+2023-05-12,Toronto,2923,voucher
+2023-05-25,Dubai,790,cash
+2023-12-26,Dubai,1811,cryptocurrency
+2023-05-05,Barcelona,4699,voucher
+2023-06-16,Cairo,1228,cryptocurrency
+2023-09-24,Tokyo,193,cryptocurrency
+2023-01-15,Berlin,3957,debit card
+2023-12-23,London,4201,bank transfer
+2023-04-20,Mumbai,2830,voucher
+2023-10-17,Bangkok,2593,bank transfer
+2023-12-19,Amsterdam,2405,credit card
+2023-05-14,New York,3839,voucher
+2023-11-18,Bangkok,132,debit card
+2023-08-30,Lagos,4421,cryptocurrency
+2023-09-19,Bangkok,936,mobile payment
+2023-01-02,Berlin,1295,bank transfer
+2023-08-27,Sydney,4951,credit card
+2023-09-18,Amsterdam,2998,voucher
+2023-01-16,Seoul,1547,cash
+2023-07-18,Moscow,2305,voucher
+2023-09-09,Paris,212,debit card
+2023-05-24,New York,42,credit card
+2023-04-15,Seoul,1145,bank transfer
+2023-08-21,São Paulo,1632,credit card
+2023-03-27,London,1466,credit card
+2023-07-19,Cairo,620,debit card
+2023-12-16,Toronto,4032,cryptocurrency
+2023-05-08,Rome,2553,voucher
+2023-08-27,Rome,2636,credit card
+2023-10-31,Rome,2072,bank transfer
+2023-12-01,Dubai,3864,debit card
+2023-09-11,Bangkok,4017,bank transfer
+2023-01-02,Barcelona,2342,debit card
+2023-04-22,Sydney,665,credit card
+2023-05-24,London,2469,bank transfer
+2023-07-06,Paris,1119,debit card
+2023-03-04,Mumbai,4568,mobile payment
+2023-09-24,São Paulo,3336,credit card
+2023-12-25,Istanbul,3341,mobile payment
+2023-08-12,São Paulo,1795,voucher
+2023-04-09,Mumbai,3826,mobile payment
+2023-01-25,Mumbai,477,cryptocurrency
+2023-01-26,Tokyo,2764,cash
+2023-01-14,Tokyo,1124,bank transfer
+2023-08-17,Amsterdam,4056,cryptocurrency
+2023-10-31,Berlin,2331,cryptocurrency
+2023-03-10,Paris,3117,cryptocurrency
+2023-12-13,Dubai,2477,bank transfer
+2023-01-12,Berlin,3846,debit card
+2023-08-07,Istanbul,3912,cryptocurrency
+2023-03-02,Bangkok,3533,bank transfer
+2023-12-10,Paris,2200,credit card
+2023-03-31,Cairo,3089,cryptocurrency
+2023-03-29,New York,3741,mobile payment
+2023-11-23,Moscow,2097,cash
+2023-11-29,Tokyo,4361,voucher
+2023-03-11,Bangkok,1003,credit card
+2023-02-19,Istanbul,2718,voucher
+2023-02-14,Istanbul,1865,credit card
+2023-01-10,Barcelona,879,debit card
+2023-11-12,Seoul,3692,debit card
+2023-09-10,Mexico City,3720,cryptocurrency
+2023-05-02,Moscow,2040,voucher
+2023-11-23,Moscow,719,bank transfer
+2023-09-05,Barcelona,2660,mobile payment
+2023-10-16,London,842,cash
+2023-06-18,Seoul,2711,mobile payment
+2023-11-29,Amsterdam,2324,mobile payment
+2023-11-09,Cairo,4554,bank transfer
+2023-12-30,Istanbul,4231,voucher
+2023-12-19,Seoul,1517,mobile payment
+2023-06-23,Paris,3119,credit card
+2023-12-08,Lagos,4848,mobile payment
+2023-01-20,Dubai,189,debit card
+2023-06-07,Bangkok,4542,voucher
+2023-08-08,Moscow,492,bank transfer
+2023-11-27,Seoul,3793,bank transfer
+2023-03-20,Moscow,3180,cryptocurrency
+2023-06-04,New York,3847,bank transfer
+2023-07-15,Sydney,4804,voucher
+2023-04-27,Rome,3507,credit card
+2023-08-30,Mexico City,4062,cash
+2023-08-22,New York,4760,credit card
+2023-11-16,Lagos,3384,voucher
+2023-03-01,Istanbul,4082,debit card
+2023-04-30,Sydney,1893,mobile payment
+2023-03-21,Moscow,123,bank transfer
+2023-02-27,Seoul,4565,voucher
+2023-09-07,Moscow,461,debit card
+2023-01-25,Istanbul,44,voucher
+2023-01-02,Paris,3231,bank transfer
+2023-08-22,Mexico City,2294,cash
+2023-11-11,Berlin,2409,cash
+2023-09-15,Istanbul,2488,mobile payment
+2023-09-01,Lagos,2866,mobile payment
+2023-08-20,Rome,397,cash
+2023-10-03,Paris,2309,voucher
+2023-09-18,London,2163,mobile payment
+2023-02-26,New York,3782,bank transfer
+2023-10-29,Barcelona,4084,cash
+2023-08-29,Mumbai,1377,cash
+2023-11-24,Seoul,631,cryptocurrency
+2023-08-25,Sydney,4456,debit card
+2023-05-31,Moscow,532,voucher
+2023-08-11,London,4329,credit card
+2023-01-08,New York,4327,voucher
+2023-08-04,Toronto,2194,voucher
+2023-06-09,Sydney,702,mobile payment
+2023-05-14,Toronto,908,bank transfer
+2023-07-17,Toronto,2089,cash
+2023-01-20,Bangkok,362,cash
+2023-04-10,Dubai,3742,cryptocurrency
+2023-11-29,New York,4371,credit card
+2023-01-10,Amsterdam,2792,cryptocurrency
+2023-04-12,Berlin,900,voucher
+2023-08-21,Amsterdam,3798,debit card
+2023-12-05,Bangkok,1963,bank transfer
+2023-06-19,Sydney,3514,cryptocurrency
+2023-10-30,São Paulo,684,cryptocurrency
+2023-05-19,Dubai,957,credit card
+2023-09-16,Paris,4250,mobile payment
+2023-04-10,Toronto,1060,cryptocurrency
+2023-06-12,Bangkok,3418,debit card
+2023-07-30,Mumbai,3622,credit card
+2023-04-17,London,3653,cryptocurrency
+2023-12-08,Lagos,3818,cash
+2023-02-04,Bangkok,2523,mobile payment
+2023-07-31,Tokyo,4830,credit card
+2023-02-19,Mexico City,3768,debit card
+2023-03-05,São Paulo,1214,credit card
+2023-12-01,London,4912,voucher
+2023-02-02,Mexico City,2069,cash
+2023-01-31,London,1380,mobile payment
+2023-09-24,Barcelona,3925,mobile payment
+2023-10-11,Barcelona,768,cryptocurrency
+2023-12-30,New York,4014,cryptocurrency
+2023-04-04,Amsterdam,515,cryptocurrency
+2023-03-30,Tokyo,4685,credit card
+2023-01-26,London,2211,credit card
+2023-06-26,Berlin,2790,credit card
+2023-07-03,Dubai,1381,debit card
+2023-10-13,Cairo,1155,mobile payment
+2023-09-15,Mumbai,4602,credit card
+2023-05-17,Berlin,624,bank transfer
+2023-12-20,Mexico City,413,mobile payment
+2023-03-13,Bangkok,4325,bank transfer
+2023-02-20,Bangkok,4107,debit card
+2023-01-06,Mumbai,3278,credit card
+2023-03-07,Rome,3987,mobile payment
+2023-03-30,Sydney,454,cash
+2023-02-26,Amsterdam,1580,cash
+2023-06-04,Amsterdam,1838,credit card
+2023-09-26,São Paulo,4917,voucher
+2023-06-16,Toronto,578,mobile payment
+2023-04-09,Rome,608,bank transfer
+2023-11-15,New York,3835,credit card
+2023-11-19,Sydney,4793,voucher
+2023-01-10,Istanbul,1716,bank transfer
+2023-04-04,Paris,4875,cash
+2023-01-19,Paris,4887,cash
+2023-07-17,Seoul,3541,bank transfer
+2023-12-12,Amsterdam,4702,cash
+2023-12-01,Berlin,4647,bank transfer
+2023-01-26,Bangkok,3683,bank transfer
+2023-05-11,Dubai,1244,voucher
+2023-06-11,Toronto,2714,voucher
+2023-02-15,São Paulo,158,voucher
+2023-10-23,Lagos,1964,voucher
+2023-12-10,Seoul,926,mobile payment
+2023-08-30,São Paulo,265,debit card
+2023-11-11,Cairo,552,bank transfer
+2023-05-28,Mexico City,3032,cryptocurrency
+2023-12-07,Moscow,2051,cash
+2023-07-02,Sydney,348,credit card
+2023-04-09,Cairo,599,debit card
+2023-10-18,Lagos,3640,cash
+2023-04-18,Barcelona,884,voucher
+2023-04-20,Berlin,4451,debit card
+2023-07-17,Amsterdam,4828,credit card
+2023-03-09,São Paulo,3134,cash
+2023-04-21,London,4101,debit card
+2023-12-20,New York,1675,cryptocurrency
+2023-06-14,Seoul,3518,voucher
+2023-12-19,Moscow,922,mobile payment
+2023-07-28,São Paulo,1443,bank transfer
+2023-01-18,Tokyo,875,credit card
+2023-01-18,Mumbai,1718,cryptocurrency
+2023-06-05,Barcelona,3712,mobile payment
+2023-10-13,Istanbul,1735,voucher
+2023-03-19,São Paulo,4365,mobile payment
+2023-04-12,Seoul,4769,cryptocurrency
+2023-10-31,Barcelona,1761,cash
+2023-06-29,Sydney,4950,mobile payment
+2023-08-17,Toronto,4443,voucher
+2023-08-04,Bangkok,2333,cash
+2023-12-25,Amsterdam,4213,debit card
+2023-05-27,Sydney,835,debit card
+2023-06-13,Seoul,4598,cryptocurrency
+2023-03-03,Seoul,492,cryptocurrency
+2023-09-09,Seoul,3193,credit card
+2023-10-07,Amsterdam,2861,bank transfer
+2023-10-01,Barcelona,3610,debit card
+2023-09-19,Mumbai,2367,cryptocurrency
+2023-09-20,London,2770,credit card
+2023-04-22,Bangkok,3370,cash
+2023-05-23,Bangkok,2679,cash
+2023-12-10,Barcelona,2507,credit card
+2023-11-04,Sydney,4927,cryptocurrency
+2023-08-22,Cairo,1479,cash
+2023-06-19,Paris,4688,cryptocurrency
+2023-10-24,Bangkok,3151,voucher
+2023-07-11,Amsterdam,532,cash
+2023-08-29,London,575,voucher
+2023-01-24,Rome,1577,bank transfer
+2023-12-18,Cairo,2994,bank transfer
+2023-10-22,Toronto,1787,bank transfer
+2023-03-18,Amsterdam,365,voucher
+2023-06-28,Mumbai,3618,cryptocurrency
+2023-03-30,Barcelona,4924,mobile payment
+2023-12-11,São Paulo,1657,mobile payment
+2023-03-27,Moscow,2355,mobile payment
+2023-10-23,Amsterdam,3298,cash
+2023-10-17,Moscow,3835,mobile payment
+2023-06-01,Amsterdam,1079,cryptocurrency
+2023-11-10,Paris,4883,credit card
+2023-02-05,Berlin,1283,voucher
+2023-10-21,Toronto,1023,voucher
+2023-05-27,Paris,1599,cash
+2023-02-06,Mexico City,4903,cash
+2023-01-24,Istanbul,991,mobile payment
+2023-09-18,Sydney,3126,cash
+2023-12-26,Istanbul,362,voucher
+2023-01-06,Cairo,1092,mobile payment
+2023-04-02,Berlin,3743,voucher
+2023-05-20,Berlin,3673,mobile payment
+2023-01-01,Amsterdam,458,cryptocurrency
+2023-01-05,Paris,4360,debit card
+2023-01-10,Cairo,2694,cash
+2023-08-27,Amsterdam,2401,credit card
+2023-08-25,Cairo,4811,credit card
+2023-10-03,Sydney,4131,voucher
+2023-11-08,Paris,4467,cryptocurrency
+2023-04-06,Toronto,2083,debit card
+2023-06-07,Amsterdam,3479,debit card
+2023-11-11,Bangkok,2390,bank transfer
+2023-11-10,Istanbul,2587,debit card
+2023-10-22,Dubai,1845,voucher
+2023-07-12,São Paulo,2493,cash
+2023-09-02,Mexico City,3042,credit card
+2023-11-25,Toronto,1365,mobile payment
+2023-11-07,Tokyo,527,voucher
+2023-04-22,Istanbul,1934,voucher
+2023-02-23,Barcelona,3231,bank transfer
+2023-02-05,Dubai,116,debit card
+2023-11-25,Barcelona,2872,mobile payment
+2023-05-21,Rome,2973,bank transfer
+2023-04-20,Berlin,2091,bank transfer
+2023-11-11,Berlin,68,voucher
+2023-02-15,Mexico City,2132,cryptocurrency
+2023-06-11,Cairo,4239,mobile payment
+2023-03-18,Moscow,60,debit card
+2023-01-06,Moscow,1118,bank transfer
+2023-10-11,São Paulo,2621,cryptocurrency
+2023-02-22,Moscow,2771,credit card
+2023-03-05,Dubai,2013,bank transfer
+2023-01-16,Berlin,214,debit card
+2023-03-14,Toronto,3461,debit card
+2023-07-18,Seoul,780,cash
+2023-10-27,Lagos,1378,credit card
+2023-10-31,Barcelona,2956,cash
+2023-10-29,New York,3251,voucher
+2023-04-24,London,3178,credit card
+2023-09-17,Bangkok,1265,cryptocurrency
+2023-11-07,Seoul,2269,cryptocurrency
+2023-03-13,Dubai,201,mobile payment
+2023-09-15,São Paulo,1854,voucher
+2023-04-25,São Paulo,2531,cryptocurrency
+2023-08-10,Barcelona,2046,cryptocurrency
+2023-10-14,Mumbai,3491,bank transfer
+2023-09-08,London,1189,cash
+2023-02-23,Rome,4020,cash
+2023-07-01,Cairo,3590,cryptocurrency
+2023-08-21,Rome,112,bank transfer
+2023-04-30,London,4872,credit card
+2023-09-26,Sydney,4172,cryptocurrency
+2023-12-09,Paris,4316,voucher
+2023-12-09,New York,3746,cash
+2023-06-27,Barcelona,251,bank transfer
+2023-07-11,Barcelona,3152,credit card
+2023-07-10,Istanbul,3238,cash
+2023-07-05,Lagos,1060,credit card
+2023-12-03,New York,2045,cryptocurrency
+2023-03-28,São Paulo,3359,cash
+2023-05-30,Lagos,4492,credit card
+2023-07-02,Rome,1082,bank transfer
+2023-01-22,Sydney,1795,cryptocurrency
+2023-02-08,Amsterdam,2214,mobile payment
+2023-07-06,Moscow,2776,cash
+2023-07-31,New York,2521,bank transfer
+2023-06-22,London,3645,voucher
+2023-03-17,Mexico City,2313,credit card
+2023-05-11,Rome,1203,voucher
+2023-02-24,Mumbai,4102,credit card
+2023-08-17,Sydney,2699,mobile payment
+2023-07-18,São Paulo,2886,cash
+2023-09-24,Lagos,2190,cash
+2023-10-24,Barcelona,2854,voucher
+2023-08-16,Bangkok,333,credit card
+2023-06-11,Berlin,438,voucher
+2023-08-20,London,797,mobile payment
+2023-02-14,New York,893,cryptocurrency
+2023-05-19,Istanbul,41,voucher
+2023-11-29,Cairo,2234,cash
+2023-03-27,Berlin,142,cash
+2023-02-03,Amsterdam,4164,cryptocurrency
+2023-11-15,Cairo,1501,bank transfer
+2023-11-02,Barcelona,3422,cash
+2023-02-11,Tokyo,2878,bank transfer
+2023-04-21,Berlin,1058,bank transfer
+2023-04-18,Mumbai,4908,credit card
+2023-01-16,Mexico City,366,voucher
+2023-09-16,São Paulo,4351,cash
+2023-07-25,Mumbai,1816,cash
+2023-03-10,Paris,767,cash
+2023-03-11,Bangkok,2704,credit card
+2023-05-23,Dubai,1005,cryptocurrency
+2023-11-06,Barcelona,2260,bank transfer
+2023-06-04,Moscow,4909,cryptocurrency
+2023-01-08,Mexico City,99,voucher
+2023-05-16,Tokyo,3914,mobile payment
+2023-02-28,Paris,1628,debit card
+2023-09-03,Rome,3080,voucher
+2023-05-19,Lagos,3175,cash
+2023-11-22,Amsterdam,506,bank transfer
+2023-05-18,Lagos,1497,credit card
+2023-12-26,Berlin,1610,bank transfer
+2023-10-21,Mumbai,2892,cryptocurrency
+2023-02-04,Bangkok,2905,voucher
+2023-06-14,London,2224,voucher
+2023-11-13,Paris,2343,credit card
+2023-08-12,Berlin,959,credit card
+2023-02-26,Bangkok,4832,cryptocurrency
+2023-11-13,Tokyo,1142,cryptocurrency
+2023-06-17,Istanbul,4818,credit card
+2023-09-28,London,3571,cash
+2023-03-29,Paris,4160,bank transfer
+2023-06-15,New York,64,cryptocurrency
+2023-11-22,Paris,3809,voucher
+2023-03-29,Lagos,2732,mobile payment
+2023-08-22,Barcelona,1281,cash
+2023-09-07,London,4652,mobile payment
+2023-06-28,Istanbul,2957,mobile payment
+2023-08-02,Mexico City,1067,mobile payment
+2023-09-05,New York,374,bank transfer
+2023-09-28,Barcelona,2468,debit card
+2023-03-13,Dubai,1947,debit card
+2023-05-16,Sydney,3438,mobile payment
+2023-06-11,Lagos,2577,mobile payment
+2023-10-08,New York,3382,cryptocurrency
+2023-11-24,Tokyo,3439,bank transfer
+2023-02-26,Cairo,2775,mobile payment
+2023-01-05,Tokyo,1622,cryptocurrency
+2023-03-25,Cairo,3422,cash
+2023-02-16,London,468,cryptocurrency
+2023-06-04,Cairo,915,bank transfer
+2023-10-10,Rome,401,mobile payment
+2023-10-01,Amsterdam,3524,cryptocurrency
+2023-07-26,Mumbai,529,bank transfer
+2023-08-08,Lagos,3309,voucher
+2023-05-18,Tokyo,2297,cash
+2023-11-14,Moscow,1648,voucher
+2023-11-14,Mexico City,1494,cryptocurrency
+2023-01-20,London,4586,voucher
+2023-02-19,Amsterdam,4801,voucher
+2023-08-25,London,2665,cash
+2023-05-01,Seoul,3367,credit card
+2023-09-01,London,3975,mobile payment
+2023-07-26,New York,4932,mobile payment
+2023-04-11,Berlin,3933,credit card
+2023-09-20,Amsterdam,4647,debit card
+2023-12-04,Bangkok,3405,mobile payment
+2023-10-11,Barcelona,915,voucher
+2023-06-05,Dubai,4359,bank transfer
+2023-10-09,Mexico City,2565,cash
+2023-09-12,Dubai,4285,cryptocurrency
+2023-12-19,São Paulo,448,cash
+2023-02-02,Bangkok,4326,cryptocurrency
+2023-06-05,Moscow,2472,voucher
+2023-05-09,Mexico City,3443,mobile payment
+2023-05-20,Toronto,4775,cryptocurrency
+2023-09-27,Toronto,4337,cash
+2023-07-05,Toronto,3418,debit card
+2023-04-01,Barcelona,528,credit card
+2023-10-21,Mexico City,3646,credit card
+2023-03-30,New York,4725,credit card
+2023-05-25,São Paulo,3074,bank transfer
+2023-06-29,Cairo,3674,cash
+2023-04-01,Bangkok,4246,voucher
+2023-07-27,Cairo,978,credit card
+2023-03-10,London,4678,cash
+2023-11-29,London,173,mobile payment
+2023-03-06,São Paulo,1601,cash
+2023-03-02,Mexico City,609,cryptocurrency
+2023-04-09,Sydney,4662,mobile payment
+2023-09-12,Bangkok,2660,cryptocurrency
+2023-03-31,Rome,1784,voucher
+2023-11-26,Moscow,4896,mobile payment
+2023-02-27,Dubai,3461,debit card
+2023-05-02,Seoul,2318,debit card
+2023-08-16,Dubai,3833,cash
+2023-08-13,Mexico City,422,credit card
+2023-04-08,Mumbai,4778,mobile payment
+2023-04-01,Barcelona,2094,bank transfer
+2023-06-26,London,3283,bank transfer
+2023-04-05,Moscow,1207,mobile payment
+2023-10-17,London,804,cryptocurrency
+2023-08-31,Barcelona,2545,cryptocurrency
+2023-06-16,Amsterdam,1387,debit card
+2023-03-16,Cairo,1601,mobile payment
+2023-03-07,Dubai,625,voucher
+2023-12-12,Paris,2964,credit card
+2023-03-26,Rome,817,cryptocurrency
+2023-09-03,Sydney,4728,bank transfer
+2023-12-17,São Paulo,499,cryptocurrency
+2023-12-30,Mumbai,1164,mobile payment
+2023-10-26,Amsterdam,2838,cash
+2023-07-18,Dubai,3525,bank transfer
+2023-04-23,New York,3172,cryptocurrency
+2023-10-07,Mumbai,2580,voucher
+2023-06-28,Amsterdam,3679,credit card
+2023-01-20,London,1952,cryptocurrency
+2023-09-17,Tokyo,489,cash
+2023-10-16,Bangkok,2315,credit card
+2023-12-03,Istanbul,1253,debit card
+2023-08-04,Barcelona,74,mobile payment
+2023-03-03,Barcelona,3099,debit card
+2023-02-16,Cairo,4304,debit card
+2023-02-19,São Paulo,1145,debit card
+2023-09-22,Amsterdam,4202,credit card
+2023-11-28,Dubai,2866,debit card
+2023-02-22,São Paulo,1080,cryptocurrency
+2023-01-15,São Paulo,1580,mobile payment
+2023-07-17,São Paulo,4552,credit card
+2023-01-29,Lagos,151,debit card
+2023-12-14,Cairo,2289,debit card
+2023-06-15,Moscow,4679,cryptocurrency
+2023-02-20,London,4422,cash
+2023-10-04,Mexico City,4538,bank transfer
+2023-04-22,Bangkok,3195,cash
+2023-03-31,Barcelona,770,credit card
+2023-11-04,Berlin,4792,voucher
+2023-08-20,Moscow,1893,mobile payment
+2023-02-25,Mumbai,4408,cash
+2023-11-29,Mumbai,1497,credit card
+2023-09-28,Berlin,1331,voucher
+2023-06-03,Toronto,651,mobile payment
+2023-09-09,Barcelona,3557,bank transfer
+2023-12-23,Moscow,2207,voucher
+2023-04-13,Bangkok,3078,cash
+2023-05-12,Amsterdam,2431,cryptocurrency
+2023-07-21,Mexico City,2157,debit card
+2023-07-23,Tokyo,4776,debit card
+2023-03-28,Bangkok,2342,voucher
+2023-06-11,Dubai,4041,bank transfer
+2023-11-09,Barcelona,131,cryptocurrency
+2023-10-11,Mumbai,3584,cash
+2023-05-02,London,4138,mobile payment
+2023-10-05,London,3920,voucher
+2023-11-18,Berlin,431,bank transfer
+2023-03-03,Bangkok,3234,debit card
+2023-02-10,Mexico City,711,debit card
+2023-09-12,London,1751,debit card
+2023-07-28,Seoul,3898,bank transfer
+2023-08-25,Mexico City,1205,cryptocurrency
+2023-06-01,London,4636,cryptocurrency
+2023-02-13,Paris,2496,bank transfer
+2023-10-22,Mumbai,1049,bank transfer
+2023-11-22,New York,2882,mobile payment
+2023-01-02,Paris,4935,credit card
+2023-09-27,New York,3067,cryptocurrency
+2023-06-01,Sydney,1662,debit card
+2023-07-19,Paris,1408,debit card
+2023-07-25,Dubai,1731,cash
+2023-09-18,London,2449,bank transfer
+2023-12-18,Bangkok,4296,bank transfer
+2023-05-14,Mexico City,2354,credit card
+2023-10-19,Istanbul,4077,cryptocurrency
+2023-07-18,Berlin,3694,voucher
+2023-09-06,Istanbul,1441,credit card
+2023-06-06,Rome,2602,bank transfer
+2023-04-20,Seoul,3059,voucher
+2023-10-10,Barcelona,2754,mobile payment
+2023-12-18,Mumbai,3361,credit card
+2023-05-04,São Paulo,2658,credit card
+2023-10-03,Amsterdam,2677,credit card
+2023-06-20,Rome,2263,bank transfer
+2023-06-07,Toronto,4624,cryptocurrency
+2023-01-07,Barcelona,2685,debit card
+2023-06-14,Lagos,4185,bank transfer
+2023-12-07,Istanbul,2692,mobile payment
+2023-10-11,Lagos,3240,mobile payment
+2023-06-22,Tokyo,1116,mobile payment
+2023-09-09,Tokyo,4754,debit card
+2023-06-04,Seoul,2272,credit card
+2023-08-05,Istanbul,4877,cryptocurrency
+2023-08-26,Bangkok,4766,credit card
+2023-02-28,Moscow,4563,cash
+2023-08-26,Cairo,3864,cryptocurrency
+2023-10-26,Rome,260,credit card
+2023-10-27,Dubai,1281,bank transfer
+2023-12-13,Berlin,2007,cryptocurrency
+2023-04-29,Seoul,4748,credit card
+2023-07-12,Istanbul,3516,cryptocurrency
+2023-12-21,Mumbai,4834,cash
+2023-05-10,Toronto,594,cash
+2023-10-22,Barcelona,3698,credit card
+2023-06-20,Istanbul,4716,mobile payment
+2023-03-31,Mexico City,1782,debit card
+2023-08-09,Dubai,3135,debit card
+2023-12-01,Sydney,3687,credit card
+2023-12-16,Bangkok,4594,cash
+2023-09-24,Cairo,1911,cash
+2023-05-26,Toronto,4637,cash
+2023-01-02,Istanbul,1144,mobile payment
+2023-07-04,Berlin,4003,credit card
+2023-12-17,Lagos,568,debit card
+2023-07-11,Barcelona,4842,cash
+2023-08-23,Moscow,1077,cryptocurrency
+2023-04-22,Mumbai,506,cryptocurrency
+2023-05-11,Cairo,393,voucher
+2023-04-18,Moscow,4291,mobile payment
+2023-10-30,Seoul,479,voucher
+2023-02-24,São Paulo,4333,cash
+2023-09-28,Tokyo,4391,voucher
+2023-07-24,Dubai,2290,cryptocurrency
+2023-08-27,Cairo,4799,credit card
+2023-03-03,São Paulo,1876,voucher
+2023-06-03,Tokyo,284,credit card
+2023-07-21,Bangkok,3397,bank transfer
+2023-12-04,Sydney,2759,debit card
+2023-06-05,Berlin,3425,bank transfer
+2023-10-02,Cairo,2052,bank transfer
+2023-11-03,Bangkok,4739,cash
+2023-02-08,Tokyo,4955,cash
+2023-07-27,Dubai,1425,debit card
+2023-04-04,Barcelona,3662,credit card
+2023-07-11,São Paulo,264,cash
+2023-07-13,New York,3164,voucher
+2023-03-30,Cairo,4036,cash
+2023-06-11,Mexico City,4564,voucher
+2023-03-06,Moscow,1785,mobile payment
+2023-08-13,Toronto,2594,cash
+2023-07-22,Mexico City,1576,cryptocurrency
+2023-11-19,São Paulo,3365,debit card
+2023-08-30,Moscow,2777,cryptocurrency
+2023-12-02,Bangkok,2194,voucher
+2023-04-15,Bangkok,3837,cash
+2023-08-20,Amsterdam,3422,cryptocurrency
+2023-09-26,Dubai,3238,mobile payment
+2023-04-08,Cairo,2864,voucher
+2023-07-02,Toronto,1714,debit card
+2023-02-10,Cairo,1083,mobile payment
+2023-03-10,Dubai,3381,cash
+2023-08-20,Mexico City,3856,cryptocurrency
+2023-12-06,Moscow,3825,bank transfer
+2023-09-06,New York,677,voucher
+2023-07-21,Tokyo,4602,cryptocurrency
+2023-08-26,Mexico City,4232,debit card
+2023-03-20,Paris,1208,credit card
+2023-04-18,Cairo,949,debit card
+2023-06-25,São Paulo,361,bank transfer
+2023-07-31,Paris,2802,debit card
+2023-09-17,Cairo,4903,voucher
+2023-03-07,London,3013,mobile payment
+2023-09-08,Berlin,4856,cash
+2023-08-11,London,4984,voucher
+2023-08-25,São Paulo,1665,voucher
+2023-12-27,Barcelona,767,debit card
+2023-01-28,Amsterdam,1411,credit card
+2023-09-08,Barcelona,4588,mobile payment
+2023-12-21,London,301,debit card
+2023-04-11,London,4734,credit card
+2023-02-05,Amsterdam,4954,cash
+2023-05-06,Paris,1496,cryptocurrency
+2023-10-23,Bangkok,3952,mobile payment
+2023-04-27,Seoul,4401,bank transfer
+2023-10-02,São Paulo,5,bank transfer
+2023-10-01,Sydney,3849,cash
+2023-08-23,Lagos,2893,debit card
+2023-07-03,Istanbul,373,mobile payment
+2023-04-16,Amsterdam,524,bank transfer
+2023-02-26,Toronto,928,bank transfer
+2023-04-18,Tokyo,1675,mobile payment
+2023-05-10,Mumbai,2713,credit card
+2023-01-21,London,2837,voucher
+2023-01-28,Moscow,3643,cash
+2023-03-04,Amsterdam,3942,debit card
+2023-01-09,Rome,3760,cash
+2023-04-28,Berlin,165,cash
+2023-07-31,Cairo,365,bank transfer
+2023-07-14,Istanbul,3948,bank transfer
+2023-03-27,Mexico City,4850,bank transfer
+2023-11-03,New York,826,credit card
+2023-11-12,New York,1371,cryptocurrency
+2023-06-11,Tokyo,3694,cash
+2023-08-17,Dubai,4676,debit card
+2023-05-04,Seoul,1071,debit card
+2023-10-05,Seoul,3594,cryptocurrency
+2023-05-26,Mumbai,3449,cryptocurrency
+2023-09-15,London,4752,cash
+2023-04-14,Berlin,4901,voucher
+2023-07-21,Paris,1103,voucher
+2023-08-04,Rome,2400,cash
+2023-10-18,London,352,voucher
+2023-06-30,Rome,1890,cryptocurrency
+2023-06-12,Sydney,3708,credit card
+2023-07-11,Sydney,1935,cryptocurrency
+2023-08-13,Lagos,361,cash
+2023-11-27,New York,3676,bank transfer
+2023-12-04,Lagos,518,voucher
+2023-03-01,Amsterdam,693,voucher
+2023-06-10,Cairo,2028,mobile payment
+2023-06-15,Istanbul,865,bank transfer
+2023-07-17,Mumbai,1956,bank transfer
+2023-03-18,Paris,4624,debit card
+2023-12-08,Cairo,83,bank transfer
+2023-09-10,Moscow,2309,bank transfer
+2023-12-28,Istanbul,4447,voucher
+2023-11-26,Bangkok,562,cash
+2023-11-17,Tokyo,4287,cash
+2023-05-19,Dubai,1742,cash
+2023-06-13,Istanbul,1812,bank transfer
+2023-10-10,London,1327,bank transfer
+2023-02-16,Bangkok,2952,cryptocurrency
+2023-06-27,Bangkok,206,mobile payment
+2023-11-28,Toronto,3517,cash
+2023-02-02,Lagos,1008,cryptocurrency
+2023-08-09,Bangkok,4083,bank transfer
+2023-01-01,Tokyo,42,cryptocurrency
+2023-02-21,Seoul,1579,cash
+2023-03-28,London,1305,voucher
+2023-11-01,Cairo,4709,credit card
+2023-08-18,Istanbul,4097,cryptocurrency
+2023-04-22,Seoul,325,cryptocurrency
+2023-07-31,Toronto,4664,bank transfer
+2023-10-20,Seoul,2219,bank transfer
+2023-06-28,Seoul,2988,cash
+2023-06-15,Barcelona,4109,mobile payment
+2023-11-02,Barcelona,212,debit card
+2023-11-07,Moscow,3778,mobile payment
+2023-01-31,Barcelona,4720,credit card
+2023-01-19,Bangkok,864,voucher
+2023-06-17,Cairo,2108,bank transfer
+2023-02-07,Paris,1097,credit card
+2023-10-09,Paris,2525,mobile payment
+2023-05-13,London,3033,credit card
+2023-08-21,Sydney,1846,mobile payment
+2023-01-21,Berlin,1095,credit card
+2023-12-26,London,4823,cryptocurrency
+2023-05-09,Seoul,113,debit card
+2023-06-19,Mumbai,1510,cash
+2023-07-20,Bangkok,3147,cryptocurrency
+2023-07-24,Berlin,2834,mobile payment
+2023-07-31,Mexico City,821,credit card
+2023-04-11,Istanbul,3310,cryptocurrency
+2023-05-11,Mumbai,4518,mobile payment
+2023-11-13,Istanbul,903,cash
+2023-11-25,Tokyo,1351,credit card
+2023-09-29,Amsterdam,4772,mobile payment
+2023-11-10,Paris,1491,debit card
+2023-08-15,Paris,451,mobile payment
+2023-11-21,New York,3390,mobile payment
+2023-07-27,London,4760,mobile payment
+2023-12-05,Paris,1110,voucher
+2023-06-28,Mexico City,3378,cryptocurrency
+2023-06-05,Moscow,48,cash
+2023-11-23,Amsterdam,2768,cash
+2023-12-29,Sydney,4602,credit card
+2023-10-27,New York,3857,debit card
+2023-05-15,Toronto,1257,credit card
+2023-02-01,Barcelona,636,voucher
+2023-05-03,London,3588,mobile payment
+2023-10-30,São Paulo,758,mobile payment
+2023-07-04,Berlin,1319,cryptocurrency
+2023-05-16,Mexico City,1326,mobile payment
+2023-03-30,Barcelona,1406,bank transfer
+2023-05-07,Amsterdam,784,cash
+2023-02-20,Amsterdam,372,cash
+2023-08-26,Moscow,2049,credit card
+2023-06-23,Bangkok,2629,voucher
+2023-05-20,Dubai,2163,debit card
+2023-07-09,Tokyo,1127,credit card
+2023-12-01,Istanbul,3635,cash
+2023-06-02,Amsterdam,2591,cryptocurrency
+2023-01-28,Berlin,2824,cash
+2023-06-13,Lagos,2084,cash
+2023-05-11,Seoul,3314,debit card
+2023-02-15,Barcelona,152,debit card
+2023-10-08,Dubai,2790,credit card
+2023-10-13,Istanbul,1761,mobile payment
+2023-09-16,Berlin,3007,credit card
+2023-04-02,Mexico City,3611,bank transfer
+2023-01-11,Lagos,1963,mobile payment
+2023-09-20,Seoul,4412,voucher
+2023-12-09,Bangkok,2627,voucher
+2023-06-29,Seoul,1304,credit card
+2023-01-24,Seoul,4470,cryptocurrency
+2023-05-01,Sydney,3580,credit card
+2023-12-30,Mumbai,4620,debit card
+2023-04-26,Toronto,3630,voucher
+2023-07-24,Berlin,2116,credit card
+2023-10-26,São Paulo,2971,cryptocurrency
+2023-10-02,Mumbai,2371,debit card
+2023-08-08,Moscow,4304,bank transfer
+2023-10-10,New York,2841,cryptocurrency
+2023-02-17,London,1967,cryptocurrency
+2023-04-10,Paris,3708,bank transfer
+2023-08-11,Rome,4634,mobile payment
+2023-06-27,Paris,4106,mobile payment
+2023-03-27,London,2021,bank transfer
+2023-04-02,Lagos,3495,debit card
+2023-08-30,Tokyo,4994,bank transfer
+2023-04-27,Paris,10,credit card
+2023-12-25,Paris,2988,voucher
+2023-07-08,London,418,cash
+2023-07-07,Barcelona,518,debit card
+2023-08-23,Paris,3915,debit card
+2023-04-05,London,4497,cash
+2023-08-11,Moscow,209,debit card
+2023-08-10,Mexico City,2678,voucher
+2023-12-29,London,131,credit card
+2023-01-26,Berlin,2799,credit card
+2023-08-19,Bangkok,1751,cash
+2023-10-05,Mumbai,3830,mobile payment
+2023-03-30,Paris,47,debit card
+2023-10-09,São Paulo,2443,mobile payment
+2023-12-21,Barcelona,2894,voucher
+2023-03-08,Istanbul,1802,mobile payment
+2023-10-09,London,823,cash
+2023-08-04,Seoul,1662,voucher
+2023-08-11,Toronto,1930,voucher
+2023-01-23,Mexico City,4007,voucher
+2023-03-03,São Paulo,2753,bank transfer
+2023-01-13,Seoul,2620,voucher
+2023-01-19,Amsterdam,1097,bank transfer
+2023-05-19,Moscow,1438,voucher
+2023-04-11,London,110,credit card
+2023-10-25,Moscow,1322,bank transfer
+2023-01-27,Moscow,3499,bank transfer
+2023-01-02,Sydney,1572,cryptocurrency
+2023-04-10,Barcelona,332,cryptocurrency
+2023-07-02,Toronto,4977,voucher
+2023-10-09,Seoul,4503,mobile payment
+2023-10-22,Tokyo,1743,cash
+2023-11-04,Mexico City,4036,cryptocurrency
+2023-10-10,Mexico City,3098,debit card
+2023-05-21,Mumbai,3966,mobile payment
+2023-09-29,São Paulo,2883,cash
+2023-01-10,Paris,1413,debit card
+2023-08-15,Cairo,3006,bank transfer
+2023-01-06,Sydney,3840,voucher
+2023-01-23,Berlin,1339,bank transfer
+2023-07-27,Cairo,2367,bank transfer
+2023-10-10,Moscow,2893,bank transfer
+2023-08-01,Seoul,3550,debit card
+2023-10-10,Cairo,4260,bank transfer
+2023-03-19,London,3405,debit card
+2023-12-20,Cairo,3064,cryptocurrency
+2023-02-07,Cairo,3040,voucher
+2023-01-08,Berlin,3054,cryptocurrency
+2023-06-18,Amsterdam,32,credit card
+2023-06-28,Moscow,4717,cryptocurrency
+2023-05-07,Istanbul,3703,voucher
+2023-07-05,Lagos,4823,cash
+2023-10-08,Seoul,680,cryptocurrency
+2023-08-23,Paris,2631,debit card
+2023-03-05,Mexico City,3097,cryptocurrency
+2023-12-03,Paris,1865,debit card
+2023-03-09,Mumbai,4338,cryptocurrency
+2023-01-18,Paris,2051,bank transfer
+2023-01-28,Mumbai,2625,debit card
+2023-05-06,Istanbul,435,cryptocurrency
+2023-04-13,Mexico City,4201,voucher
+2023-11-28,Mexico City,2274,debit card
+2023-02-26,Moscow,2671,mobile payment
+2023-09-28,London,757,cryptocurrency
+2023-06-03,Rome,4581,bank transfer
+2023-05-04,Istanbul,875,voucher
+2023-01-13,Dubai,4353,cash
+2023-04-16,Cairo,873,mobile payment
+2023-03-03,Mexico City,2568,cryptocurrency
+2023-06-16,Bangkok,3358,debit card
+2023-06-17,Amsterdam,3034,cryptocurrency
+2023-05-18,Mexico City,1227,debit card
+2023-10-03,Dubai,2587,mobile payment
+2023-11-12,Toronto,2807,mobile payment
+2023-09-16,Seoul,671,mobile payment
+2023-05-27,Sydney,4,cryptocurrency
+2023-08-12,Paris,2005,cash
+2023-09-29,Toronto,1158,credit card
+2023-05-15,Bangkok,1184,mobile payment
+2023-11-23,New York,1072,cryptocurrency
+2023-07-08,Mexico City,1640,voucher
+2023-06-18,Lagos,4388,voucher
+2023-09-20,Istanbul,3917,cash
+2023-03-15,Rome,2082,cryptocurrency
+2023-04-24,Sydney,2017,voucher
+2023-11-13,São Paulo,2025,voucher
+2023-12-29,London,744,cryptocurrency
+2023-04-12,Lagos,3120,debit card
+2023-02-05,Rome,1435,bank transfer
+2023-02-19,Dubai,3011,bank transfer
+2023-10-08,London,1213,debit card
+2023-02-07,Istanbul,3881,debit card
+2023-09-22,London,1246,cash
+2023-02-06,São Paulo,3198,credit card
+2023-01-08,Lagos,2088,mobile payment
+2023-05-14,Rome,2419,mobile payment
+2023-10-23,Berlin,3859,debit card
+2023-07-02,Mexico City,287,voucher
+2023-09-20,Amsterdam,1075,bank transfer
+2023-01-05,London,4873,cryptocurrency
+2023-12-08,Bangkok,4739,debit card
+2023-08-12,Paris,71,mobile payment
+2023-01-15,Bangkok,2203,cryptocurrency
+2023-09-11,Istanbul,544,mobile payment
+2023-10-21,Toronto,4565,debit card
+2023-04-08,New York,4079,debit card
+2023-07-18,Toronto,4694,credit card
+2023-11-22,Lagos,1783,credit card
+2023-06-22,Amsterdam,4405,mobile payment
+2023-03-19,London,3938,credit card
+2023-11-01,São Paulo,4223,cryptocurrency
+2023-08-21,Lagos,4410,cryptocurrency
+2023-01-17,Sydney,4710,cryptocurrency
+2023-10-26,New York,1221,mobile payment
+2023-07-18,Istanbul,4515,cash
+2023-03-12,Seoul,1908,bank transfer
+2023-06-01,Rome,3616,credit card
+2023-02-03,Tokyo,2238,cash
+2023-05-27,Istanbul,641,cryptocurrency
+2023-04-23,New York,4560,mobile payment
+2023-01-16,Dubai,3053,bank transfer
+2023-02-12,Toronto,4617,cash
+2023-08-27,Lagos,886,voucher
+2023-05-31,New York,3976,voucher
+2023-02-07,London,1547,voucher
+2023-12-03,Sydney,4247,voucher
+2023-12-13,Berlin,3581,mobile payment
+2023-09-10,Seoul,2715,debit card
+2023-10-22,Moscow,4357,voucher
+2023-04-11,Sydney,1101,voucher
+2023-06-15,Paris,1423,cash
+2023-08-17,Barcelona,193,bank transfer
+2023-08-24,New York,639,cryptocurrency
+2023-08-13,Bangkok,2385,voucher
+2023-09-16,Moscow,2007,cash
+2023-02-11,Istanbul,1534,bank transfer
+2023-05-14,Toronto,2265,cryptocurrency
+2023-08-05,Bangkok,4799,cryptocurrency
+2023-10-25,Sydney,1449,debit card
+2023-11-29,Tokyo,146,credit card
+2023-02-06,Tokyo,4843,voucher
+2023-03-26,Moscow,4253,cash
+2023-10-23,Rome,2288,cash
+2023-04-02,Barcelona,1063,voucher
+2023-05-22,Rome,454,voucher
+2023-12-17,Istanbul,2942,credit card
+2023-08-18,Berlin,3102,credit card
+2023-12-12,Cairo,4356,cash
+2023-08-12,Amsterdam,4616,debit card
+2023-05-07,Barcelona,4144,bank transfer
+2023-09-12,Mexico City,2672,bank transfer
+2023-09-28,Toronto,4756,debit card
+2023-06-13,Berlin,4777,voucher
+2023-07-12,Tokyo,3055,cryptocurrency
+2023-01-24,Seoul,2429,credit card
+2023-01-05,Rome,2739,debit card
+2023-03-25,Sydney,222,voucher
+2023-10-20,Berlin,4522,debit card
+2023-06-23,Mumbai,3388,voucher
+2023-04-21,Dubai,3299,cash
+2023-03-01,Moscow,818,credit card
+2023-01-02,Lagos,2891,cash
+2023-11-28,Rome,1706,mobile payment
+2023-01-08,Rome,3526,credit card
+2023-10-31,Paris,3754,debit card
+2023-12-07,São Paulo,3347,mobile payment
+2023-05-14,Tokyo,1895,mobile payment
+2023-01-28,Tokyo,4850,cash
+2023-03-19,Istanbul,4963,cash
+2023-05-29,Bangkok,2393,credit card
+2023-09-25,Berlin,103,bank transfer
+2023-02-26,Seoul,1116,cash
+2023-04-29,Barcelona,2215,bank transfer
+2023-02-01,Paris,1472,cryptocurrency
+2023-07-19,Rome,1536,bank transfer
+2023-08-20,São Paulo,96,voucher
+2023-06-05,New York,4207,mobile payment
+2023-11-26,Mexico City,887,mobile payment
+2023-01-19,London,3423,cryptocurrency
+2023-12-11,Seoul,1739,credit card
+2023-05-30,Tokyo,2447,cash
+2023-07-12,São Paulo,1370,voucher
+2023-01-12,Istanbul,2376,cash
+2023-08-03,Dubai,3533,voucher
+2023-05-24,Moscow,1289,cryptocurrency
+2023-08-05,New York,4393,voucher
+2023-03-18,Lagos,1074,cryptocurrency
+2023-08-13,Cairo,602,credit card
+2023-03-16,Mexico City,1972,debit card
+2023-01-10,Rome,1166,bank transfer
+2023-09-27,Sydney,1247,bank transfer
+2023-07-06,Berlin,2283,cryptocurrency
+2023-10-09,Seoul,104,bank transfer
+2023-01-03,Dubai,3972,cryptocurrency
+2023-05-20,Tokyo,859,credit card
+2023-11-11,Barcelona,966,mobile payment
+2023-12-04,London,4431,cryptocurrency
+2023-04-17,Dubai,2241,cryptocurrency
+2023-05-31,London,841,credit card
+2023-08-12,Lagos,2080,debit card
+2023-09-16,Mumbai,1350,mobile payment
+2023-09-06,Rome,3152,credit card
+2023-10-16,Amsterdam,2230,mobile payment
+2023-03-30,Berlin,4732,bank transfer
+2023-11-19,Mumbai,3088,debit card
+2023-01-03,Toronto,3249,cryptocurrency
+2023-11-17,Cairo,4107,voucher
+2023-12-30,London,2209,debit card
+2023-10-03,Dubai,4790,voucher
+2023-12-15,Moscow,3170,mobile payment
+2023-02-05,Bangkok,4650,credit card
+2023-07-03,Tokyo,2372,cryptocurrency
+2023-01-02,Toronto,1151,voucher
+2023-02-11,Toronto,1717,mobile payment
+2023-07-30,Dubai,1796,cryptocurrency
+2023-05-20,New York,4678,cash
+2023-07-15,Seoul,1152,cash
+2023-10-29,Cairo,2027,cryptocurrency
+2023-09-13,Bangkok,219,debit card
+2023-04-25,Seoul,3518,debit card
+2023-06-06,Barcelona,993,debit card
+2023-01-19,Istanbul,4906,credit card
+2023-11-08,New York,3452,cash
+2023-03-03,Barcelona,1009,cash
+2023-08-10,Moscow,4257,credit card
+2023-10-02,Bangkok,1763,cash
+2023-05-19,Paris,4773,credit card
+2023-08-13,Paris,871,voucher
+2023-05-11,Paris,3239,mobile payment
+2023-09-16,Berlin,2395,bank transfer
+2023-07-24,Lagos,94,cryptocurrency
+2023-10-01,Tokyo,2404,debit card
+2023-06-02,Sydney,4942,debit card
+2023-07-03,Toronto,2025,debit card
+2023-03-25,Tokyo,2367,cash
+2023-10-29,Cairo,4257,voucher
+2023-12-13,Toronto,3187,credit card
+2023-05-01,Sydney,2092,voucher
+2023-03-11,Cairo,3888,bank transfer
+2023-09-22,Istanbul,3401,cryptocurrency
+2023-07-27,Mumbai,1663,voucher
+2023-12-17,Seoul,2890,mobile payment
+2023-07-01,Rome,409,bank transfer
+2023-01-24,Mumbai,4126,voucher
+2023-03-14,Toronto,1795,mobile payment
+2023-06-05,Dubai,3559,credit card
+2023-12-25,Seoul,2288,cash
+2023-09-30,Mexico City,3843,debit card
+2023-07-29,Mumbai,1484,bank transfer
+2023-11-13,Mumbai,2515,voucher
+2023-10-12,Mexico City,1340,mobile payment
+2023-05-17,Barcelona,3777,mobile payment
+2023-10-22,New York,1732,mobile payment
+2023-11-24,Toronto,4682,cash
+2023-01-07,Istanbul,2705,cash
+2023-04-10,Mexico City,4164,bank transfer
+2023-02-03,Tokyo,676,cash
+2023-06-08,Cairo,3713,credit card
+2023-07-06,Bangkok,3687,bank transfer
+2023-07-06,Mumbai,1989,cash
+2023-12-23,Mumbai,2139,debit card
+2023-02-05,Amsterdam,1875,voucher
+2023-12-07,Istanbul,1991,bank transfer
+2023-12-03,London,4140,mobile payment
+2023-12-25,Moscow,4548,debit card
+2023-12-05,Moscow,3750,cryptocurrency
+2023-02-21,Istanbul,3059,debit card
+2023-09-26,Lagos,810,bank transfer
+2023-12-31,Moscow,1924,mobile payment
+2023-05-22,Toronto,4781,debit card
+2023-11-05,Mexico City,3203,credit card
+2023-06-05,Istanbul,2197,cash
+2023-09-13,Mexico City,4991,bank transfer
+2023-04-14,Cairo,4427,mobile payment
+2023-07-22,Tokyo,509,credit card
+2023-12-19,Paris,4336,cryptocurrency
+2023-09-26,Tokyo,3943,cash
+2023-12-14,Paris,82,credit card
+2023-01-14,London,1359,cash
+2023-02-15,Moscow,4807,debit card
+2023-01-09,Dubai,2056,voucher
+2023-09-01,New York,386,bank transfer
+2023-06-24,Amsterdam,867,voucher
+2023-12-02,Cairo,1193,credit card
+2023-01-06,Seoul,1887,cryptocurrency
+2023-04-10,Bangkok,4687,debit card
+2023-01-12,Berlin,867,cash
+2023-04-11,Bangkok,1125,cash
+2023-07-14,Paris,1614,mobile payment
+2023-10-17,Barcelona,385,debit card
+2023-11-06,Seoul,4325,mobile payment
+2023-05-04,Paris,1611,mobile payment
+2023-02-01,Moscow,2045,voucher
+2023-02-09,Sydney,2880,mobile payment
+2023-02-02,Toronto,4768,debit card
+2023-03-31,Lagos,2489,bank transfer
+2023-01-31,Barcelona,1310,voucher
+2023-05-18,New York,1604,voucher
+2023-11-17,Toronto,1596,bank transfer
+2023-05-12,Mexico City,2383,voucher
+2023-10-23,Rome,1804,cash
+2023-10-02,Paris,4410,voucher
+2023-09-09,Cairo,1070,cash
+2023-12-19,Paris,3528,debit card
+2023-03-07,Moscow,2119,bank transfer
+2023-04-30,Lagos,1811,voucher
+2023-01-29,Seoul,384,bank transfer
+2023-05-05,Lagos,3288,credit card
+2023-12-05,Tokyo,1434,cryptocurrency
+2023-01-18,New York,3,bank transfer
+2023-05-21,Seoul,2010,cash
+2023-04-19,London,1523,cash
+2023-08-01,Berlin,1298,mobile payment
+2023-06-23,New York,966,mobile payment
+2023-05-26,Dubai,1566,credit card
+2023-12-16,Toronto,2535,cryptocurrency
+2023-09-15,Paris,2117,cryptocurrency
+2023-12-03,Mexico City,4892,bank transfer
+2023-06-10,Bangkok,2055,credit card
+2023-07-01,Berlin,4756,voucher
+2023-12-23,New York,944,credit card
+2023-11-01,New York,1595,mobile payment
+2023-04-19,Lagos,1204,cash
+2023-07-06,São Paulo,3783,bank transfer
+2023-06-22,Mumbai,3613,credit card
+2023-03-24,Cairo,3803,bank transfer
+2023-05-07,Barcelona,702,bank transfer
+2023-04-10,Istanbul,2310,voucher
+2023-07-07,Mexico City,2928,voucher
+2023-09-05,Tokyo,1183,debit card
+2023-10-21,Barcelona,1384,cash
+2023-01-23,Berlin,3676,bank transfer
+2023-10-18,Bangkok,2652,cash
+2023-07-14,Amsterdam,4538,bank transfer
+2023-01-30,Paris,2997,voucher
+2023-10-26,Sydney,3450,cash
+2023-03-17,Mexico City,2147,credit card
+2023-07-10,Lagos,3552,voucher
+2023-01-23,Toronto,588,cryptocurrency
+2023-03-31,Moscow,3284,voucher
+2023-04-02,São Paulo,3417,debit card
+2023-11-13,Amsterdam,1646,mobile payment
+2023-04-12,London,1744,bank transfer
+2023-06-02,Tokyo,2214,bank transfer
+2023-02-15,Barcelona,525,voucher
+2023-09-06,Lagos,3792,debit card
+2023-04-23,Dubai,608,bank transfer
+2023-10-19,Cairo,4570,voucher
+2023-11-27,Moscow,1636,cryptocurrency
+2023-10-29,Mumbai,4866,cryptocurrency
+2023-08-17,Moscow,1302,voucher
+2023-11-13,Barcelona,3643,voucher
+2023-11-03,Tokyo,881,cryptocurrency
+2023-09-10,Cairo,1688,cash
+2023-06-05,Toronto,979,cryptocurrency
+2023-05-08,Paris,4350,credit card
+2023-09-17,Moscow,2618,voucher
+2023-04-28,Bangkok,2418,cash
+2023-01-02,Sydney,2597,cash
+2023-09-26,Seoul,1897,credit card
+2023-10-16,London,532,credit card
+2023-02-10,Toronto,2777,cryptocurrency
+2023-11-28,Dubai,4009,bank transfer
+2023-02-07,Paris,4578,bank transfer
+2023-12-24,Paris,2917,cash
+2023-02-18,Amsterdam,343,mobile payment
+2023-11-11,Mumbai,1677,credit card
+2023-01-16,Amsterdam,4334,debit card
+2023-12-23,Rome,407,credit card
+2023-05-30,Moscow,220,voucher
+2023-01-15,London,4132,bank transfer
+2023-11-24,Toronto,792,credit card
+2023-11-21,Seoul,2385,mobile payment
+2023-07-21,London,2900,voucher
+2023-02-02,Barcelona,3026,debit card
+2023-05-17,London,1968,mobile payment
+2023-01-28,Dubai,2529,voucher
+2023-06-14,Paris,894,bank transfer
+2023-02-07,São Paulo,4391,cash
+2023-03-10,Berlin,2806,cash
+2023-05-20,Paris,597,debit card
+2023-12-18,Mumbai,3200,voucher
+2023-09-21,London,2172,bank transfer
+2023-10-29,Seoul,3404,cryptocurrency
+2023-12-27,Lagos,3669,credit card
+2023-11-29,Moscow,1986,credit card
+2023-11-15,Barcelona,2816,cash
+2023-03-31,Toronto,139,bank transfer
+2023-07-30,Lagos,3524,cryptocurrency
+2023-08-31,Cairo,1038,credit card
+2023-02-05,Seoul,4529,voucher
+2023-08-30,Toronto,3432,bank transfer
+2023-03-14,Istanbul,1439,bank transfer
+2023-12-29,Toronto,694,debit card
+2023-03-09,Mexico City,375,credit card
+2023-02-27,London,3987,debit card
+2023-03-09,Sydney,3164,mobile payment
+2023-05-03,Berlin,162,bank transfer
+2023-05-26,London,2155,cash
+2023-12-15,Mumbai,3121,cash
+2023-02-07,Mexico City,3140,mobile payment
+2023-06-27,São Paulo,4207,cash
+2023-02-20,Mumbai,3288,cash
+2023-04-30,São Paulo,2472,bank transfer
+2023-04-15,Barcelona,5000,debit card
+2023-12-04,Cairo,2509,voucher
+2023-12-10,Istanbul,1573,credit card
+2023-06-24,Barcelona,357,debit card
+2023-03-17,Istanbul,4091,voucher
+2023-10-21,São Paulo,2816,credit card
+2023-01-24,Moscow,4937,bank transfer
+2023-12-27,Toronto,4364,voucher
+2023-07-04,Tokyo,311,credit card
+2023-11-24,Mumbai,3534,debit card
+2023-03-04,Dubai,2588,mobile payment
+2023-08-15,Cairo,4477,bank transfer
+2023-12-27,Seoul,3133,voucher
+2023-09-15,Lagos,1705,debit card
+2023-12-26,Dubai,1216,cryptocurrency
+2023-12-13,New York,4850,bank transfer
+2023-02-21,Mexico City,2990,debit card
+2023-09-13,Mexico City,1367,mobile payment
+2023-02-11,Paris,105,voucher
+2023-05-20,Lagos,1496,debit card
+2023-06-11,Moscow,2587,cryptocurrency
+2023-02-22,Lagos,742,debit card
+2023-02-13,London,1330,cash
+2023-07-25,Barcelona,3620,voucher
+2023-11-18,London,1108,bank transfer
+2023-12-14,Cairo,2255,voucher
+2023-12-06,New York,4839,cash
+2023-04-13,Tokyo,833,voucher
+2023-10-30,Paris,788,debit card
+2023-03-07,Barcelona,2381,bank transfer
+2023-02-07,Dubai,3978,debit card
+2023-04-09,Seoul,977,credit card
+2023-10-31,Mexico City,4230,credit card
+2023-05-26,Rome,1597,debit card
+2023-08-20,Mumbai,3684,cryptocurrency
+2023-08-26,Barcelona,4519,voucher
+2023-10-04,Seoul,871,voucher
+2023-05-04,Lagos,4267,bank transfer
+2023-05-20,Bangkok,3410,mobile payment
+2023-06-12,Moscow,1537,voucher
+2023-07-22,Istanbul,275,mobile payment
+2023-11-30,Amsterdam,4221,debit card
+2023-09-25,Berlin,4489,cryptocurrency
+2023-02-11,London,4696,credit card
+2023-10-09,Amsterdam,2429,cash
+2023-03-06,Barcelona,496,cash
+2023-09-30,Seoul,1709,cash
+2023-08-12,Toronto,2536,credit card
+2023-01-21,Dubai,2914,cryptocurrency
+2023-04-03,Berlin,2393,voucher
+2023-03-09,Sydney,1387,cash
+2023-07-13,Paris,465,debit card
+2023-06-17,Istanbul,4875,cash
+2023-04-19,Rome,724,bank transfer
+2023-09-16,London,600,cash
+2023-12-25,Cairo,1941,voucher
+2023-10-30,New York,290,bank transfer
+2023-07-30,Cairo,4107,cash
+2023-06-18,São Paulo,155,cash
+2023-03-02,Dubai,3120,bank transfer
+2023-09-16,Lagos,4508,debit card
+2023-09-22,Cairo,2449,bank transfer
+2023-08-02,Moscow,2913,mobile payment
+2023-08-18,Dubai,2601,bank transfer
+2023-04-05,Barcelona,315,voucher
+2023-06-23,Tokyo,3387,cash
+2023-06-25,New York,2631,mobile payment
+2023-02-06,Paris,2150,cash
+2023-06-11,Lagos,1293,debit card
+2023-01-11,Paris,4049,cash
+2023-11-01,Cairo,1028,voucher
+2023-10-02,São Paulo,4436,bank transfer
+2023-07-17,Istanbul,1569,debit card
+2023-12-09,New York,4262,voucher
+2023-03-30,Mexico City,2911,voucher
+2023-07-14,Barcelona,1926,mobile payment
+2023-02-20,Paris,2215,credit card
+2023-04-26,Lagos,1224,cash
+2023-12-21,London,478,bank transfer
+2023-07-14,Cairo,4406,voucher
+2023-12-17,São Paulo,2696,debit card
+2023-02-26,Berlin,4604,cash
+2023-05-29,Barcelona,2365,credit card
+2023-03-26,Bangkok,3528,debit card
+2023-01-10,Cairo,1926,cryptocurrency
+2023-08-02,Seoul,988,cryptocurrency
+2023-03-17,Cairo,2561,mobile payment
+2023-02-08,São Paulo,758,debit card
+2023-05-06,Berlin,974,mobile payment
+2023-10-13,Sydney,4911,cryptocurrency
+2023-09-07,Rome,380,cryptocurrency
+2023-10-14,Mumbai,4041,voucher
+2023-08-19,Seoul,250,voucher
+2023-10-16,Moscow,3962,voucher
+2023-12-24,Amsterdam,3186,debit card
+2023-08-10,New York,1041,credit card
+2023-10-30,Mexico City,2338,debit card
+2023-08-04,Istanbul,1506,mobile payment
+2023-01-03,Barcelona,485,cash
+2023-05-03,Bangkok,1761,mobile payment
+2023-11-11,New York,4237,bank transfer
+2023-09-25,Mumbai,2576,bank transfer
+2023-12-27,Berlin,972,bank transfer
+2023-09-30,Paris,64,cash
+2023-09-15,Seoul,1432,mobile payment
+2023-02-10,Rome,3826,bank transfer
+2023-05-07,Toronto,3546,debit card
+2023-05-31,Moscow,132,bank transfer
+2023-01-05,Amsterdam,110,credit card
+2023-10-11,London,940,cash
+2023-02-16,Mexico City,3127,cash
+2023-12-08,Toronto,1566,mobile payment
+2023-02-21,Moscow,491,bank transfer
+2023-11-26,Amsterdam,3470,debit card
+2023-06-16,Tokyo,1461,credit card
+2023-03-03,São Paulo,2141,bank transfer
+2023-02-08,Berlin,1530,bank transfer
+2023-03-10,Moscow,3413,cash
+2023-08-18,Mumbai,4480,mobile payment
+2023-03-22,Barcelona,2594,cash
+2023-04-01,Mexico City,4700,bank transfer
+2023-05-13,Toronto,2189,voucher
+2023-10-08,Berlin,1938,bank transfer
+2023-12-26,Rome,1895,credit card
+2023-01-07,São Paulo,3056,voucher
+2023-12-06,Lagos,472,cryptocurrency
+2023-06-15,Dubai,3593,cash
+2023-03-02,Barcelona,2522,bank transfer
+2023-01-03,Dubai,2641,voucher
+2023-07-16,Toronto,995,mobile payment
+2023-07-05,Toronto,3669,bank transfer
+2023-08-09,Lagos,311,voucher
+2023-08-27,Toronto,4072,bank transfer
+2023-04-27,Amsterdam,254,mobile payment
+2023-02-13,Cairo,3229,voucher
+2023-04-23,Berlin,3979,bank transfer
+2023-03-14,Bangkok,244,debit card
+2023-05-22,New York,3231,debit card
+2023-05-16,Barcelona,994,cash
+2023-02-16,New York,3019,bank transfer
+2023-06-24,Rome,2249,cash
+2023-12-09,Paris,2012,bank transfer
+2023-07-04,Moscow,4624,bank transfer
+2023-11-19,Barcelona,189,bank transfer
+2023-08-20,Mumbai,4366,cash
+2023-11-08,Seoul,3319,cash
+2023-05-23,Amsterdam,3406,mobile payment
+2023-01-04,Paris,480,voucher
+2023-06-18,Berlin,815,credit card
+2023-09-27,Bangkok,4522,mobile payment
+2023-02-15,Barcelona,3543,mobile payment
+2023-01-28,Berlin,3466,debit card
+2023-03-26,Cairo,1349,mobile payment
+2023-09-28,Toronto,3903,credit card
+2023-08-31,Lagos,2828,cryptocurrency
+2023-09-05,London,376,cash
+2023-06-19,Berlin,1025,cash
+2023-06-12,Moscow,812,cryptocurrency
+2023-04-15,Seoul,4220,voucher
+2023-04-24,São Paulo,179,debit card
+2023-01-26,Mumbai,3065,voucher
+2023-12-01,Bangkok,3301,cryptocurrency
+2023-05-05,Tokyo,2943,voucher
+2023-04-02,Dubai,1144,voucher
+2023-01-23,Amsterdam,3927,bank transfer
+2023-01-01,Sydney,1228,cryptocurrency
+2023-08-31,Sydney,3423,mobile payment
+2023-10-27,Cairo,3138,cash
+2023-11-22,Sydney,341,bank transfer
+2023-06-01,São Paulo,1399,debit card
+2023-04-15,London,1584,bank transfer
+2023-03-14,Bangkok,2180,credit card
+2023-02-17,Cairo,2340,bank transfer
+2023-04-19,London,2141,mobile payment
+2023-03-04,Bangkok,1043,cryptocurrency
+2023-01-28,Lagos,1603,cryptocurrency
+2023-01-27,Lagos,4858,voucher
+2023-07-11,Tokyo,939,mobile payment
+2023-10-28,Lagos,2073,cash
+2023-01-01,Rome,4128,voucher
+2023-12-19,Barcelona,2999,mobile payment
+2023-12-30,Rome,3555,mobile payment
+2023-01-11,New York,598,cryptocurrency
+2023-06-13,Mumbai,328,bank transfer
+2023-07-01,Mumbai,807,mobile payment
+2023-08-01,Bangkok,3763,voucher
+2023-10-06,Berlin,1447,mobile payment
+2023-10-10,Dubai,4649,bank transfer
+2023-01-20,Barcelona,2882,credit card
+2023-01-06,Lagos,1835,voucher
+2023-10-04,Berlin,3443,mobile payment
+2023-01-26,Tokyo,1327,credit card
+2023-11-18,Bangkok,1378,bank transfer
+2023-11-24,Barcelona,2002,debit card
+2023-02-15,Toronto,662,credit card
+2023-08-14,Barcelona,412,mobile payment
+2023-04-05,Bangkok,1740,mobile payment
+2023-12-07,Cairo,2323,mobile payment
+2023-04-20,Tokyo,4830,credit card
+2023-07-09,Rome,1087,voucher
+2023-04-05,Istanbul,2905,cryptocurrency
+2023-08-11,Seoul,3733,mobile payment
+2023-03-04,Seoul,3846,cash
+2023-05-26,Lagos,1105,voucher
+2023-09-20,Berlin,4673,debit card
+2023-08-06,Moscow,4950,mobile payment
+2023-08-22,Mumbai,2060,cryptocurrency
+2023-05-05,Lagos,3960,voucher
+2023-02-24,Tokyo,3489,credit card
+2023-05-10,Barcelona,1327,bank transfer
+2023-05-22,New York,4405,voucher
+2023-06-25,Amsterdam,331,voucher
+2023-04-26,Bangkok,4763,bank transfer
+2023-09-03,Barcelona,1162,cash
+2023-05-21,Amsterdam,4573,bank transfer
+2023-07-11,Amsterdam,4232,bank transfer
+2023-07-02,London,0,mobile payment
+2023-01-28,Berlin,4103,voucher
+2023-06-04,Mumbai,668,bank transfer
+2023-10-21,Tokyo,4154,cryptocurrency
+2023-02-07,London,3718,credit card
+2023-10-23,Amsterdam,2298,debit card
+2023-02-15,Rome,4252,mobile payment
+2023-10-20,Moscow,4552,voucher
+2023-12-22,Rome,163,voucher
+2023-12-10,Cairo,2188,credit card
+2023-07-14,Toronto,911,cash
+2023-02-06,Istanbul,2261,cash
+2023-02-26,Moscow,4392,cash
+2023-07-13,Sydney,4911,voucher
+2023-05-24,Lagos,829,bank transfer
+2023-05-02,Toronto,4874,credit card
+2023-05-26,Moscow,971,mobile payment
+2023-01-15,São Paulo,3385,bank transfer
+2023-05-19,Paris,817,debit card
+2023-01-10,Tokyo,3578,cash
+2023-07-29,Mumbai,340,bank transfer
+2023-07-12,New York,2125,cash
+2023-06-14,Mexico City,1993,voucher
+2023-07-21,Paris,4546,debit card
+2023-10-13,Sydney,2928,voucher
+2023-04-23,São Paulo,3869,credit card
+2023-03-16,Barcelona,4504,cryptocurrency
+2023-03-27,Berlin,3754,credit card
+2023-10-03,Mexico City,657,mobile payment
+2023-04-30,New York,4652,credit card
+2023-02-12,Sydney,2112,mobile payment
+2023-05-08,Rome,2311,bank transfer
+2023-07-14,London,855,cryptocurrency
+2023-02-13,Rome,4390,cash
+2023-03-17,São Paulo,1061,mobile payment
+2023-08-21,Mexico City,4269,mobile payment
+2023-05-03,Mexico City,3161,cash
+2023-11-17,São Paulo,4454,voucher
+2023-12-19,Seoul,349,mobile payment
+2023-07-21,Tokyo,3904,cryptocurrency
+2023-12-30,Bangkok,2977,cash
+2023-10-09,Istanbul,42,credit card
+2023-08-02,Moscow,2012,cryptocurrency
+2023-12-10,Berlin,1454,credit card
+2023-09-08,Tokyo,1829,debit card
+2023-06-17,New York,4717,bank transfer
+2023-06-15,Paris,2409,voucher
+2023-10-17,Dubai,4955,credit card
+2023-08-25,Seoul,1198,voucher
+2023-06-11,Mumbai,3065,cash
+2023-09-11,Toronto,3583,cryptocurrency
+2023-06-01,Sydney,4672,mobile payment
+2023-06-26,Mumbai,2212,voucher
+2023-03-10,Cairo,2030,voucher
+2023-01-09,Mexico City,2058,bank transfer
+2023-06-28,Istanbul,3887,bank transfer
+2023-06-27,Cairo,3113,debit card
+2023-03-15,Toronto,4617,voucher
+2023-08-08,London,4545,cash
+2023-09-12,Cairo,1537,credit card
+2023-05-31,New York,208,bank transfer
+2023-10-28,Bangkok,593,debit card
+2023-08-18,Seoul,4590,bank transfer
+2023-02-07,London,1239,credit card
+2023-01-28,Sydney,3252,cash
+2023-10-03,Tokyo,3424,credit card
+2023-09-18,Bangkok,3273,mobile payment
+2023-07-02,Bangkok,691,debit card
+2023-04-01,Moscow,313,debit card
+2023-06-27,Cairo,541,bank transfer
+2023-04-24,São Paulo,645,mobile payment
+2023-06-23,Rome,71,debit card
+2023-12-24,Mumbai,271,cash
+2023-02-28,Lagos,2025,debit card
+2023-09-26,Seoul,2822,credit card
+2023-04-30,São Paulo,1011,bank transfer
+2023-01-16,Mexico City,3348,cryptocurrency
+2023-09-28,Paris,1083,voucher
+2023-04-07,Cairo,3981,voucher
+2023-12-19,Bangkok,2940,mobile payment
+2023-12-08,Rome,2790,voucher
+2023-02-16,Seoul,2446,debit card
+2023-06-15,Paris,1206,debit card
+2023-10-31,Dubai,4974,credit card
+2023-06-21,Mumbai,3862,cryptocurrency
+2023-06-13,Toronto,2911,cash
+2023-02-19,São Paulo,4930,voucher
+2023-12-17,Moscow,3532,credit card
+2023-11-12,Cairo,2234,voucher
+2023-04-02,Tokyo,2990,cash
+2023-12-18,Tokyo,4079,debit card
+2023-01-07,Berlin,1334,cryptocurrency
+2023-02-21,Tokyo,3214,voucher
+2023-03-03,Mumbai,3860,debit card
+2023-08-11,Paris,1929,mobile payment
+2023-04-30,Tokyo,1998,bank transfer
+2023-11-17,Barcelona,4835,mobile payment
+2023-12-04,Dubai,3629,voucher
+2023-01-28,Amsterdam,849,mobile payment
+2023-02-23,Mumbai,1793,mobile payment
+2023-08-13,Paris,3975,bank transfer
+2023-03-06,São Paulo,823,bank transfer
+2023-07-10,Dubai,3364,voucher
+2023-06-09,London,4160,mobile payment
+2023-12-09,Lagos,3771,cryptocurrency
+2023-02-05,Barcelona,2784,debit card
+2023-06-10,Berlin,1130,debit card
+2023-07-15,Tokyo,1706,voucher
+2023-02-03,Bangkok,304,voucher
+2023-11-13,Moscow,2188,cash
+2023-10-31,Paris,1094,credit card
+2023-10-10,Barcelona,3320,cryptocurrency
+2023-09-05,Sydney,3004,mobile payment
+2023-06-05,New York,4586,debit card
+2023-01-13,Amsterdam,4043,cash
+2023-11-23,Dubai,989,cryptocurrency
+2023-11-27,New York,1336,bank transfer
+2023-07-15,Toronto,1311,mobile payment
+2023-09-22,Barcelona,682,voucher
+2023-10-10,Mumbai,1240,voucher
+2023-06-19,New York,863,cryptocurrency
+2023-11-13,Mumbai,1152,mobile payment
+2023-08-14,Lagos,285,credit card
+2023-10-20,Bangkok,309,voucher
+2023-10-08,Tokyo,4705,credit card
+2023-06-03,Lagos,272,cryptocurrency
+2023-04-10,Lagos,445,cash
+2023-06-18,Seoul,588,cryptocurrency
+2023-07-27,Sydney,2196,debit card
+2023-07-06,São Paulo,2380,cryptocurrency
+2023-05-07,Paris,3721,mobile payment
+2023-06-09,São Paulo,2273,debit card
+2023-11-16,Sydney,1318,mobile payment
+2023-08-18,Bangkok,4201,credit card
+2023-11-21,São Paulo,1571,credit card
+2023-08-12,Toronto,3718,mobile payment
+2023-04-10,Sydney,3591,bank transfer
+2023-04-22,Sydney,1813,credit card
+2023-02-25,Bangkok,413,debit card
+2023-09-28,Mexico City,1237,voucher
+2023-09-12,Berlin,4373,voucher
+2023-07-28,Mexico City,2471,debit card
+2023-08-18,Seoul,1973,mobile payment
+2023-03-29,Rome,4994,mobile payment
+2023-06-12,Moscow,3473,debit card
+2023-06-08,Moscow,640,mobile payment
+2023-07-02,Mexico City,1578,bank transfer
+2023-03-18,Cairo,157,credit card
+2023-12-12,Bangkok,208,cryptocurrency
+2023-08-13,Berlin,149,mobile payment
+2023-11-27,Rome,2050,bank transfer
+2023-07-11,Berlin,2961,cryptocurrency
+2023-03-29,London,2833,mobile payment
+2023-04-22,Berlin,2497,bank transfer
+2023-08-19,Moscow,775,debit card
+2023-09-25,Dubai,4293,cryptocurrency
+2023-06-19,Cairo,3025,voucher
+2023-04-13,Mexico City,2142,cryptocurrency
+2023-11-26,Bangkok,2999,bank transfer
+2023-05-04,Bangkok,4653,debit card
+2023-09-07,Rome,4204,debit card
+2023-01-28,Seoul,3994,cash
+2023-02-21,Sydney,4445,mobile payment
+2023-04-18,Barcelona,319,mobile payment
+2023-11-17,São Paulo,2383,bank transfer
+2023-10-22,New York,3078,debit card
+2023-04-03,Mexico City,2629,mobile payment
+2023-11-09,Dubai,4346,debit card
+2023-05-19,Paris,2532,debit card
+2023-01-25,Tokyo,3986,mobile payment
+2023-09-17,Cairo,3555,bank transfer
+2023-01-29,London,3336,cryptocurrency
+2023-01-11,Lagos,1128,credit card
+2023-01-24,Paris,1782,debit card
+2023-09-15,Mexico City,340,cryptocurrency
+2023-01-22,Moscow,1188,credit card
+2023-08-15,Istanbul,1294,mobile payment
+2023-01-10,Paris,2173,voucher
+2023-03-24,Bangkok,3872,debit card
+2023-04-07,Istanbul,3683,cash
+2023-02-05,Bangkok,3596,credit card
+2023-03-27,Bangkok,4899,cryptocurrency
+2023-02-07,Toronto,3627,cash
+2023-08-07,Lagos,1385,bank transfer
+2023-08-09,Mexico City,3884,credit card
+2023-06-10,Amsterdam,4965,cryptocurrency
+2023-09-02,Moscow,834,mobile payment
+2023-02-26,New York,4619,bank transfer
+2023-02-21,Istanbul,2976,cryptocurrency
+2023-10-13,Amsterdam,780,debit card
+2023-08-31,Moscow,2709,voucher
+2023-12-14,São Paulo,2053,voucher
+2023-10-20,Mexico City,2246,mobile payment
+2023-12-28,Seoul,2831,debit card
+2023-02-06,Toronto,4195,cash
+2023-05-23,Cairo,4682,mobile payment
+2023-04-07,Paris,29,credit card
+2023-09-23,Berlin,4330,cryptocurrency
+2023-09-27,New York,4008,cryptocurrency
+2023-08-23,London,1032,cryptocurrency
+2023-01-06,Mexico City,516,bank transfer
+2023-05-12,Mumbai,1982,bank transfer
+2023-07-25,Rome,2398,debit card
+2023-03-08,Toronto,1755,cryptocurrency
+2023-08-11,Rome,2907,bank transfer
+2023-04-25,Lagos,3739,mobile payment
+2023-09-02,Moscow,2638,cryptocurrency
+2023-04-13,Seoul,1437,cash
+2023-08-20,Lagos,3920,mobile payment
+2023-07-17,London,2625,voucher
+2023-10-10,Istanbul,1779,voucher
+2023-06-30,Barcelona,4163,bank transfer
+2023-12-21,New York,3677,cash
+2023-12-11,Bangkok,39,voucher
+2023-07-05,Istanbul,3436,mobile payment
+2023-07-20,Toronto,3346,voucher
+2023-09-20,São Paulo,2826,debit card
+2023-08-11,Bangkok,2266,credit card
+2023-08-30,Paris,4317,cryptocurrency
+2023-11-04,Tokyo,969,voucher
+2023-10-15,Istanbul,406,cryptocurrency
+2023-05-26,Moscow,2237,cash
+2023-06-10,Moscow,4520,cryptocurrency
+2023-02-25,Amsterdam,2386,voucher
+2023-08-30,Tokyo,2336,cash
+2023-03-10,São Paulo,3413,debit card
+2023-06-22,Rome,4581,bank transfer
+2023-03-22,Cairo,428,mobile payment
+2023-11-07,Bangkok,287,bank transfer
+2023-05-17,Sydney,4762,mobile payment
+2023-06-01,Toronto,1356,cryptocurrency
+2023-12-27,Barcelona,926,cash
+2023-11-08,Cairo,3217,mobile payment
+2023-01-13,Istanbul,879,cash
+2023-03-29,Rome,1958,bank transfer
+2023-01-19,Lagos,1102,debit card
+2023-07-03,Barcelona,4246,debit card
+2023-08-04,Cairo,2719,cash
+2023-10-27,São Paulo,1828,credit card
+2023-02-19,Seoul,1361,cryptocurrency
+2023-05-10,New York,4486,bank transfer
+2023-07-15,Cairo,2252,cryptocurrency
+2023-10-19,Barcelona,865,bank transfer
+2023-02-20,Sydney,1759,bank transfer
+2023-05-22,London,1876,debit card
+2023-07-03,Mexico City,4514,bank transfer
+2023-01-06,Sydney,4610,debit card
+2023-02-13,Mexico City,4610,bank transfer
+2023-10-05,Moscow,1967,debit card
+2023-09-13,Amsterdam,2570,cryptocurrency
+2023-09-25,Sydney,1399,mobile payment
+2023-09-11,Istanbul,3215,cryptocurrency
+2023-05-24,Toronto,2259,debit card
+2023-11-23,Bangkok,929,voucher
+2023-01-25,Istanbul,2519,cryptocurrency
+2023-02-19,Cairo,4488,voucher
+2023-06-13,Moscow,3893,cash
+2023-05-28,Rome,592,debit card
+2023-02-15,Seoul,4822,bank transfer
+2023-04-01,Lagos,1952,debit card
+2023-06-14,Seoul,2720,cash
+2023-02-04,Moscow,1083,mobile payment
+2023-09-20,Seoul,1920,voucher
+2023-09-11,Istanbul,420,cash
+2023-06-07,Paris,1989,cash
+2023-07-23,Berlin,2088,cash
+2023-09-25,Cairo,1125,voucher
+2023-12-06,Istanbul,3284,credit card
+2023-10-29,Lagos,1375,voucher
+2023-05-05,Toronto,3442,bank transfer
+2023-05-04,Moscow,4281,cryptocurrency
+2023-11-15,Amsterdam,4599,credit card
+2023-06-25,Paris,1109,credit card
+2023-03-21,Istanbul,383,mobile payment
+2023-10-24,Mexico City,4318,bank transfer
+2023-07-10,Rome,790,cryptocurrency
+2023-06-03,Lagos,2920,credit card
+2023-04-26,New York,412,mobile payment
+2023-09-13,Paris,1303,cryptocurrency
+2023-10-24,Cairo,440,voucher
+2023-10-12,São Paulo,3297,credit card
+2023-01-01,Sydney,391,voucher
+2023-01-08,Seoul,3626,debit card
+2023-05-30,New York,4745,debit card
+2023-04-18,Tokyo,3528,bank transfer
+2023-06-19,Dubai,4470,cash
+2023-11-25,Paris,501,mobile payment
+2023-12-30,Paris,4466,debit card
+2023-08-20,Istanbul,4670,credit card
+2023-11-20,New York,1815,bank transfer
+2023-04-03,Dubai,1747,cryptocurrency
+2023-11-27,Toronto,4707,bank transfer
+2023-07-26,Toronto,1705,cash
+2023-07-07,Tokyo,1679,mobile payment
+2023-12-29,Bangkok,1121,cash
+2023-03-01,Dubai,1314,cash
+2023-02-05,Moscow,1184,bank transfer
+2023-08-30,New York,1884,cash
+2023-06-29,Lagos,3237,bank transfer
+2023-04-19,Barcelona,604,voucher
+2023-02-01,Berlin,4513,cryptocurrency
+2023-11-30,Toronto,2328,bank transfer
+2023-03-10,Bangkok,1808,debit card
+2023-07-18,Tokyo,4437,bank transfer
+2023-10-28,Istanbul,771,bank transfer
+2023-11-25,Barcelona,4614,credit card
+2023-07-17,Sydney,4679,debit card
+2023-05-22,Barcelona,33,cash
+2023-08-21,Toronto,655,cash
+2023-10-13,Dubai,4276,debit card
+2023-11-09,Amsterdam,1690,voucher
+2023-01-17,Berlin,4916,debit card
+2023-06-14,Istanbul,4211,mobile payment
+2023-04-27,Tokyo,3271,debit card
+2023-08-04,Toronto,1967,mobile payment
+2023-03-19,Berlin,4294,bank transfer
+2023-10-10,Moscow,3812,credit card
+2023-12-05,São Paulo,1639,credit card
+2023-03-21,Barcelona,1255,debit card
+2023-04-21,Barcelona,2943,credit card
+2023-03-24,New York,7,debit card
+2023-04-09,Sydney,3666,credit card
+2023-06-02,São Paulo,4073,mobile payment
+2023-12-16,Sydney,2178,credit card
+2023-02-15,Sydney,2359,cash
+2023-01-05,Amsterdam,915,voucher
+2023-09-04,New York,2380,cash
+2023-05-30,Mumbai,3658,cryptocurrency
+2023-08-23,Cairo,1648,debit card
+2023-01-01,Bangkok,2334,voucher
+2023-02-15,Cairo,3938,debit card
+2023-09-06,Toronto,2298,debit card
+2023-02-24,Paris,4717,bank transfer
+2023-03-19,Paris,2214,bank transfer
+2023-12-15,Moscow,2579,voucher
+2023-04-19,Sydney,2576,cryptocurrency
+2023-03-02,Amsterdam,1647,cash
+2023-10-13,New York,2216,debit card
+2023-05-30,Mumbai,1227,voucher
+2023-05-30,Sydney,4491,mobile payment
+2023-03-14,London,3689,credit card
+2023-09-22,Toronto,4879,bank transfer
+2023-07-07,New York,1968,mobile payment
+2023-04-29,Moscow,1865,cryptocurrency
+2023-03-23,Bangkok,222,debit card
+2023-02-17,Cairo,436,bank transfer
+2023-09-15,Amsterdam,4479,cryptocurrency
+2023-04-12,Bangkok,1882,cryptocurrency
+2023-02-14,Barcelona,4961,credit card
+2023-04-29,Mexico City,464,debit card
+2023-03-16,Dubai,3650,bank transfer
+2023-12-14,Cairo,2327,voucher
+2023-05-26,Bangkok,2454,mobile payment
+2023-11-08,Barcelona,3411,credit card
+2023-10-21,São Paulo,1849,cash
+2023-03-31,Tokyo,3086,voucher
+2023-01-10,Paris,730,debit card
+2023-04-10,Cairo,1572,credit card
+2023-06-30,Moscow,3314,cash
+2023-03-10,London,342,mobile payment
+2023-03-30,São Paulo,3841,bank transfer
+2023-11-01,Mumbai,3289,cash
+2023-05-28,London,4939,bank transfer
+2023-09-16,São Paulo,2395,debit card
+2023-03-13,Lagos,4818,debit card
+2023-01-06,Rome,3388,voucher
+2023-11-25,Rome,2081,cryptocurrency
+2023-12-11,Lagos,809,bank transfer
+2023-08-18,Dubai,1018,voucher
+2023-12-12,Cairo,1359,voucher
+2023-04-12,Tokyo,2076,bank transfer
+2023-06-11,Bangkok,3787,cryptocurrency
+2023-11-02,Lagos,3291,voucher
+2023-07-24,Istanbul,311,debit card
+2023-12-16,New York,1584,bank transfer
+2023-10-14,Cairo,2237,voucher
+2023-10-05,Tokyo,1328,voucher
+2023-10-23,Istanbul,306,voucher
+2023-05-27,São Paulo,1619,bank transfer
+2023-02-12,Toronto,2927,credit card
+2023-05-16,Istanbul,759,voucher
+2023-02-26,Seoul,3499,voucher
+2023-06-19,São Paulo,4671,debit card
+2023-04-21,Barcelona,4288,cryptocurrency
+2023-11-06,Toronto,1546,mobile payment
+2023-02-01,Rome,2764,credit card
+2023-04-01,Seoul,3701,cash
+2023-11-04,Tokyo,1534,cash
+2023-02-21,London,3769,voucher
+2023-06-30,Sydney,3252,bank transfer
+2023-03-27,Paris,4061,cryptocurrency
+2023-05-04,Mumbai,4926,credit card
+2023-02-26,New York,3977,cash
+2023-11-09,São Paulo,4265,credit card
+2023-09-04,Seoul,1898,credit card
+2023-03-20,Tokyo,1935,cash
+2023-05-17,New York,4064,cryptocurrency
+2023-12-03,São Paulo,1680,debit card
+2023-03-30,Bangkok,1856,debit card
+2023-09-05,Amsterdam,3449,mobile payment
+2023-04-03,São Paulo,1490,cash
+2023-06-04,Paris,3687,bank transfer
+2023-10-18,Mexico City,2265,mobile payment
+2023-09-15,Sydney,2458,cash
+2023-06-22,Seoul,1192,cryptocurrency
+2023-09-25,Barcelona,1458,credit card
+2023-07-29,Seoul,1967,mobile payment
+2023-01-11,Moscow,4729,mobile payment
+2023-10-16,New York,3021,bank transfer
+2023-09-26,Seoul,3237,mobile payment
+2023-08-16,London,4530,credit card
+2023-02-05,Sydney,4887,voucher
+2023-09-09,Rome,113,debit card
+2023-04-12,Mexico City,2346,cash
+2023-05-18,Paris,728,cash
+2023-09-05,Seoul,2801,mobile payment
+2023-05-28,Dubai,2704,credit card
+2023-01-19,Tokyo,985,cryptocurrency
+2023-12-17,London,1425,debit card
+2023-03-09,Moscow,43,mobile payment
+2023-10-05,Mexico City,2537,cash
+2023-07-19,Dubai,3796,credit card
+2023-07-09,Amsterdam,2483,bank transfer
+2023-02-20,Toronto,3844,voucher
+2023-12-27,São Paulo,688,voucher
+2023-03-03,Lagos,3068,bank transfer
+2023-07-12,Tokyo,1366,voucher
+2023-04-09,Mumbai,181,cash
+2023-06-07,New York,4968,cash
+2023-05-22,Mexico City,4967,cash
+2023-12-30,Seoul,4358,cryptocurrency
+2023-10-02,Toronto,1687,debit card
+2023-02-23,Toronto,693,debit card
+2023-05-18,Amsterdam,2565,credit card
+2023-08-26,Cairo,2530,voucher
+2023-03-21,Rome,1727,cryptocurrency
+2023-09-21,Berlin,2397,voucher
+2023-09-07,Mumbai,2547,cryptocurrency
+2023-02-01,Bangkok,1730,debit card
+2023-02-24,New York,804,bank transfer
+2023-06-18,London,1739,voucher
+2023-03-17,Rome,313,bank transfer
+2023-12-02,Rome,1745,cryptocurrency
+2023-08-22,Dubai,1453,cryptocurrency
+2023-11-23,Barcelona,2364,bank transfer
+2023-01-03,Berlin,3918,bank transfer
+2023-09-09,São Paulo,2902,credit card
+2023-02-03,Berlin,2572,debit card
+2023-06-19,New York,265,voucher
+2023-09-02,Bangkok,2659,mobile payment
+2023-06-07,São Paulo,3308,voucher
+2023-11-02,Seoul,4184,mobile payment
+2023-04-29,Sydney,2241,voucher
+2023-02-20,Tokyo,1814,bank transfer
+2023-03-03,Rome,1935,credit card
+2023-11-22,Istanbul,1244,cash
+2023-05-31,Tokyo,4967,bank transfer
+2023-05-26,Moscow,2038,bank transfer
+2023-09-08,Moscow,1607,credit card
+2023-04-27,Rome,4489,debit card
+2023-03-16,Seoul,4331,credit card
+2023-01-23,New York,123,bank transfer
+2023-11-03,Dubai,2814,bank transfer
+2023-11-02,Paris,2960,credit card
+2023-07-18,Mumbai,4457,debit card
+2023-01-18,Seoul,2044,cash
+2023-01-08,Cairo,317,voucher
+2023-01-30,Seoul,4384,credit card
+2023-06-10,Dubai,743,mobile payment
+2023-02-18,Lagos,3907,cryptocurrency
+2023-12-14,London,3462,cryptocurrency
+2023-08-22,Dubai,2783,credit card
+2023-01-13,New York,2855,credit card
+2023-02-13,Rome,4203,cash
+2023-09-27,Rome,2144,bank transfer
+2023-02-21,Moscow,1984,cash
+2023-10-07,São Paulo,771,cash
+2023-01-20,Bangkok,4894,credit card
+2023-01-16,London,4346,debit card
+2023-06-04,Mumbai,970,cash
+2023-03-23,Berlin,2664,cryptocurrency
+2023-06-27,Tokyo,2853,credit card
+2023-11-12,Tokyo,2934,debit card
+2023-06-13,Mexico City,3320,debit card
+2023-05-04,Lagos,1225,voucher
+2023-06-27,Seoul,2138,voucher
+2023-06-06,Berlin,252,mobile payment
+2023-05-10,London,1157,mobile payment
+2023-11-27,Paris,3106,voucher
+2023-09-19,Lagos,1670,bank transfer
+2023-11-23,Tokyo,1142,credit card
+2023-10-24,Tokyo,245,cryptocurrency
+2023-11-14,Barcelona,1657,voucher
+2023-11-22,Berlin,1696,debit card
+2023-07-31,Tokyo,1073,cash
+2023-06-03,Amsterdam,4318,mobile payment
+2023-08-02,Rome,177,cash
+2023-05-07,Barcelona,1707,cryptocurrency
+2023-03-09,Paris,4168,cryptocurrency
+2023-05-17,São Paulo,4739,bank transfer
+2023-09-02,New York,1555,debit card
+2023-10-23,Cairo,435,debit card
+2023-06-24,New York,2481,cash
+2023-05-23,Istanbul,4123,credit card
+2023-06-12,Mumbai,447,cash
+2023-10-18,Cairo,4241,mobile payment
+2023-04-29,New York,1692,bank transfer
+2023-07-13,New York,2794,credit card
+2023-10-08,Lagos,2132,mobile payment
+2023-04-12,Berlin,4341,debit card
+2023-10-28,Lagos,3481,voucher
+2023-07-25,Rome,2357,debit card
+2023-09-18,Barcelona,3826,voucher
+2023-04-13,Rome,1795,voucher
+2023-01-07,Moscow,3453,voucher
+2023-06-06,Dubai,3528,bank transfer
+2023-07-13,Mumbai,3344,credit card
+2023-03-26,Berlin,92,mobile payment
+2023-04-25,Paris,186,cash
+2023-10-23,Lagos,3278,cash
+2023-12-15,London,3017,voucher
+2023-05-14,Bangkok,2119,debit card
+2023-10-25,Seoul,3561,voucher
+2023-12-14,Cairo,87,cryptocurrency
+2023-07-12,London,4610,cash
+2023-03-26,Barcelona,2450,debit card
+2023-07-07,São Paulo,685,cryptocurrency
+2023-11-28,Mexico City,1750,cash
+2023-10-23,Seoul,1876,debit card
+2023-01-11,Tokyo,1547,cash
+2023-05-31,Seoul,1717,cash
+2023-07-22,Rome,1573,cash
+2023-03-02,Dubai,1047,cash
+2023-12-08,Toronto,2644,cryptocurrency
+2023-09-20,Mumbai,2315,cryptocurrency
+2023-02-01,Cairo,2629,credit card
+2023-04-01,New York,4133,voucher
+2023-03-19,Tokyo,3712,bank transfer
+2023-03-05,Barcelona,990,bank transfer
+2023-08-22,Seoul,3661,debit card
+2023-01-06,New York,3340,credit card
+2023-06-18,Dubai,840,debit card
+2023-07-07,Istanbul,1804,cash
+2023-01-08,Mumbai,4992,cash
+2023-02-15,Dubai,3058,cash
+2023-08-15,Amsterdam,1681,bank transfer
+2023-07-12,Lagos,58,debit card
+2023-08-19,Mexico City,1345,voucher
+2023-10-18,Bangkok,2010,debit card
+2023-08-29,Bangkok,4616,cash
+2023-10-13,Seoul,2802,credit card
+2023-12-10,Berlin,1025,mobile payment
+2023-04-13,Bangkok,1788,cash
+2023-11-29,Sydney,2817,cash
+2023-07-03,Tokyo,789,debit card
+2023-12-09,Seoul,1917,bank transfer
+2023-02-05,Moscow,4302,cryptocurrency
+2023-04-20,Sydney,1791,cash
+2023-10-07,Sydney,3076,cryptocurrency
+2023-11-04,Sydney,1498,voucher
+2023-05-16,Lagos,524,debit card
+2023-10-27,New York,2022,cryptocurrency
+2023-08-19,Amsterdam,3021,bank transfer
+2023-12-09,Lagos,1557,mobile payment
+2023-12-23,Cairo,4443,cash
+2023-06-15,Mexico City,1812,mobile payment
+2023-08-08,Lagos,795,cryptocurrency
+2023-01-01,Berlin,2221,bank transfer
+2023-01-07,Toronto,1653,mobile payment
+2023-06-06,Paris,4435,mobile payment
+2023-08-28,Bangkok,4887,bank transfer
+2023-03-10,Lagos,2651,credit card
+2023-03-11,Cairo,993,mobile payment
+2023-11-05,Dubai,2188,voucher
+2023-09-28,Mexico City,1186,cash
+2023-03-26,Barcelona,1109,cryptocurrency
+2023-11-04,São Paulo,2866,credit card
+2023-11-06,Amsterdam,4009,debit card
+2023-07-04,Berlin,1620,cash
+2023-01-04,Mexico City,4067,credit card
+2023-10-08,Moscow,4161,voucher
+2023-06-07,Berlin,2541,bank transfer
+2023-01-09,Mumbai,3641,bank transfer
+2023-01-11,Moscow,4527,voucher
+2023-04-25,Tokyo,804,bank transfer
+2023-06-24,Mexico City,3903,debit card
+2023-07-17,Bangkok,733,mobile payment
+2023-05-26,Mumbai,2222,voucher
+2023-01-25,Cairo,489,credit card
+2023-02-28,São Paulo,1016,credit card
+2023-02-14,Rome,3228,mobile payment
+2023-03-20,Bangkok,4194,cash
+2023-07-11,Amsterdam,3279,cryptocurrency
+2023-03-24,Sydney,2056,debit card
+2023-08-19,São Paulo,3503,cryptocurrency
+2023-09-15,Tokyo,2904,cryptocurrency
+2023-03-15,Mexico City,1170,bank transfer
+2023-04-11,Berlin,3062,mobile payment
+2023-06-14,Barcelona,3855,mobile payment
+2023-04-04,Lagos,4782,mobile payment
+2023-06-08,Toronto,791,debit card
+2023-04-20,Amsterdam,3334,cash
+2023-08-08,Tokyo,2974,bank transfer
+2023-06-09,Dubai,2199,cryptocurrency
+2023-03-08,São Paulo,597,mobile payment
+2023-07-13,Toronto,3149,cryptocurrency
+2023-11-22,Tokyo,963,bank transfer
+2023-06-01,Amsterdam,2631,mobile payment
+2023-05-12,Rome,2949,cryptocurrency
+2023-03-17,Toronto,2311,cash
+2023-12-26,Barcelona,3701,mobile payment
+2023-06-09,Mexico City,1864,mobile payment
+2023-05-21,Amsterdam,2679,voucher
+2023-10-12,Dubai,3818,debit card
+2023-06-02,Toronto,355,mobile payment
+2023-11-18,Bangkok,3992,mobile payment
+2023-06-09,Istanbul,56,bank transfer
+2023-12-15,Amsterdam,3285,mobile payment
+2023-03-26,Bangkok,4349,cryptocurrency
+2023-08-10,Mexico City,4562,cryptocurrency
+2023-04-07,Cairo,4690,credit card
+2023-04-24,Barcelona,239,cash
+2023-04-08,Tokyo,874,credit card
+2023-05-16,Mumbai,849,mobile payment
+2023-12-11,Seoul,1857,mobile payment
+2023-03-16,Cairo,4550,credit card
+2023-08-03,Berlin,21,voucher
+2023-09-27,São Paulo,4604,debit card
+2023-09-11,Berlin,345,bank transfer
+2023-08-14,London,4641,mobile payment
+2023-12-23,New York,2639,cash
+2023-02-06,Barcelona,3734,debit card
+2023-02-10,Seoul,1305,debit card
+2023-09-18,Seoul,2963,debit card
+2023-07-15,Mexico City,4025,mobile payment
+2023-04-14,Rome,1460,voucher
+2023-05-18,Mumbai,1118,debit card
+2023-03-07,Rome,1939,debit card
+2023-01-16,Sydney,4755,debit card
+2023-10-23,Tokyo,382,mobile payment
+2023-03-04,Seoul,915,debit card
+2023-02-16,Dubai,4088,voucher
+2023-05-18,Sydney,2514,debit card
+2023-08-21,Cairo,2435,voucher
+2023-01-26,Tokyo,3227,cryptocurrency
+2023-03-11,Toronto,2756,mobile payment
+2023-08-02,Rome,2275,credit card
+2023-08-11,Paris,2850,mobile payment
+2023-06-07,Toronto,2447,credit card
+2023-05-28,Paris,1821,cash
+2023-11-15,Cairo,1867,bank transfer
+2023-11-01,Seoul,1050,credit card
+2023-09-25,Istanbul,2217,bank transfer
+2023-01-08,Rome,4879,cryptocurrency
+2023-06-09,Lagos,1758,debit card
+2023-12-08,Amsterdam,4336,credit card
+2023-09-15,Lagos,2493,voucher
+2023-05-30,Cairo,2097,cash
+2023-11-09,Toronto,4424,mobile payment
+2023-08-06,Dubai,926,cryptocurrency
+2023-02-06,Berlin,1279,bank transfer
+2023-09-01,Tokyo,4950,voucher
+2023-04-30,São Paulo,685,bank transfer
+2023-08-22,Moscow,920,cryptocurrency
+2023-05-14,Barcelona,1756,cryptocurrency
+2023-12-17,New York,3528,credit card
+2023-09-13,Dubai,985,cryptocurrency
+2023-02-21,Dubai,3284,mobile payment
+2023-11-17,Moscow,2280,voucher
+2023-01-28,Seoul,2393,mobile payment
+2023-09-23,Toronto,2884,voucher
+2023-12-27,Tokyo,786,cash
+2023-12-04,Toronto,3106,mobile payment
+2023-03-17,Bangkok,4032,credit card
+2023-01-25,London,4555,cryptocurrency
+2023-09-30,Istanbul,136,voucher
+2023-10-23,Dubai,2207,debit card
+2023-03-14,Berlin,2097,cash
+2023-01-03,Tokyo,3690,bank transfer
+2023-02-10,Moscow,1807,cryptocurrency
+2023-04-03,Barcelona,3223,debit card
+2023-12-23,Tokyo,1146,debit card
+2023-09-05,Rome,2611,credit card
+2023-10-08,London,2101,cash
+2023-01-21,São Paulo,230,cryptocurrency
+2023-04-27,Bangkok,2419,cryptocurrency
+2023-06-25,Moscow,3607,voucher
+2023-08-26,Toronto,41,debit card
+2023-11-06,São Paulo,46,credit card
+2023-06-29,London,3916,cash
+2023-04-05,Dubai,3227,cryptocurrency
+2023-11-21,Dubai,4745,mobile payment
+2023-10-02,Mumbai,3309,credit card
+2023-12-09,Rome,173,voucher
+2023-10-26,Seoul,2782,voucher
+2023-01-07,Moscow,3002,bank transfer
+2023-06-04,Moscow,1214,credit card
+2023-02-27,Barcelona,475,voucher
+2023-07-11,Amsterdam,2784,cash
+2023-12-31,Sydney,148,bank transfer
+2023-02-04,Cairo,3403,credit card
+2023-08-05,New York,2547,mobile payment
+2023-04-30,Rome,2112,voucher
+2023-07-26,London,4853,cryptocurrency
+2023-06-13,Barcelona,251,credit card
+2023-04-03,São Paulo,2128,debit card
+2023-11-07,Lagos,2101,cash
+2023-09-17,Istanbul,1746,cryptocurrency
+2023-11-24,Lagos,790,mobile payment
+2023-11-01,Sydney,2926,voucher
+2023-06-27,Mumbai,2951,credit card
+2023-09-08,Berlin,2718,credit card
+2023-02-24,Bangkok,3984,mobile payment
+2023-05-28,London,4521,credit card
+2023-05-04,Paris,2498,cash
+2023-10-14,Bangkok,418,cash
+2023-04-30,London,3500,voucher
+2023-11-09,Cairo,2431,cash
+2023-03-24,Berlin,4786,mobile payment
+2023-03-12,London,3066,voucher
+2023-08-17,Cairo,2041,debit card
+2023-06-07,Bangkok,2389,debit card
+2023-11-20,London,2096,cryptocurrency
+2023-05-04,London,2690,debit card
+2023-07-26,Sydney,801,cryptocurrency
+2023-11-06,Sydney,1687,bank transfer
+2023-12-08,Tokyo,3840,cryptocurrency
+2023-08-02,Moscow,1051,debit card
+2023-03-13,Seoul,2783,bank transfer
+2023-06-10,Tokyo,1123,cash
+2023-04-17,Bangkok,2099,mobile payment
+2023-07-19,Berlin,2940,cryptocurrency
+2023-04-10,Amsterdam,913,cryptocurrency
+2023-02-23,Lagos,3483,credit card
+2023-01-05,Paris,693,voucher
+2023-07-24,Istanbul,7,mobile payment
+2023-02-19,Lagos,1725,cash
+2023-03-18,Amsterdam,2615,bank transfer
+2023-08-03,São Paulo,3242,cryptocurrency
+2023-06-17,New York,3141,mobile payment
+2023-05-02,Sydney,2196,cryptocurrency
+2023-08-02,Rome,3964,voucher
+2023-05-11,New York,1798,cryptocurrency
+2023-03-26,Seoul,121,mobile payment
+2023-05-18,Moscow,3348,voucher
+2023-05-24,Berlin,3235,cash
+2023-07-18,Toronto,4030,credit card
+2023-04-16,Rome,3806,debit card
+2023-08-03,Toronto,370,debit card
+2023-10-31,Tokyo,1567,cryptocurrency
+2023-10-31,Bangkok,4339,credit card
+2023-03-13,Cairo,4838,debit card
+2023-01-21,New York,2484,debit card
+2023-05-13,Dubai,266,debit card
+2023-01-12,Amsterdam,54,debit card
+2023-11-20,Dubai,2824,debit card
+2023-02-19,Bangkok,2442,mobile payment
+2023-12-17,New York,3905,debit card
+2023-04-02,Bangkok,516,credit card
+2023-05-20,Tokyo,2753,mobile payment
+2023-07-22,London,3041,bank transfer
+2023-06-13,Istanbul,4552,cash
+2023-05-11,Mumbai,3294,bank transfer
+2023-01-28,Barcelona,2072,debit card
+2023-09-12,Moscow,1085,cash
+2023-07-28,Seoul,3581,bank transfer
+2023-10-06,Tokyo,2021,credit card
+2023-10-21,São Paulo,1069,voucher
+2023-08-20,Toronto,319,cash
+2023-05-31,Berlin,1037,credit card
+2023-11-19,Paris,2658,cash
+2023-05-19,Cairo,2211,credit card
+2023-05-05,Paris,2262,debit card
+2023-10-13,Mumbai,428,cryptocurrency
+2023-01-29,Mumbai,3881,voucher
+2023-02-25,São Paulo,4360,credit card
+2023-10-18,Istanbul,283,voucher
+2023-12-28,Barcelona,2915,credit card
+2023-12-25,Cairo,3461,mobile payment
+2023-05-26,Dubai,3866,bank transfer
+2023-08-18,Paris,3799,cash
+2023-05-05,Bangkok,3033,cryptocurrency
+2023-02-18,New York,3907,cryptocurrency
+2023-06-30,Mumbai,1300,credit card
+2023-11-12,Berlin,5000,voucher
+2023-05-15,Paris,4515,debit card
+2023-09-22,Mexico City,2137,mobile payment
+2023-08-26,Istanbul,3948,bank transfer
+2023-09-20,Seoul,4532,credit card
+2023-09-15,Berlin,2060,debit card
+2023-07-01,Rome,2047,bank transfer
+2023-10-18,Rome,2661,cash
+2023-01-10,Rome,591,voucher
+2023-01-07,Tokyo,424,voucher
+2023-07-22,London,2836,credit card
+2023-09-17,Dubai,291,cryptocurrency
+2023-04-20,Berlin,1777,voucher
+2023-07-10,Mexico City,378,voucher
+2023-09-05,Toronto,2154,mobile payment
+2023-12-17,Seoul,3130,debit card
+2023-12-25,Berlin,3416,cash
+2023-04-21,Cairo,4508,debit card
+2023-04-26,Rome,488,credit card
+2023-11-28,Amsterdam,3979,bank transfer
+2023-11-02,Mumbai,3036,cryptocurrency
+2023-02-08,Mexico City,4236,mobile payment
+2023-02-23,London,953,voucher
+2023-07-06,Istanbul,2280,credit card
+2023-11-15,Istanbul,2585,credit card
+2023-04-20,Amsterdam,3686,credit card
+2023-08-12,Sydney,491,debit card
+2023-02-02,São Paulo,2547,mobile payment
+2023-09-09,Moscow,4446,debit card
+2023-12-20,London,4074,credit card
+2023-12-13,Cairo,4375,credit card
+2023-06-06,Mexico City,4066,voucher
+2023-08-27,Amsterdam,1288,debit card
+2023-06-07,Moscow,3883,cash
+2023-08-19,Rome,3725,mobile payment
+2023-11-14,Moscow,2,mobile payment
+2023-08-05,Mexico City,3746,cryptocurrency
+2023-07-14,Toronto,3066,cryptocurrency
+2023-02-18,Lagos,2674,cash
+2023-11-27,Sydney,3496,bank transfer
+2023-11-15,Barcelona,2249,cryptocurrency
+2023-09-21,Berlin,2860,credit card
+2023-03-04,Tokyo,1446,credit card
+2023-02-07,Bangkok,3196,cryptocurrency
+2023-07-14,Berlin,4267,cash
+2023-04-07,Sydney,1577,debit card
+2023-12-20,São Paulo,1569,credit card
+2023-04-07,Berlin,2805,voucher
+2023-04-03,Tokyo,1074,credit card
+2023-02-06,Paris,1476,voucher
+2023-08-05,Berlin,3521,bank transfer
+2023-12-06,Dubai,4838,mobile payment
+2023-08-14,Dubai,717,cryptocurrency
+2023-05-20,Sydney,3809,cash
+2023-09-27,Toronto,1345,bank transfer
+2023-08-22,Toronto,2335,bank transfer
+2023-10-30,São Paulo,720,cash
+2023-03-23,Bangkok,4133,cryptocurrency
+2023-08-04,Amsterdam,2420,credit card
+2023-08-12,Tokyo,3994,cash
+2023-05-12,Mexico City,4282,debit card
+2023-11-15,Istanbul,1750,bank transfer
+2023-03-22,Rome,2158,cash
+2023-01-20,Rome,2528,cryptocurrency
+2023-06-27,São Paulo,4663,mobile payment
+2023-01-03,Lagos,3113,cryptocurrency
+2023-03-10,Rome,4738,voucher
+2023-12-07,Istanbul,4735,credit card
+2023-08-13,London,197,debit card
+2023-11-14,Bangkok,174,credit card
+2023-11-21,Cairo,4076,mobile payment
+2023-03-05,Istanbul,4166,debit card
+2023-08-23,Paris,678,voucher
+2023-02-21,Paris,865,cash
+2023-09-26,Bangkok,1708,credit card
+2023-09-03,São Paulo,1666,bank transfer
+2023-04-19,Cairo,3083,mobile payment
+2023-07-15,São Paulo,4155,mobile payment
+2023-08-16,Sydney,2288,cryptocurrency
+2023-01-11,Bangkok,3879,debit card
+2023-11-02,Toronto,1220,cash
+2023-06-16,Dubai,5,credit card
+2023-10-27,Cairo,2594,credit card
+2023-06-05,Mexico City,3487,credit card
+2023-07-28,Dubai,4238,credit card
+2023-08-11,Tokyo,2723,cryptocurrency
+2023-01-26,Berlin,215,cash
+2023-08-20,New York,2862,cryptocurrency
+2023-08-04,Barcelona,22,mobile payment
+2023-06-29,São Paulo,2229,debit card
+2023-10-30,Bangkok,362,bank transfer
+2023-11-30,Moscow,2734,bank transfer
+2023-10-14,Istanbul,2407,cash
+2023-02-08,Mumbai,2832,cash
+2023-08-14,Amsterdam,1279,voucher
+2023-08-23,Istanbul,2577,voucher
+2023-03-16,Paris,4609,bank transfer
+2023-05-24,Mumbai,4863,mobile payment
+2023-10-26,Barcelona,2489,cash
+2023-12-10,Berlin,253,debit card
+2023-12-12,São Paulo,1319,voucher
+2023-03-12,Berlin,125,cash
+2023-06-18,Seoul,2023,cryptocurrency
+2023-12-08,New York,3501,cash
+2023-10-19,Berlin,3418,cash
+2023-08-27,London,1011,cash
+2023-03-25,Dubai,1069,cryptocurrency
+2023-12-13,London,21,debit card
+2023-02-11,Tokyo,4908,debit card
+2023-12-30,Rome,925,cryptocurrency
+2023-10-22,Istanbul,2513,bank transfer
+2023-05-23,Istanbul,1416,credit card
+2023-03-05,London,522,voucher
+2023-09-22,Mumbai,3967,mobile payment
+2023-07-29,Rome,71,cash
+2023-04-26,Barcelona,2866,credit card
+2023-07-20,Berlin,688,bank transfer
+2023-05-03,Barcelona,3115,cryptocurrency
+2023-06-10,Toronto,940,bank transfer
+2023-03-13,São Paulo,2482,cash
+2023-05-04,Seoul,3979,debit card
+2023-08-26,Toronto,1759,debit card
+2023-02-09,Sydney,4265,mobile payment
+2023-04-26,Paris,2629,mobile payment
+2023-05-24,New York,2743,debit card
+2023-11-24,Mumbai,2821,cash
+2023-04-09,Sydney,1052,cryptocurrency
+2023-11-14,Moscow,3867,debit card
+2023-07-19,Rome,2947,cash
+2023-03-13,Amsterdam,50,cryptocurrency
+2023-03-12,New York,2844,bank transfer
+2023-04-27,Mumbai,1649,debit card
+2023-04-19,New York,4464,cryptocurrency
+2023-03-20,Moscow,1630,debit card
+2023-05-26,Lagos,1838,debit card
+2023-07-27,Istanbul,476,credit card
+2023-06-17,Rome,3173,mobile payment
+2023-11-13,Amsterdam,1661,cryptocurrency
+2023-03-04,Rome,2426,voucher
+2023-04-22,São Paulo,3556,mobile payment
+2023-12-18,Istanbul,903,debit card
+2023-08-28,Seoul,1178,cash
+2023-07-01,Barcelona,4386,cryptocurrency
+2023-02-28,Istanbul,4909,credit card
+2023-07-19,Dubai,1099,cryptocurrency
+2023-11-07,Toronto,3832,debit card
+2023-03-22,Cairo,1501,cryptocurrency
+2023-07-09,Cairo,3186,cash
+2023-03-17,Toronto,1930,voucher
+2023-07-28,Tokyo,3822,cash
+2023-02-10,Sydney,3845,voucher
+2023-01-30,Barcelona,4762,debit card
+2023-11-18,New York,3975,cash
+2023-07-22,Paris,2566,voucher
+2023-07-18,Lagos,4914,bank transfer
+2023-05-17,Mumbai,281,debit card
+2023-06-07,Seoul,625,debit card
+2023-02-11,Tokyo,248,debit card
+2023-04-05,London,1106,debit card
+2023-04-16,Rome,2618,credit card
+2023-01-12,Bangkok,4193,debit card
+2023-02-25,Cairo,238,debit card
+2023-08-27,Paris,1708,cash
+2023-01-20,Seoul,1394,voucher
+2023-03-18,Dubai,1394,credit card
+2023-01-03,Barcelona,1450,voucher
+2023-03-25,Istanbul,1945,bank transfer
+2023-10-22,Istanbul,4221,voucher
+2023-06-11,Toronto,4695,credit card
+2023-10-07,Istanbul,4942,cryptocurrency
+2023-09-28,Tokyo,4808,bank transfer
+2023-05-24,Istanbul,515,cryptocurrency
+2023-04-04,São Paulo,246,voucher
+2023-01-27,Moscow,1581,cryptocurrency
+2023-04-16,Tokyo,4896,voucher
+2023-08-14,London,28,cash
+2023-07-07,Sydney,373,mobile payment
+2023-03-18,Berlin,4013,voucher
+2023-06-05,Seoul,1245,cryptocurrency
+2023-03-28,Dubai,848,voucher
+2023-02-07,London,4821,cash
+2023-11-21,São Paulo,47,cash
+2023-01-20,Sydney,2871,voucher
+2023-06-05,Mumbai,4157,voucher
+2023-01-16,Lagos,2513,bank transfer
+2023-09-15,Paris,2726,bank transfer
+2023-10-30,São Paulo,1687,debit card
+2023-03-21,Amsterdam,4139,credit card
+2023-07-04,Seoul,4100,credit card
+2023-02-10,Barcelona,3072,cryptocurrency
+2023-04-03,Mumbai,3525,bank transfer
+2023-08-14,Cairo,2508,cryptocurrency
+2023-04-22,Barcelona,2494,mobile payment
+2023-07-13,Amsterdam,3783,credit card
+2023-12-26,Berlin,4131,credit card
+2023-02-01,Sydney,3397,cash
+2023-03-05,Mumbai,3411,cash
+2023-01-01,Lagos,2955,voucher
+2023-06-14,Rome,2951,debit card
+2023-04-20,Barcelona,1080,bank transfer
+2023-01-26,Bangkok,4977,voucher
+2023-10-13,Moscow,2128,cash
+2023-05-23,Cairo,3484,cash
+2023-09-18,Cairo,3487,bank transfer
+2023-06-09,Seoul,559,debit card
+2023-02-15,Dubai,3375,bank transfer
+2023-06-02,Dubai,3854,mobile payment
+2023-08-22,Tokyo,2202,cryptocurrency
+2023-02-25,London,1387,mobile payment
+2023-02-05,Bangkok,4986,credit card
+2023-11-24,Amsterdam,1595,cash
+2023-05-27,Berlin,2207,bank transfer
+2023-04-06,Lagos,2878,credit card
+2023-12-22,Lagos,391,voucher
+2023-08-02,Mexico City,991,credit card
+2023-04-15,Mumbai,1821,debit card
+2023-04-18,Paris,3961,cash
+2023-09-24,Mumbai,2255,credit card
+2023-02-20,Berlin,2579,credit card
+2023-06-08,Toronto,4314,mobile payment
+2023-01-31,Barcelona,1889,mobile payment
+2023-04-20,Cairo,2301,credit card
+2023-11-08,Mexico City,285,bank transfer
+2023-05-27,Bangkok,441,cryptocurrency
+2023-01-07,São Paulo,512,mobile payment
+2023-01-15,Mumbai,261,bank transfer
+2023-03-03,Sydney,665,voucher
+2023-11-01,New York,4429,cash
+2023-12-22,Istanbul,352,cash
+2023-11-22,Bangkok,1586,bank transfer
+2023-02-02,Amsterdam,1099,voucher
+2023-10-15,Barcelona,4639,cryptocurrency
+2023-02-19,Dubai,3438,credit card
+2023-09-17,Amsterdam,115,mobile payment
+2023-11-14,New York,4867,cash
+2023-01-26,Sydney,21,credit card
+2023-10-02,Toronto,693,cash
+2023-01-09,Mumbai,4290,cash
+2023-12-19,Mexico City,2096,cash
+2023-04-03,New York,4795,debit card
+2023-05-03,Toronto,2262,cash
+2023-01-30,Sydney,3500,debit card
+2023-05-12,New York,667,cryptocurrency
+2023-06-29,Lagos,762,cash
+2023-06-08,Mumbai,460,credit card
+2023-12-16,London,1361,mobile payment
+2023-06-20,Lagos,1728,debit card
+2023-07-01,Toronto,654,mobile payment
+2023-03-18,São Paulo,822,credit card
+2023-10-06,New York,2701,debit card
+2023-11-05,São Paulo,4155,mobile payment
+2023-08-06,New York,1906,bank transfer
+2023-10-15,Rome,3424,credit card
+2023-11-22,Amsterdam,3700,mobile payment
+2023-01-22,New York,1988,bank transfer
+2023-05-27,Istanbul,1212,cryptocurrency
+2023-12-24,Tokyo,3847,voucher
+2023-09-25,Dubai,2382,voucher
+2023-10-01,Cairo,1951,bank transfer
+2023-06-07,Bangkok,3835,cryptocurrency
+2023-03-21,Rome,1766,debit card
+2023-06-24,Tokyo,3785,mobile payment
+2023-10-21,Mexico City,3976,cash
+2023-03-12,Rome,645,voucher
+2023-12-29,Amsterdam,3873,credit card
+2023-03-27,Tokyo,4252,bank transfer
+2023-03-21,Rome,4350,credit card
+2023-01-30,Mexico City,4067,mobile payment
+2023-07-12,Paris,933,voucher
+2023-11-12,Istanbul,301,cash
+2023-07-13,Lagos,1942,mobile payment
+2023-06-03,Tokyo,2955,mobile payment
+2023-11-01,London,4166,cash
+2023-08-15,Tokyo,4905,voucher
+2023-04-19,Barcelona,1925,bank transfer
+2023-11-06,Seoul,267,credit card
+2023-10-20,Moscow,4012,credit card
+2023-05-04,Seoul,4116,voucher
+2023-01-08,Bangkok,3892,voucher
+2023-03-02,Barcelona,1901,debit card
+2023-04-02,London,4209,mobile payment
+2023-05-26,Toronto,4971,credit card
+2023-09-06,New York,3253,credit card
+2023-11-18,Paris,40,cryptocurrency
+2023-05-12,Cairo,4631,mobile payment
+2023-03-14,Amsterdam,3683,voucher
+2023-05-05,New York,3218,voucher
+2023-11-27,Barcelona,582,cryptocurrency
+2023-09-06,Istanbul,2354,cryptocurrency
+2023-12-07,Cairo,1546,credit card
+2023-06-01,São Paulo,510,cash
+2023-04-10,Amsterdam,1356,credit card
+2023-01-20,Mexico City,2777,bank transfer
+2023-08-11,Cairo,797,cryptocurrency
+2023-03-08,Seoul,2673,cash
+2023-03-01,Berlin,4946,cryptocurrency
+2023-11-30,Dubai,710,bank transfer
+2023-02-25,Berlin,3320,credit card
+2023-09-08,New York,498,mobile payment
+2023-11-06,Moscow,1534,voucher
+2023-04-22,Tokyo,2781,debit card
+2023-02-24,Amsterdam,2417,debit card
+2023-04-01,Mexico City,4696,bank transfer
+2023-09-11,Seoul,2095,bank transfer
+2023-01-02,Istanbul,1214,voucher
+2023-01-15,London,429,cash
+2023-07-20,Seoul,1662,cash
+2023-04-19,Lagos,3111,cash
+2023-09-19,Mexico City,2841,voucher
+2023-05-07,Rome,4677,credit card
+2023-06-23,Berlin,2417,cryptocurrency
+2023-11-30,Cairo,4807,bank transfer
+2023-06-10,Moscow,3445,bank transfer
+2023-07-15,Seoul,3123,cash
+2023-11-19,São Paulo,1331,bank transfer
+2023-10-13,Bangkok,4873,bank transfer
+2023-04-16,Mumbai,4718,voucher
+2023-09-20,Paris,2251,debit card
+2023-08-03,Istanbul,3939,bank transfer
+2023-03-02,São Paulo,690,debit card
+2023-10-10,Rome,4545,cryptocurrency
+2023-08-08,Istanbul,1671,voucher
+2023-01-12,New York,203,credit card
+2023-10-07,Lagos,4065,bank transfer
+2023-07-20,Paris,952,credit card
+2023-01-26,Cairo,1923,cryptocurrency
+2023-09-08,New York,1548,bank transfer
+2023-09-25,Mexico City,476,voucher
+2023-12-31,Mexico City,815,mobile payment
+2023-12-08,Lagos,702,mobile payment
+2023-05-17,Rome,2594,voucher
+2023-06-25,Seoul,1122,voucher
+2023-08-17,Seoul,4274,debit card
+2023-07-17,Dubai,78,cash
+2023-07-21,Cairo,3967,voucher
+2023-05-05,Tokyo,1419,debit card
+2023-10-14,Moscow,161,voucher
+2023-04-02,Lagos,4795,cryptocurrency
+2023-05-25,New York,1476,bank transfer
+2023-11-11,Dubai,1850,debit card
+2023-09-01,Amsterdam,450,cryptocurrency
+2023-01-08,Istanbul,4002,cryptocurrency
+2023-09-19,Lagos,1871,cryptocurrency
+2023-02-04,Dubai,3769,cash
+2023-01-28,Istanbul,687,debit card
+2023-08-04,Istanbul,4017,mobile payment
+2023-09-07,Moscow,1730,cash
+2023-07-25,Amsterdam,798,credit card
+2023-01-18,Tokyo,4338,bank transfer
+2023-07-29,Sydney,3262,cryptocurrency
+2023-03-20,Sydney,2133,cryptocurrency
+2023-05-03,Paris,1688,cryptocurrency
+2023-09-26,São Paulo,1489,credit card
+2023-06-19,Toronto,3716,bank transfer
+2023-06-24,Barcelona,2475,credit card
+2023-10-06,Cairo,1357,debit card
+2023-05-09,Rome,1823,mobile payment
+2023-04-16,Mumbai,3130,cash
+2023-08-18,Berlin,2651,credit card
+2023-04-23,Paris,4062,cryptocurrency
+2023-12-21,Sydney,2189,cash
+2023-12-15,Amsterdam,3513,mobile payment
+2023-06-28,Dubai,315,bank transfer
+2023-07-26,Tokyo,2718,credit card
+2023-02-17,Toronto,4318,voucher
+2023-08-15,Lagos,690,credit card
+2023-04-05,Moscow,2080,mobile payment
+2023-09-14,Paris,3203,voucher
+2023-08-08,Paris,4463,cash
+2023-05-21,Berlin,41,voucher
+2023-07-31,Tokyo,980,voucher
+2023-03-05,Barcelona,4291,debit card
+2023-08-25,Mumbai,599,mobile payment
+2023-08-19,Mumbai,848,cryptocurrency
+2023-06-09,Istanbul,2319,cryptocurrency
+2023-06-27,Toronto,3670,debit card
+2023-03-06,Moscow,944,mobile payment
+2023-01-28,Amsterdam,1654,credit card
+2023-04-16,Mexico City,743,cash
+2023-10-05,Rome,2028,mobile payment
+2023-11-06,New York,2282,mobile payment
+2023-09-02,Tokyo,3254,credit card
+2023-12-21,Seoul,2637,credit card
+2023-10-13,Tokyo,119,cash
+2023-02-26,Mumbai,2934,bank transfer
+2023-07-04,Dubai,1817,cash
+2023-02-12,Paris,1752,voucher
+2023-02-08,Toronto,2486,bank transfer
+2023-05-09,Mexico City,3293,mobile payment
+2023-05-23,Barcelona,432,bank transfer
+2023-01-20,Berlin,2675,cryptocurrency
+2023-06-24,Berlin,3905,cryptocurrency
+2023-10-03,Barcelona,1373,bank transfer
+2023-08-06,Mumbai,515,mobile payment
+2023-07-22,São Paulo,4269,credit card
+2023-02-20,Moscow,4281,credit card
+2023-02-18,New York,3048,cryptocurrency
+2023-08-03,Mumbai,2523,mobile payment
+2023-06-29,Amsterdam,3234,cash
+2023-01-23,Amsterdam,4850,debit card
+2023-11-22,São Paulo,4086,voucher
+2023-11-26,Seoul,349,cryptocurrency
+2023-12-27,Istanbul,4731,bank transfer
+2023-08-12,Tokyo,1947,credit card
+2023-12-25,Lagos,1385,mobile payment
+2023-10-09,Tokyo,416,mobile payment
+2023-09-02,New York,2978,bank transfer
+2023-04-16,Amsterdam,2417,credit card
+2023-02-09,New York,1965,mobile payment
+2023-04-19,Tokyo,2744,cash
+2023-11-10,Moscow,4846,credit card
+2023-04-21,Mexico City,2572,mobile payment
+2023-01-07,Barcelona,4052,debit card
+2023-09-13,Sydney,4068,debit card
+2023-12-09,Rome,1741,mobile payment
+2023-01-05,Moscow,3058,cash
+2023-02-28,Tokyo,2914,debit card
+2023-05-03,Barcelona,3319,credit card
+2023-11-16,Moscow,1544,mobile payment
+2023-07-21,Toronto,1486,bank transfer
+2023-12-02,Cairo,2058,cash
+2023-05-04,Dubai,1995,mobile payment
+2023-01-14,Toronto,4708,cryptocurrency
+2023-01-29,Berlin,3617,debit card
+2023-03-01,Lagos,1046,debit card
+2023-11-22,Cairo,1907,mobile payment
+2023-05-15,London,3599,debit card
+2023-11-03,Sydney,4750,credit card
+2023-12-09,Tokyo,3640,mobile payment
+2023-11-01,Tokyo,4377,cash
+2023-10-14,Cairo,4190,bank transfer
+2023-04-05,Mumbai,3582,bank transfer
+2023-09-08,Lagos,1969,credit card
+2023-11-19,Istanbul,1709,voucher
+2023-11-29,Barcelona,1490,debit card
+2023-01-13,Paris,302,credit card
+2023-03-09,Lagos,3892,voucher
+2023-04-07,Mexico City,3189,voucher
+2023-07-21,Berlin,1949,voucher
+2023-05-26,Tokyo,3589,cryptocurrency
+2023-09-17,Lagos,2769,mobile payment
+2023-08-17,Bangkok,1611,voucher
+2023-03-04,Dubai,4399,cash
+2023-07-27,Barcelona,3152,cash
+2023-04-22,Bangkok,1420,cash
+2023-03-20,Bangkok,4348,debit card
+2023-01-13,Sydney,1816,cash
+2023-10-24,London,2942,bank transfer
+2023-03-15,Cairo,972,cryptocurrency
+2023-02-20,Moscow,269,cryptocurrency
+2023-08-15,Barcelona,2208,voucher
+2023-06-18,Dubai,2396,cryptocurrency
+2023-01-04,Barcelona,3874,cryptocurrency
+2023-11-30,Sydney,3301,bank transfer
+2023-09-28,Cairo,286,credit card
+2023-12-10,Toronto,511,cryptocurrency
+2023-03-06,Bangkok,2436,mobile payment
+2023-02-25,Amsterdam,2741,voucher
+2023-10-08,Amsterdam,3406,credit card
+2023-10-27,Rome,1938,debit card
+2023-08-14,Mexico City,4796,mobile payment
+2023-01-18,Seoul,106,mobile payment
+2023-05-08,Moscow,25,mobile payment
+2023-02-25,Dubai,2080,cryptocurrency
+2023-04-03,Mumbai,1799,debit card
+2023-03-12,Cairo,3986,mobile payment
+2023-01-28,Amsterdam,2362,credit card
+2023-06-07,Paris,3192,cash
+2023-04-08,Paris,4288,credit card
+2023-03-31,Lagos,728,cryptocurrency
+2023-07-12,Rome,4558,bank transfer
+2023-05-16,Cairo,545,cash
+2023-03-04,Paris,1971,mobile payment
+2023-04-11,Cairo,3932,cash
+2023-11-03,Sydney,1615,bank transfer
+2023-04-04,Istanbul,4899,bank transfer
+2023-01-08,Toronto,1816,cryptocurrency
+2023-02-13,Cairo,4517,cryptocurrency
+2023-09-03,Seoul,4827,cryptocurrency
+2023-09-15,São Paulo,380,cryptocurrency
+2023-05-01,Mumbai,169,mobile payment
+2023-12-17,Dubai,3092,bank transfer
+2023-04-18,Toronto,3274,mobile payment
+2023-02-27,Barcelona,1933,cryptocurrency
+2023-05-16,Cairo,2157,credit card
+2023-01-04,Istanbul,4318,debit card
+2023-01-17,São Paulo,1945,voucher
+2023-05-11,Barcelona,449,voucher
+2023-05-06,Moscow,4612,voucher
+2023-03-10,Cairo,2453,mobile payment
+2023-02-18,Barcelona,2375,cryptocurrency
+2023-07-14,Sydney,1030,cryptocurrency
+2023-08-24,Istanbul,905,cryptocurrency
+2023-05-24,New York,3117,debit card
+2023-08-02,Istanbul,1378,credit card
+2023-12-16,Toronto,866,voucher
+2023-04-12,Sydney,2008,cash
+2023-07-11,Toronto,3887,voucher
+2023-07-12,Tokyo,1488,credit card
+2023-03-06,Toronto,2474,cash
+2023-11-23,Dubai,1197,mobile payment
+2023-05-30,Seoul,2559,voucher
+2023-12-22,London,600,mobile payment
+2023-08-13,Tokyo,4021,credit card
+2023-11-05,Mumbai,1247,cash
+2023-01-29,Rome,339,debit card
+2023-10-15,Rome,2270,debit card
+2023-02-12,Moscow,1884,cash
+2023-11-17,Lagos,868,cash
+2023-06-20,Tokyo,1560,cryptocurrency
+2023-12-27,Barcelona,1955,cash
+2023-10-09,Berlin,4722,debit card
+2023-01-02,Barcelona,1164,cryptocurrency
+2023-11-28,Rome,4999,credit card
+2023-04-01,São Paulo,3522,debit card
+2023-06-01,São Paulo,2361,debit card
+2023-09-19,Cairo,3376,debit card
+2023-06-01,Lagos,1421,mobile payment
+2023-05-20,Paris,326,voucher
+2023-04-13,New York,2855,bank transfer
+2023-09-10,Moscow,4979,mobile payment
+2023-03-02,Toronto,3421,voucher
+2023-11-19,Bangkok,3077,cryptocurrency
+2023-07-27,Berlin,1144,credit card
+2023-02-16,Barcelona,1388,credit card
+2023-10-10,Sydney,3926,cash
+2023-07-29,Toronto,3093,mobile payment
+2023-08-07,New York,1511,voucher
+2023-03-28,London,3454,cryptocurrency
+2023-11-24,Rome,4999,credit card
+2023-07-27,Bangkok,2822,debit card
+2023-01-07,Dubai,1227,debit card
+2023-08-01,London,786,cryptocurrency
+2023-11-05,Seoul,3644,debit card
+2023-10-29,Bangkok,3848,voucher
+2023-08-03,Amsterdam,717,debit card
+2023-03-15,Mumbai,4502,bank transfer
+2023-08-03,Istanbul,3324,credit card
+2023-09-15,São Paulo,4477,credit card
+2023-01-18,Mumbai,2345,bank transfer
+2023-11-18,Cairo,3422,bank transfer
+2023-03-27,New York,434,voucher
+2023-01-08,Mexico City,4380,voucher
+2023-07-09,Tokyo,2715,bank transfer
+2023-02-08,Dubai,3601,cash
+2023-09-07,Paris,3275,debit card
+2023-09-26,Dubai,2006,bank transfer
+2023-09-27,Istanbul,4909,debit card
+2023-05-31,Bangkok,4307,mobile payment
+2023-12-02,Seoul,3391,debit card
+2023-10-07,New York,4682,cryptocurrency
+2023-10-14,Moscow,159,cryptocurrency
+2023-08-06,Paris,3175,bank transfer
+2023-07-23,London,3875,credit card
+2023-05-25,London,4543,credit card
+2023-05-01,Istanbul,4337,bank transfer
+2023-05-04,Amsterdam,1751,credit card
+2023-09-20,New York,1043,credit card
+2023-03-13,Toronto,1872,bank transfer
+2023-06-12,São Paulo,1012,bank transfer
+2023-04-09,Rome,389,voucher
+2023-08-23,Seoul,4053,credit card
+2023-02-02,São Paulo,1889,cash
+2023-11-07,Paris,3571,voucher
+2023-11-28,Cairo,865,bank transfer
+2023-08-21,Toronto,840,debit card
+2023-02-02,Istanbul,1253,credit card
+2023-09-17,Tokyo,2813,debit card
+2023-01-08,Amsterdam,3908,cryptocurrency
+2023-05-21,Mexico City,3126,debit card
+2023-10-07,Tokyo,1528,cash
+2023-01-06,Tokyo,1445,voucher
+2023-05-09,Istanbul,4208,mobile payment
+2023-08-31,Lagos,755,cash
+2023-10-05,Toronto,2599,cash
+2023-09-02,Istanbul,2221,voucher
+2023-06-07,Amsterdam,2059,cryptocurrency
+2023-06-13,Moscow,4544,bank transfer
+2023-03-16,Tokyo,3882,mobile payment
+2023-03-29,Barcelona,232,cash
+2023-04-10,Dubai,2883,cryptocurrency
+2023-03-01,Moscow,2348,debit card
+2023-02-22,Istanbul,4574,cash
+2023-07-03,Toronto,1680,cash
+2023-04-23,Mumbai,1888,mobile payment
+2023-05-14,Mumbai,1071,credit card
+2023-07-11,Sydney,1015,credit card
+2023-09-13,Berlin,705,cash
+2023-08-24,Paris,2567,cryptocurrency
+2023-10-31,Barcelona,4667,voucher
+2023-04-06,Bangkok,335,mobile payment
+2023-02-11,Moscow,3661,mobile payment
+2023-12-03,Amsterdam,916,debit card
+2023-03-09,Amsterdam,2092,mobile payment
+2023-06-11,Sydney,2270,cash
+2023-01-03,Cairo,2545,bank transfer
+2023-02-11,Toronto,1588,cash
+2023-06-24,Tokyo,705,cryptocurrency
+2023-06-30,Moscow,2695,credit card
+2023-12-27,Amsterdam,1441,bank transfer
+2023-10-26,Seoul,236,bank transfer
+2023-03-12,Berlin,3452,debit card
+2023-11-07,Barcelona,1182,cash
+2023-08-25,Amsterdam,1876,bank transfer
+2023-09-29,Mumbai,4355,bank transfer
+2023-03-28,Toronto,1720,bank transfer
+2023-08-21,Istanbul,817,mobile payment
+2023-03-18,Seoul,3411,cash
+2023-09-10,Toronto,2317,credit card
+2023-09-22,Berlin,2974,mobile payment
+2023-10-29,London,557,credit card
+2023-02-14,Amsterdam,4423,cryptocurrency
+2023-03-09,Bangkok,4256,cryptocurrency
+2023-12-08,Paris,687,cryptocurrency
+2023-03-26,Seoul,2337,bank transfer
+2023-05-10,Mumbai,2420,bank transfer
+2023-08-29,Paris,4738,credit card
+2023-03-19,Tokyo,1428,cryptocurrency
+2023-06-17,Bangkok,1796,cryptocurrency
+2023-12-09,Lagos,4083,credit card
+2023-10-17,Seoul,4457,cash
+2023-10-28,Dubai,138,voucher
+2023-04-24,Istanbul,4431,credit card
+2023-01-22,Rome,2506,debit card
+2023-06-01,London,4542,cash
+2023-12-08,Moscow,3906,credit card
+2023-06-26,Sydney,2345,cryptocurrency
+2023-05-31,Tokyo,2442,credit card
+2023-10-17,Sydney,383,voucher
+2023-02-19,Sydney,4568,credit card
+2023-12-06,Berlin,581,debit card
+2023-07-16,Seoul,4272,debit card
+2023-07-18,Paris,1286,cash
+2023-12-13,London,4921,mobile payment
+2023-01-18,Dubai,2635,credit card
+2023-11-11,Mumbai,4199,cash
+2023-03-27,New York,3509,credit card
+2023-08-14,Istanbul,1706,cash
+2023-07-06,Istanbul,29,cash
+2023-04-03,Cairo,3665,bank transfer
+2023-09-28,London,395,cash
+2023-08-03,Mexico City,3047,debit card
+2023-09-08,New York,473,cryptocurrency
+2023-11-19,Dubai,3987,debit card
+2023-04-16,Seoul,301,voucher
+2023-03-25,Lagos,342,voucher
+2023-05-16,Paris,1705,cash
+2023-03-14,Toronto,1643,debit card
+2023-08-22,Sydney,4106,bank transfer
+2023-05-19,Seoul,4909,mobile payment
+2023-06-13,Moscow,4394,cryptocurrency
+2023-07-05,Mexico City,3203,voucher
+2023-08-12,Lagos,1972,cryptocurrency
+2023-07-10,Sydney,4192,voucher
+2023-10-01,Berlin,556,mobile payment
+2023-03-22,Amsterdam,3691,cryptocurrency
+2023-01-26,São Paulo,1454,mobile payment
+2023-12-03,Cairo,4457,mobile payment
+2023-05-03,Tokyo,3569,bank transfer
+2023-07-04,Amsterdam,2612,cash
+2023-11-26,Amsterdam,155,bank transfer
+2023-01-28,Moscow,3191,cryptocurrency
+2023-04-12,Cairo,337,voucher
+2023-02-06,London,3854,cryptocurrency
+2023-10-16,Amsterdam,2215,cryptocurrency
+2023-12-18,Lagos,4843,cryptocurrency
+2023-01-27,Tokyo,3250,voucher
+2023-05-21,Lagos,683,cash
+2023-01-15,Amsterdam,594,bank transfer
+2023-07-22,Lagos,4612,cash
+2023-04-17,Lagos,297,cryptocurrency
+2023-11-14,Cairo,1192,cryptocurrency
+2023-06-21,New York,246,voucher
+2023-07-09,Seoul,2652,mobile payment
+2023-03-28,Lagos,383,mobile payment
+2023-10-30,Toronto,2928,voucher
+2023-09-04,New York,1174,debit card
+2023-12-18,London,1060,bank transfer
+2023-08-23,Dubai,4793,cash
+2023-06-10,Moscow,304,cash
+2023-01-29,Amsterdam,4446,cryptocurrency
+2023-03-29,Dubai,3559,credit card
+2023-02-16,Berlin,4711,bank transfer
+2023-07-06,Mumbai,2211,debit card
+2023-02-11,Rome,4022,credit card
+2023-04-24,Toronto,1387,bank transfer
+2023-05-13,Barcelona,134,cash
+2023-07-01,Cairo,1833,credit card
+2023-03-01,Sydney,4273,debit card
+2023-05-07,Dubai,2054,debit card
+2023-10-16,Rome,49,voucher
+2023-06-03,Berlin,3563,bank transfer
+2023-06-17,New York,339,bank transfer
+2023-07-04,Lagos,3155,credit card
+2023-12-09,Mexico City,3986,cryptocurrency
+2023-10-25,Cairo,4918,mobile payment
+2023-09-22,Istanbul,3914,debit card
+2023-06-26,Bangkok,2999,credit card
+2023-09-09,Lagos,1931,credit card
+2023-10-26,Moscow,2017,bank transfer
+2023-06-22,Sydney,4111,debit card
+2023-10-17,Lagos,1531,credit card
+2023-02-09,Paris,3651,bank transfer
+2023-10-22,Bangkok,3016,cryptocurrency
+2023-11-27,Barcelona,1280,cryptocurrency
+2023-11-18,Lagos,1736,mobile payment
+2023-02-14,Amsterdam,4815,credit card
+2023-06-29,Seoul,4676,voucher
+2023-12-03,Mexico City,3508,mobile payment
+2023-12-17,Moscow,1126,debit card
+2023-08-22,Mumbai,4302,debit card
+2023-04-13,Paris,2934,mobile payment
+2023-08-15,London,4430,bank transfer
+2023-01-30,Cairo,2598,debit card
+2023-12-08,Moscow,2860,mobile payment
+2023-04-28,São Paulo,590,debit card
+2023-09-29,Moscow,4070,cash
+2023-08-11,Mumbai,1566,mobile payment
+2023-05-15,Cairo,3733,mobile payment
+2023-01-14,Toronto,362,mobile payment
+2023-12-27,Barcelona,3792,cryptocurrency
+2023-07-09,Berlin,4033,cash
+2023-07-11,London,4774,cash
+2023-12-16,Barcelona,4634,bank transfer
+2023-05-13,Moscow,2423,voucher
+2023-12-10,Paris,3957,voucher
+2023-02-13,London,1320,credit card
+2023-02-13,Rome,1722,credit card
+2023-02-05,Mumbai,2468,mobile payment
+2023-02-28,Istanbul,1800,credit card
+2023-12-27,Barcelona,4519,credit card
+2023-02-24,Amsterdam,3303,mobile payment
+2023-04-18,Istanbul,4419,debit card
+2023-10-15,Mumbai,234,mobile payment
+2023-07-08,Berlin,3048,debit card
+2023-05-29,Dubai,540,cryptocurrency
+2023-02-12,Bangkok,528,credit card
+2023-07-03,Barcelona,102,cash
+2023-05-11,Lagos,1756,cash
+2023-04-08,São Paulo,3229,bank transfer
+2023-06-19,New York,4282,cryptocurrency
+2023-03-17,Moscow,1542,cash
+2023-02-16,Istanbul,1780,voucher
+2023-06-16,London,370,bank transfer
+2023-08-17,Dubai,936,voucher
+2023-01-20,New York,4004,voucher
+2023-01-22,Berlin,4216,credit card
+2023-06-27,Moscow,1573,credit card
+2023-04-17,Bangkok,1886,mobile payment
+2023-09-10,Bangkok,272,debit card
+2023-10-28,Dubai,1815,bank transfer
+2023-05-31,Seoul,3594,cryptocurrency
+2023-03-26,Berlin,2679,cryptocurrency
+2023-12-08,Toronto,3884,voucher
+2023-06-26,Cairo,2647,cash
+2023-08-23,Sydney,503,credit card
+2023-05-20,Barcelona,4783,debit card
+2023-10-25,Dubai,2757,credit card
+2023-09-09,Moscow,1871,cryptocurrency
+2023-03-17,Seoul,1046,debit card
+2023-03-27,Berlin,3553,cryptocurrency
+2023-02-28,Seoul,1572,bank transfer
+2023-12-12,Barcelona,4581,cryptocurrency
+2023-07-13,Mexico City,1672,mobile payment
+2023-10-25,São Paulo,1244,mobile payment
+2023-12-28,Dubai,4965,voucher
+2023-02-17,Mexico City,67,bank transfer
+2023-03-13,Mexico City,2610,voucher
+2023-08-01,Mumbai,3386,mobile payment
+2023-07-27,Bangkok,222,voucher
+2023-06-26,Toronto,3998,cash
+2023-08-20,Barcelona,2679,mobile payment
+2023-05-11,Toronto,4450,debit card
+2023-08-28,Bangkok,1044,credit card
+2023-02-21,Paris,1075,cryptocurrency
+2023-08-06,London,292,voucher
+2023-05-05,Moscow,4302,bank transfer
+2023-08-09,New York,3353,cash
+2023-10-26,Barcelona,4977,credit card
+2023-11-25,Paris,4041,cash
+2023-07-21,Berlin,602,debit card
+2023-01-19,Barcelona,3546,bank transfer
+2023-04-25,Sydney,3751,cash
+2023-04-17,Moscow,2038,cash
+2023-12-11,New York,2383,voucher
+2023-12-23,New York,1590,debit card
+2023-10-29,Rome,406,mobile payment
+2023-05-04,Rome,4306,credit card
+2023-09-06,Amsterdam,476,voucher
+2023-12-16,Lagos,1498,voucher
+2023-04-18,New York,1362,mobile payment
+2023-02-26,Barcelona,3180,cash
+2023-01-30,Lagos,1122,mobile payment
+2023-04-15,Seoul,1743,mobile payment
+2023-12-26,Lagos,148,voucher
+2023-09-28,Paris,275,cryptocurrency
+2023-10-17,London,4930,bank transfer
+2023-12-21,Tokyo,915,cash
+2023-05-13,Mexico City,1551,voucher
+2023-12-21,São Paulo,2992,debit card
+2023-12-09,London,792,bank transfer
+2023-07-01,Istanbul,2565,cash
+2023-07-25,Toronto,3127,voucher
+2023-02-25,New York,359,voucher
+2023-12-08,Istanbul,3535,voucher
+2023-08-01,New York,980,mobile payment
+2023-09-18,Tokyo,2546,cash
+2023-06-16,Bangkok,2690,cryptocurrency
+2023-03-26,Paris,523,mobile payment
+2023-10-21,Rome,1309,bank transfer
+2023-06-01,Tokyo,2001,cash
+2023-07-20,Dubai,1562,voucher
+2023-05-27,Berlin,1100,cryptocurrency
+2023-12-18,Mexico City,2607,mobile payment
+2023-02-06,Sydney,4706,voucher
+2023-06-03,Istanbul,1497,bank transfer
+2023-11-25,Rome,3579,credit card
+2023-07-19,Moscow,708,bank transfer
+2023-09-30,Mumbai,44,bank transfer
+2023-11-16,Amsterdam,3995,mobile payment
+2023-01-21,London,4280,voucher
+2023-02-11,Mexico City,2357,cash
+2023-02-09,London,4134,debit card
+2023-01-28,Paris,7,voucher
+2023-12-29,Mexico City,4638,bank transfer
+2023-11-24,Bangkok,997,cash
+2023-03-24,Berlin,1342,debit card
+2023-02-06,Berlin,2841,mobile payment
+2023-11-12,Lagos,3963,voucher
+2023-11-15,Sydney,4940,cryptocurrency
+2023-05-08,Mexico City,4907,credit card
+2023-06-25,Rome,581,voucher
+2023-02-25,Moscow,3051,bank transfer
+2023-07-08,São Paulo,2467,mobile payment
+2023-05-11,Dubai,3777,cryptocurrency
+2023-12-30,Barcelona,1595,bank transfer
+2023-07-02,Berlin,1812,debit card
+2023-08-15,Istanbul,2278,voucher
+2023-07-06,Amsterdam,3975,credit card
+2023-08-20,Mexico City,501,debit card
+2023-11-04,Barcelona,1956,cryptocurrency
+2023-08-29,Toronto,548,voucher
+2023-08-23,Mumbai,1522,cryptocurrency
+2023-04-04,Toronto,4295,credit card
+2023-08-06,Moscow,3472,cash
+2023-01-14,Amsterdam,3091,credit card
+2023-05-02,Lagos,1417,debit card
+2023-06-24,Cairo,2723,voucher
+2023-01-06,Dubai,4164,credit card
+2023-10-21,Paris,2673,mobile payment
+2023-06-22,Seoul,687,bank transfer
+2023-02-25,Berlin,741,voucher
+2023-04-20,Paris,4587,cash
+2023-10-07,London,3155,debit card
+2023-02-06,São Paulo,3553,mobile payment
+2023-01-14,Lagos,700,mobile payment
+2023-06-28,New York,3241,voucher
+2023-04-27,Barcelona,3416,voucher
+2023-12-15,London,893,credit card
+2023-01-08,Toronto,542,bank transfer
+2023-08-17,Dubai,3578,credit card
+2023-12-02,Mumbai,371,voucher
+2023-05-21,Tokyo,2125,credit card
+2023-12-12,Moscow,4401,voucher
+2023-05-08,Seoul,3237,voucher
+2023-07-02,Amsterdam,465,mobile payment
+2023-06-21,Tokyo,2476,cryptocurrency
+2023-05-03,Barcelona,4287,mobile payment
+2023-11-22,Sydney,1915,credit card
+2023-08-17,Rome,3726,credit card
+2023-11-20,New York,1160,cash
+2023-03-12,Mumbai,4601,cryptocurrency
+2023-07-19,New York,1003,cash
+2023-03-03,Mumbai,4930,cash
+2023-09-13,Paris,462,cryptocurrency
+2023-09-06,Mumbai,4426,credit card
+2023-08-07,Paris,905,cryptocurrency
+2023-03-31,Berlin,3237,cryptocurrency
+2023-09-21,Bangkok,2512,debit card
+2023-12-21,Dubai,3703,credit card
+2023-04-02,Barcelona,729,mobile payment
+2023-04-18,Moscow,1192,voucher
+2023-06-14,Amsterdam,4552,debit card
+2023-09-04,Tokyo,4293,cryptocurrency
+2023-05-26,Rome,2983,debit card
+2023-05-17,Tokyo,4175,bank transfer
+2023-08-31,Amsterdam,1899,credit card
+2023-08-23,Seoul,1130,voucher
+2023-03-24,Sydney,2728,cash
+2023-04-24,London,1996,cryptocurrency
+2023-07-22,Seoul,4853,debit card
+2023-10-18,Cairo,4536,voucher
+2023-07-19,Lagos,2581,credit card
+2023-08-23,São Paulo,4077,cash
+2023-03-21,Moscow,2908,cash
+2023-02-28,Paris,2151,voucher
+2023-05-16,Mumbai,378,bank transfer
+2023-03-10,Berlin,4381,debit card
+2023-03-20,São Paulo,1915,bank transfer
+2023-12-08,Istanbul,3060,cash
+2023-05-18,Barcelona,4346,voucher
+2023-03-14,Tokyo,112,cryptocurrency
+2023-08-25,Berlin,386,cryptocurrency
+2023-03-02,Mexico City,3432,credit card
+2023-09-05,Mumbai,1821,voucher
+2023-10-25,Berlin,4742,cryptocurrency
+2023-04-30,Lagos,393,mobile payment
+2023-02-24,London,4229,credit card
+2023-02-20,Berlin,2804,cryptocurrency
+2023-03-11,Istanbul,3575,voucher
+2023-09-03,New York,3492,credit card
+2023-01-02,Seoul,2320,voucher
+2023-05-08,Sydney,3573,cryptocurrency
+2023-11-19,Berlin,2825,cash
+2023-04-08,Toronto,1570,mobile payment
+2023-07-05,Seoul,887,cash
+2023-08-29,Dubai,3455,debit card
+2023-11-05,Mumbai,1825,bank transfer
+2023-09-13,Cairo,1206,bank transfer
+2023-10-11,Berlin,2267,cash
+2023-12-11,Bangkok,4019,cash
+2023-02-04,Mumbai,4355,voucher
+2023-06-28,Barcelona,4873,mobile payment
+2023-01-04,Dubai,3255,cash
+2023-03-26,Rome,4953,debit card
+2023-08-08,Barcelona,1744,debit card
+2023-08-12,Paris,4209,cash
+2023-02-10,Toronto,748,mobile payment
+2023-09-03,Paris,4441,cryptocurrency
+2023-08-30,São Paulo,3340,voucher
+2023-09-24,Barcelona,3776,voucher
+2023-08-26,Istanbul,767,cryptocurrency
+2023-03-13,Toronto,457,cash
+2023-10-14,New York,3891,cryptocurrency
+2023-03-28,Bangkok,107,cryptocurrency
+2023-03-08,Cairo,625,bank transfer
+2023-05-21,São Paulo,65,cash
+2023-11-21,Moscow,2037,mobile payment
+2023-03-24,Barcelona,4478,mobile payment
+2023-08-10,Bangkok,2566,cryptocurrency
+2023-03-10,Seoul,3562,debit card
+2023-11-24,Mumbai,4455,cash
+2023-01-29,Seoul,1906,bank transfer
+2023-12-25,Sydney,1391,voucher
+2023-10-06,São Paulo,862,bank transfer
+2023-08-05,Mumbai,2965,voucher
+2023-03-31,Amsterdam,1857,cash
+2023-10-08,Mexico City,3907,voucher
+2023-08-17,Tokyo,4335,bank transfer
+2023-02-22,Istanbul,3173,credit card
+2023-11-15,New York,4227,debit card
+2023-11-23,Istanbul,346,voucher
+2023-06-28,Toronto,4214,voucher
+2023-07-26,Sydney,2130,cryptocurrency
+2023-12-29,Dubai,2377,credit card
+2023-09-25,Paris,405,credit card
+2023-01-18,Rome,4581,cash
+2023-08-12,Moscow,2919,cryptocurrency
+2023-08-28,Istanbul,2676,bank transfer
+2023-04-17,Amsterdam,2646,bank transfer
+2023-10-01,Seoul,4356,bank transfer
+2023-02-20,New York,3190,voucher
+2023-05-08,Bangkok,2982,bank transfer
+2023-10-20,Mumbai,2123,debit card
+2023-05-29,Sydney,4641,mobile payment
+2023-11-01,Dubai,3702,mobile payment
+2023-12-20,Mumbai,2090,credit card
+2023-03-29,Berlin,3325,credit card
+2023-02-03,Barcelona,2631,cash
+2023-03-02,New York,3110,debit card
+2023-03-07,Dubai,872,cash
+2023-11-28,Paris,460,cash
+2023-12-16,Sydney,1621,mobile payment
+2023-08-21,Barcelona,638,debit card
+2023-05-12,Moscow,1874,credit card
+2023-06-19,Paris,3902,cryptocurrency
+2023-07-18,Barcelona,1187,bank transfer
+2023-06-22,São Paulo,3995,bank transfer
+2023-07-08,Lagos,3885,credit card
+2023-07-05,Paris,200,bank transfer
+2023-06-04,Sydney,560,cash
+2023-03-22,Mumbai,279,debit card
+2023-09-04,Seoul,3961,debit card
+2023-11-14,Amsterdam,1516,bank transfer
+2023-08-11,Mumbai,3037,cryptocurrency
+2023-06-26,Amsterdam,1636,credit card
+2023-04-14,Berlin,2485,mobile payment
+2023-03-09,New York,4621,bank transfer
+2023-09-19,London,3275,credit card
+2023-03-22,Moscow,1899,bank transfer
+2023-01-18,Paris,2495,credit card
+2023-03-23,Lagos,4630,mobile payment
+2023-05-16,Tokyo,1464,bank transfer
+2023-03-05,Paris,1914,debit card
+2023-07-18,Barcelona,3279,cryptocurrency
+2023-03-16,New York,3367,cryptocurrency
+2023-03-24,Lagos,2609,voucher
+2023-06-28,Mexico City,820,bank transfer
+2023-10-10,Barcelona,3044,cryptocurrency
+2023-03-01,Seoul,2111,credit card
+2023-09-12,Lagos,492,bank transfer
+2023-12-09,Seoul,3642,mobile payment
+2023-02-03,Lagos,2592,debit card
+2023-04-21,Moscow,2793,debit card
+2023-02-19,Seoul,2875,credit card
+2023-07-19,Dubai,4150,mobile payment
+2023-12-05,Cairo,2447,cryptocurrency
+2023-12-02,Tokyo,4867,credit card
+2023-05-24,Istanbul,4665,debit card
